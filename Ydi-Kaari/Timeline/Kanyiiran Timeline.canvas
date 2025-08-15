@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"9d4475c41dc4e69c","type":"text","text":"# Era of the Titans","x":3680,"y":68,"width":521,"height":50},
+		{"id":"fff58bb50454a480","type":"text","text":"# Era of Walking Gods","x":4201,"y":68,"width":800,"height":50},
+		{"id":"d97b35eb2a3ff8da","type":"text","text":"","x":4976,"y":168,"width":50,"height":50},
+		{"id":"d844b5e68de39d16","type":"text","text":"# Legend: \n- BD - **Before Departure**\n\tThe years before the day of [[The Departure]]. \"*Emocht na Discessum*\", in the [[Lustrálian]] tongue.\n- SD - **Since Departure**\n\tMarking the time after the departure of the [[Kanirûl Pantheon|Kanirûl]] from Cara-Dön. \"*Discessum au Tráth*\", in the [[Lustrálian]] tongue","x":4520,"y":-240,"width":963,"height":200},
+		{"id":"acd34dcf8e602ceb","type":"text","text":"# Era of Founding","x":5002,"y":68,"width":4858,"height":50},
+		{"id":"6333d1d369ce98ff","type":"text","text":"\n| 189 SD | 1 of the First |\n| ------ | -------------- |\n","x":4083,"y":170,"width":253,"height":50},
+		{"id":"a550680cc97e836f","type":"text","text":"# [[Nashtara]]","x":4020,"y":240,"width":380,"height":50,"color":"#ffd500"},
+		{"id":"502e66a637acd297","type":"text","text":"###### Ascension of [[Aethmi-Istar]]","x":4372,"y":303,"width":268,"height":74,"color":"3"},
+		{"id":"cd88b687680c2a72","type":"text","text":"\n| 15 SD | —   | 47 SD |\n| ----- | --- | ----- |\n","x":5521,"y":168,"width":1220,"height":50,"color":"#8f004c"},
+		{"id":"c1d62f84210a1f5b","type":"text","text":"","x":8410,"y":168,"width":50,"height":50},
+		{"id":"803b474204e13b7c","type":"text","text":"# [[The Thinning]]","x":5883,"y":240,"width":496,"height":50,"color":"6"},
+		{"id":"42751c14ac817de0","type":"text","text":"# [[The Departure]]","x":4718,"y":240,"width":568,"height":50,"color":"#c24400"},
+		{"id":"3b33ee70d83265b2","type":"text","text":"| 290 | 280 | 270 | 260 | 250 | 240 | 230 | 220 | 210 | 200 | 190 | 180 | 170 | 160 | 150 | 140 | 130 | 120 | 110 | 100 | 90  | 80  | 70  | 60  | 50  | 40  | 30  | 20  | 10  | 0   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n","x":3640,"y":118,"width":1402,"height":50},
+		{"id":"0023887bdca86457","type":"text","text":"\n| 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  | 32  | 33  | 34  | 35  | 36  | 37  | 38  | 39  | 40  | 41  | 42  | 43  | 44  | 45  | 46  | 47  | 48  | 49  | 50  | 51  | 52  | 53  | 54  | 55  | 56  | 57  | 58  | 59  | 60  | 61  | 62  | 63  | 64  | 65  | 66  | 67  | 68  | 69  | 70  | 71  | 72  | 73  | 74  | 75  | 76  | 77  | 78  | 79  | 80  | 81  | 82  | 83  | 84  | 85  | 86  | 87  | 88  | 89  | 90  | 91  | 92  | 93  | 94  | 95  | 96  | 97  | 98  | 99  | 100 | 101 | 102 | 103 | 104 | 105 | 106 | 107 | 108 | 109 | 110 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |","x":5002,"y":118,"width":4278,"height":50},
+		{"id":"ed8679f9591bea94","type":"text","text":"","x":4481,"y":168,"width":50,"height":50},
+		{"id":"2e598306aaa8eba2","type":"text","text":"Date unknown","x":3640,"y":168,"width":180,"height":50},
+		{"id":"0a27883146c9fb1a","type":"text","text":"###### [[Idanthi]] Emergence","x":3553,"y":240,"width":350,"height":50,"color":"1"},
+		{"id":"cf10e7870e70f4aa","type":"text","text":"# [[Vólat Church#Schism|Vólat Schism]]","x":8112,"y":240,"width":646,"height":50,"color":"3"}
+	],
+	"edges":[
+		{"id":"de8d76fba49c8a86","fromNode":"502e66a637acd297","fromSide":"top","toNode":"ed8679f9591bea94","toSide":"bottom"},
+		{"id":"51da268e67b30b75","fromNode":"502e66a637acd297","fromSide":"top","toNode":"ed8679f9591bea94","toSide":"bottom"},
+		{"id":"3eaae93086147184","fromNode":"42751c14ac817de0","fromSide":"top","toNode":"d97b35eb2a3ff8da","toSide":"bottom"},
+		{"id":"78e822b0172d4df5","fromNode":"a550680cc97e836f","fromSide":"top","toNode":"6333d1d369ce98ff","toSide":"bottom"},
+		{"id":"3aefb5498fe7eef8","fromNode":"803b474204e13b7c","fromSide":"top","toNode":"cd88b687680c2a72","toSide":"bottom"},
+		{"id":"2d19813dc1787834","fromNode":"cf10e7870e70f4aa","fromSide":"top","toNode":"c1d62f84210a1f5b","toSide":"bottom"},
+		{"id":"049d8b1c6f41a76f","fromNode":"0a27883146c9fb1a","fromSide":"top","toNode":"2e598306aaa8eba2","toSide":"bottom"}
+	]
+}

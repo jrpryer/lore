@@ -1,0 +1,2 @@
+A young [[Drakhaën#Zy'kryn|Zy’kryn Drakhaën]] who awaits [[Shaedriël|her matriarch]]'s call from the Isle of [[Lesser Isles#Subasa|Subasa]].
+Casually aids in the Arcane research of brave UTET faculty that dare approach her lair for the sake of their scholarship.

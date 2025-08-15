@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kanyiirah Moon System</title>
+<style>
+  body{margin:0;padding:0;background:#000;overflow:hidden;font-family:Arial,Helvetica,sans-serif;color:#fff}
+  #info{position:absolute;top:10px;left:10px;background:rgba(0,0,0,.7);padding:10px;border-radius:5px;font-size:14px;z-index:100;line-height:1.35em}
+  #controls{position:absolute;top:10px;right:10px;z-index:100}
+  #upload{position:absolute;bottom:10px;left:10px;z-index:100;color:#fff;background:rgba(0,0,0,.6);padding:6px;border-radius:4px;font-size:12px}
+  button{margin:2px;padding:5px 10px;background:#333;color:#fff;border:none;border-radius:3px;cursor:pointer}
+  button:hover{background:#555}
+</style>
+</head>
+<body>
+<div id="info"><strong>Kanyiirah Moon System</strong><br>Red: Roida (16.8 h orbit)<br>Purple: Valya (83.3 h orbit)<br><span id="timeDisplay">Time: 0.0 h</span></div>
+<div id="controls">
+  <button onclick="togglePause()">Pause/Play</button>
+  <button onclick="resetTime()">Reset</button>
+  <button onclick="changeSpeed()">Speed: <span id="speedDisplay">1×</span></button>
+  <button onclick="toggleAutoCam()">Camera: <span id="camMode">Auto</span></button>
+</div>
+<label id="upload">Land‑map PNG: <input type="file" id="fileInput" accept="image/png"></label>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+/******** GLOBALS ********/
+let scene,camera,renderer,controls;
+let kanyiirah,roida,valya,landOverlay=null;
+let systemTime=0,isPaused=false,timeSpeed=1,speedIdx=1,speeds=[0.5,1,2,5,10];
+let autoCam=true,camRadius=20;
+const infoSpan=document.getElementById('timeDisplay');
+const orbits={}; // key ► metadata
+init();animate();
+
+function init(){
+  scene=new THREE.Scene();scene.background=new THREE.Color(0x000011);
+  camera=new THREE.PerspectiveCamera(25,window.innerWidth/window.innerHeight,0.1,1000);
+  camera.position.set(0,15,camRadius);
+  renderer=new THREE.WebGLRenderer({antialias:true});renderer.setSize(window.innerWidth,window.innerHeight);document.body.appendChild(renderer.domElement);
+  controls=new THREE.OrbitControls(camera,renderer.domElement);controls.enableDamping=true;controls.enabled=false;
+  scene.add(new THREE.AmbientLight(0x404040,0.6));
+  const dir=new THREE.DirectionalLight(0xffffff,0.8);dir.position.set(10,10,5);scene.add(dir);
+
+  createPlanet();
+  // a,e,inc,period,color,opacity,driftRate(rad/h),wobbleAmp(deg),wobbleRate(rad/h)
+  createOrbit('Roida',3.2,0.15,23,16.8,0xA33B42,0.6,0.005,2,0.12);
+  createOrbit('Valya',8.7,0.08, 5,83.28,0xB591E4,0.4,0.002,1,0.06);
+  createMoons();
+
+  window.addEventListener('resize',onResize);
+  document.getElementById('fileInput').addEventListener('change',e=>loadOverlay(e.target.files[0]));
+}
+/******** BODIES ********/
+function createPlanet(){
+  kanyiirah=new THREE.Mesh(new THREE.SphereGeometry(1,64,64),new THREE.MeshLambertMaterial({color:0x4A90E2}));scene.add(kanyiirah);
+}
+function createMoons(){
+  roida=new THREE.Mesh(new THREE.SphereGeometry(0.15,16,16),new THREE.MeshLambertMaterial({color:0xA33B42}));orbits['Roida'].pivot.add(roida);
+  valya=new THREE.Mesh(new THREE.SphereGeometry(0.08,16,16),new THREE.MeshLambertMaterial({color:0xB591E4}));orbits['Valya'].pivot.add(valya);
+}
+/******** ORBIT CREATION ********/
+function createOrbit(key,a,e,incDeg,period,color,opacity,driftRate,wobbleDeg,wobbleRate){
+  const pts=[];for(let i=0;i<=256;i++){const ang=i/256*Math.PI*2;const r=a*(1-e*e)/(1+e*Math.cos(ang));pts.push(new THREE.Vector3(r*Math.cos(ang),0,r*Math.sin(ang)));}
+  const line=new THREE.Line(new THREE.BufferGeometry().setFromPoints(pts),new THREE.LineBasicMaterial({color,transparent:true,opacity}));
+  const pivot=new THREE.Object3D();pivot.rotation.x=THREE.MathUtils.degToRad(incDeg);pivot.add(line);scene.add(pivot);
+  orbits[key]={a,e,period,inc:THREE.MathUtils.degToRad(incDeg),pivot,drift:driftRate,wobbleAmp:THREE.MathUtils.degToRad(wobbleDeg),wobbleRate};
+}
+/******** LAND OVERLAY (drag‑n‑drop) ********/
+function loadOverlay(file){if(!file)return;const r=new FileReader();r.onload=e=>applyOverlay(e.target.result);r.readAsDataURL(file);} 
+function applyOverlay(url){if(landOverlay){kanyiirah.remove(landOverlay.left);kanyiirah.remove(landOverlay.right);}const img=new Image();img.onload=()=>{const S=img.height;const makeTex=o=>{const c=document.createElement('canvas');c.width=S;c.height=S;const ctx=c.getContext('2d');ctx.drawImage(img,o,0,S,S,0,0,S,S);const d=ctx.getImageData(0,0,S,S);const px=d.data;for(let i=0;i<px.length;i+=4){const [r,g,b]=[px[i],px[i+1],px[i+2]];if(b>r&&b>g)px[i+3]=0;else{px[i]=63;px[i+1]=161;px[i+2]=63;px[i+3]=210;}}ctx.putImageData(d,0,0);return new THREE.CanvasTexture(c);} ;const texL=makeTex(0),texR=makeTex(S);const hemiL=new THREE.Mesh(new THREE.SphereGeometry(1.01,64,64,0,Math.PI),new THREE.MeshBasicMaterial({map:texL,transparent:true}));const hemiR=new THREE.Mesh(new THREE.SphereGeometry(1.01,64,64,Math.PI,Math.PI),new THREE.MeshBasicMaterial({map:texR,transparent:true}));kanyiirah.add(hemiL,hemiR);landOverlay={left:hemiL,right:hemiR};};img.src=url;}
+/******** UPDATE LOOP ********/
+function setMoonPos(mesh,o){const M=(systemTime/o.period)*Math.PI*2;const E=M+o.e*Math.sin(M);const v=2*Math.atan2(Math.sqrt(1+o.e)*Math.sin(E/2),Math.sqrt(1-o.e)*Math.cos(E/2));const r=o.a*(1-o.e*Math.cos(E));mesh.position.set(r*Math.cos(v),0,r*Math.sin(v));}
+function updateScene(){setMoonPos(roida,orbits['Roida']);setMoonPos(valya,orbits['Valya']);}
+/******** ANIMATE ********/
+function animate(){requestAnimationFrame(animate);if(!isPaused)systemTime+=0.1*timeSpeed;
+  // orbit drift & wobble
+  for(const k in orbits){const o=orbits[k];o.pivot.rotation.y=systemTime*o.drift; // steady precession
+    o.pivot.rotation.z=o.wobbleAmp*Math.sin(systemTime*o.wobbleRate);} // gentle nodding
+
+  updateScene();
+  autoCam?autoMove():controls.update();
+  infoSpan.textContent=`Time: ${systemTime.toFixed(1)} h`;
+  renderer.render(scene,camera);
+}
+function autoMove(){camera.position.x=Math.cos(systemTime*0.01)*camRadius;camera.position.z=Math.sin(systemTime*0.01)*camRadius;camera.lookAt(0,0,0);}
+/******** UI ********/
+function togglePause(){isPaused=!isPaused;}
+function resetTime(){systemTime=0;}
+function changeSpeed(){speedIdx=(speedIdx+1)%speeds.length;timeSpeed=speeds[speedIdx];document.getElementById('speedDisplay').textContent=timeSpeed+'×';}
+function toggleAutoCam(){autoCam=!autoCam;controls.enabled=!autoCam;document.getElementById('camMode').textContent=autoCam?'Auto':'Manual';}
+function onResize(){camera.aspect=window.innerWidth/window.innerHeight;camera.updateProjectionMatrix();renderer.setSize(window.innerWidth,window.innerHeight);} 
+</script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+The daughters of the Divine Phoenix [[Caelaistra]], the Aurelyn Phoenixes are the inheritors of the sky. They make no home on earth as they never tire or wane from their flight. Only on the rarest of occasions will an Aurelyn descend to the surface of the sphere, and each time it is seen as an omen of favor from the [[Anarûl Pantheon|Anarûl]].
