@@ -1,0 +1,13 @@
+{
+  "accentColor": "#d2b679",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "allAltThemes",
+    "encodedIcons",
+    "encodedFonts",
+    "glitch"
+  ],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Oxygen,Lucida Console",
+  "monospaceFontFamily": "Lucida Console"
+}
