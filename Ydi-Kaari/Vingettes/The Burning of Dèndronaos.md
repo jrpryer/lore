@@ -9,16 +9,16 @@ dates: ~189 BD
 The moments leading up to [[Nashtara]], as told through the eyes of the Echnican Queen [[Lunatas]].
 
 - - -
-Two hours ago, my family murdered God. We killed her in less than a minute. But it still took near an hour for my husband to fully set fire to our royal home. The dark horror within was encased in the tightly sealed tomb with molten glass and resin as the World Tree burned around it.
+Two hours ago, my family murdered God. We killed her in less than a minute. But it still took near an hour for my husband to fully set fire to our royal home. The dark horror we unleashed was encased in the tightly sealed tomb with molten glass and resin as the World Tree burned around it.
 
 Within moments, the air was turned by the choking smog. I barely had to glance toward our former Master of Coin before I felt the rush of air and saw my vision blur as he transported us a kilometer from the ritual grounds. The site of our betrayal was not a place I ever wished to lay eyes on again.
 
 _We nearly think as one. Just as She said we could..._ I thought.
 _I..._ can _sense them, each member of our little group of survivors. They are like fireflies blinking in a dark glade all around me._
 
-I stepped over to my husband's side as we all moved apart and observed the blasphemous sight stretched up before us. Dèndronaos — the seat of power within Greater Echnica and life-giving arboreal home for the Fae Court of Amber Dusk — groaned in protest as its bones of timber caught fully and flames roared up its highest boughs. I glanced around again, taking stock of our number, still unfamiliar with the presence each one was emitting inside my mind's eye.
+I stepped over to my husband's side as we all moved apart and observed the blasphemous sight stretched up before us. Dèndronaos — the seat of power within Greater Echnica and life-giving arboreal home for the Fae Court of Amber Dusk — groaned in protest as its bones of timber caught fully and the flames roared up its highest boughs. I glanced around again, taking stock of our number, still unfamiliar with the presence each one was emitting inside my mind's eye.
 
-At the far end was the blacksmith's daughter, a stout girl — no, woman — of nearly 100 brightSuhns, broad-shouldered but still fair about the face. She had been the one to construct God's prison, a feat she had undertaken quite quickly after the deed was done.
+At the far end was the blacksmith's daughter, a stout girl — no, woman — of nearly 100 brightSuhns, broad-shouldered but still fair about the face. She had been the one to construct the prison that held God's corpse, a feat she had undertaken quite quickly after the deed was done.
 Stood next to her was my husband's most loyal general, a stoic man of cold eyes and strong jaw. I recalled recently having celebrated his 157th brightSuhns with him and his family out on the sprawling terrace of our lake view estate. His brother had made some drunken pass at me, if I recall. 
 
 They would all be dead now, of course.
@@ -27,17 +27,17 @@ In his stern shadow quivered the young seamstress girl of 30 or 40 brightSuhns, 
 
 _She may be a liability. Too young to understand what was just done. And she barely took part in the fight against God. I will have to watch her closely._
 
-My husband, now the ninth High King of Greater Echnica, stood in the center, casting a wide and enveloping silhouette as the flames grew brighter and the bark of Dèndronaos fell in burning chunks from the great tree's limbs. His jaw was set tight and I saw a hazy numbness in his eyes, but he held his head high and kept his breathing steady. I had worried at first that he would not be able to handle the truth of Her form, but it seemed my concerns were unfounded. I threaded my hand into his and felt his grip tighten around mine comfortingly. At 322 brightSuhns, he was nearly middle-aged but had grown only sharper thanks in no small part to his recent Crownmaker trials.
+My husband, now the ninth High King of Greater Echnica, stood in the center, casting a wide and enveloping silhouette as the flames grew brighter and the bark of Dèndronaos fell in burning chunks from the great tree's limbs. His jaw was set tight and I saw a hazy numbness in his eyes, but he held his head high and kept his breathing steady. I had worried at first that he would not be able to handle the truth of Her form, but it seemed my concerns were unfounded. I threaded my hand into his and felt his grip tighten around mine comfortingly. At 322 brightSuhns, he was nearly middle-aged but had grown only sharper in recent Suhns; partaking in his recent Crownmaker trials had played to small part either.
 
-_Good. He_ will _be our anchor. And we will need all strength for what is to come._
+_Good. He_ will _be our anchor. And we will need all our strength for what is to come._
 
 I closed my eyes and looked for the presences again in my mind, willing myself to see the faces of the two remaining figures that stood to my right.
 
-There was... the Master of Coin, of course, dressed in his elegant courtly robes. The glowing Arcane runes of his recent mass teleport were just shrinking from his shoulders as his 250-brightSuhns-aged face wore a thoughtful, almost rueful expression towards the conflagration before us. Always divisive and antagonistic, he had surprised me with his bloodlust and speed during the fight with God. Perhaps it was his natural greed that ignited such malice in his heart at the time, though now it was masked by his smug confidence once again. I noted that, but continued to move my attention to the behemoth at the far end anyway.
+There was... the Master of Coin, of course, dressed in his elegant courtly robes. The glowing Arcane runes of our recent mass teleport were just fading from his shoulders as his 250-brightSuhns-aged face wore a thoughtful, almost rueful expression towards the conflagration before us. Always divisive and antagonistic, he had surprised me with his bloodlust and speed during the fight with God. Perhaps it was his natural greed that ignited such malice in his heart at the time, though now it was masked by his smug confidence once again. I noted that, but continued on, moving my attention to the behemoth at the far end.
 
-This man — in his later 400 brightSuhns' I guessed — was a stranger to me, a visiting lord from one of my husband's southernmost holdings. He had been the one facing down the greatest number of attacks from Lesser Echnica over the past season, holding the Bramble Pathways almost single-handedly against the last three or so incursions, from what I recalled of the scouting reports. Now, he gripped his tall spear and stood like a mountain against the rising heat that, even at this distance, began to touch the air. _Should anything unforeseen happen to my husband... that one may be the wisest alternative to groom for rule in his place._
+This man — in his later 400 brightSuhns' I guessed — was a stranger to me, a visiting lord from one of my husband's southernmost holdings. From what I recalled of the scouting reports, he had been the one facing down the greatest number of attacks from Lesser Echnica over the past season, holding the Bramble Pathways almost single-handedly against the last three or so incursions. Now, he gripped his tall spear and stood like a mountain against the rising heat that, even at this distance, began to touch the air. _Should anything unforeseen happen to my husband... that one may be the wisest alternative to groom for rule in his place._
 
-I myself, kept my eyes closed, willing my vision inward to take an honest look at who I had just become: finally a queen of Greater Ethnica at 504 brightSuhns, sole spouse of the mightiest Court's High King, the last living disciple of the Myst, mother to two lost children of light, daughter of Air and Shadow... and now, betrayer. Godkiller.
+I myself kept my eyes closed, willing my vision inward to take an honest look at who I had just become: finally a queen of Greater Ethnica at 504 brightSuhns, sole spouse to the High King of the mightiest Court, the last living disciple of the Myst, mother to two lost children of light, daughter of Air and Shadow... and now, betrayer. Godkiller.
 
 _The One True Divine. That was what She named me. Strange, even at the very end, I could feel her pressing into my emotions. She was..._ proud _of me. Encouraging. Trusting. How?_
 

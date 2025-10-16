@@ -1,12 +1,24 @@
-Base System: Tales of the Valiant + Valda's Spire of Secrets variant rules  
-Player Bases: D&D 5e 2024 Bastions + Strongholds & Followers  
-Travel: Pointy Hat travel rules (https://www.youtube.com/watch?v=vM18P0WKGFA&t=911s) + ??? ship rules + Hexcrawl
-Navel combat: Captains & Cannons  
-Magic: ToV + source magic mechanics (below)  
-(Deamon Magic?: https://youtu.be/b2v8F0wTfc4?si=MsMUSCXdNvEl36Ti&t=1005)  
-Monsters: ToV (+ToV Monster Vault **Doom**) + Flee Mortals!  
-Player Options: Tome of Heroes + Valda's Spire of Secrets == alternate spellcaster ability scores, aux levels, firearms  
-Other: ToV player Dread  
+# Rules 
+**Base System**: Tales of the Valiant + Valda's Spire of Secrets variant rules
+**Magic**: ToV + source magic mechanics (see below) + ([Daemon Magic](https://youtu.be/b2v8F0wTfc4?si=MsMUSCXdNvEl36Ti&t=1005)?)
+**Player Options**: ToV + Tome of Heroes + Valda's Spire of Secrets == alternate spellcaster ability scores, aux levels, firearms (renaissance), dead-to-rights
+**Monsters**: ToV (+ToV Monster Vault **Doom**) + Flee Mortals!
+**Travel**: [[Hexploration]] (OR the [Pointy Hat travel rules](https://www.youtube.com/watch?v=vM18P0WKGFA&t=911s)) + Book of Blades ship rules
+**Resting**: [[Hexploration#Excursion Resting|Excursion Resting]] 
+**Player Bases**: D&D 5e 2024 Bastions + Strongholds & Followers  
+**Navel combat**: Book of Blades (+Captains & Cannons where needed) 
+**Other**: ToV player Dread 
+
+resource economy: the day matters (long rest)
+- Depleting resources is effectively increasing the difficulty of the game without increasing the difficulty of each individual encounter
+- The stakes are higher, having been taxed from previous encounters
+- Its my job as the GM to make sure there are consequences for trying to cheese long rests. 
+> #GM_tip "Your job is to: ensure the stakes are escalated when appropriate"
+- Play into those natural conflicting motivations of a player: they want to win as easy as possible, but also want to tell a great story with their friends where the stakes are real
+- You want to make that conflict go away: when resting in a danger zone is a tactically bad idea, it aligns things: resting here will make winning harder (ambush) and the stakes still get raised by knowing that and *enjoying* the simulated anxiety
+- Creating urgency also plays into resource economy: by setting a countdown, you make them turn time into another resource that they will want to conserve and not waste on more rests; they may want to rest, but now they have to weigh that against the uncertainty of what is to come and whether or not they are WILLING to risk their rest also being interrupted by an additional encounter
+
+
 
 
 Hexcrawling _might_ be the way to go... "A good hex map contains narratives. As opposed to deciding plot points ahead of time and distilling them into scenes, the story in a hexcrawl writes itself as it occurs." ... "A robust hexcrawl then, serves to create a campaign that 'runs itself'. It is a perpetual motion machine of adventure. The GM does not need to act as illusionist or puppeteer, but rather presents the world and how it reacts to the players’ actions. In this way, the GM meets the players at the table and works with them as they take ownership over the imagined world they share."
@@ -36,21 +48,34 @@ Arcane source: Equation Balancing — spells rely on perfectly balanced formulas
 
 # Plots
 ## Witnesses of the Departure
-[[Entropy|Mykaedra]], the Unmaker and Empress of the [[Muérai|Underworld]], seeks to collect the Infinite fragments of Myst from the [[Kanirûl Pantheon|Kanirûl]]. Her [[Yggrāhkærn#^9c44a6|Titan-spawn]] general Catastrophe is sent, to stir them and destroy what they have built, electing to weaken them before crushing them fully.
+[[Entropy|Mykaedra]], the Unmaker and Empress of the [[Muérai|Underworld]], seeks to collect the Infinite fragments of Myst from the [[Kanirûl Pantheon|Kanirûl]]. Her [[Yggrāhkærn#^9c44a6|Titan-spawn]] general of war Catastrophe is sent, to stir them and destroy what they have built, electing to weaken them before crushing them fully.
 
 The [[Vólat Church]] scrambles to identify this powerful force that is capable of so mortally threatening their [[Kanirûl Pantheon|Kanirûl]] deities. They adopts the theodicy of **the Complex**, an evil born of some true, otherworldly constant that seeks only to destroy the order of civilization. All things that rip and tear so thoroughly as these foes must be commanded by the Complex, for only the most potent force of evil could be capable of posing such a consistent and dangerous threat to the immortal Walking Gods. 
 
-Though it is not the official stance of the Church for fear of sowing discord among the [[Vólat Church|Vólaril]], many bishops also believe the Complex to be aided by the Father [[Entropy|Tevros]], as logicaly, entropy appears to be the ultimate outcome of such chaos and destruction.
+Though it is not the official stance of the Church for fear of sowing discord among the [[Vólat Church|Vólaril]], many bishops also believe the Complex to be aided by the Father [[Entropy|Tevros]], as logically, entropy appears to be the ultimate outcome of such chaos and destruction.
+
+%%
+The binding of [[Borealis]] in the Eternal Maelstrom as an act of betrayal by [[Tympestyr]]? The [[Eternal Maelstrom#Mists|creation of the Mists]] being a cover up instead of a voluntary sacrifice?
+Having the truth slowly discovered many many years later once the Mists lift and other nations are encountered, their histories and religions bringing to light the fact that the gods of Cara-Duhn were/had-been there as well?
+%%
 
 ## Legacy of Cutthroats
 ### Intro
 scene will be a reading of a captain’s log for a high brow merchant vessel, speaking on the ships recent departure from a wealthy Ropheshian port. It would give super basic context to the nations and trade relations, as well as the value of the haul they are bringing to the lesser isle of Trilun. This reading will eventually be interrupted by the Pirate Captain that just boarded the merchant ship and is making the merchant translate the log out loud for a select group of crew to hear. Juxtaposing the scene from the moment the log was written to the present, in the middle of the act of piracy. Fun!
 
+### options
+- Prison cell of the last Pirate King? {Uncharted 4 mission} kicks off the world-spanning {One Piece style} treasure-hunt? Seeking the riches of a buried pirate treasure. The account of the Pirate King's first mate that was imprisoned in a notorious prison known for holding pre-departure n'er-do-wells . High towers holding individual inmates. long, defensible staircases. The crewman left clues behind in said prison cell as an intricate puzzle.
+- A cartographer dr. that is trying to put together an expedition to explore the Evryn wilds and catalog the ancient Idanthi ruins there. Recent run-ins with the Imperial navy and the high bounty on their heads might make such an offer to get out of familiar waters enticing to the captain.
+
+
+
+
+
 ### kernels...
-- A shooter of alcohol mixed with a powerful, industrial grade stimulant from a Tarani chemist.
+- A shooter of alcohol mixed with a powerful, industrial grade stimulant from a Tarahni chemist.
 "You only drink this when things get *very* dire, you hear me? Only when shit hits the rudder."
 
-- Perhaps the [[Carain Empire|Imperial]] tie-in is a stolen, cursed [[Aethmi-Istar#Artifacts|Istarian relic]]?
+- Perhaps the [[Carain Empire|Imperial]] tie-in is a stolen, cursed [[Aethmi-Istar#Artifacts|Istarian relic]]? Or... the sequestering of an old [[GM DUMP#Oracle|Kanirûlian oracle]] back to Delipol? 
 
 - The cursed beings of [[Evryn]] have begun to haunt the coasts of the [[Vólatian Theocracy]] and the western coasts of Duhn in the domains of the [[Erdú]] Gleamwood.
 
@@ -58,7 +83,7 @@ scene will be a reading of a captain’s log for a high brow merchant vessel, sp
 
 - "For the sanctity of these blessed isles, the [[Vólatian Theocracy#Benedictiary|Benedictiary]] hereby authorizes you to PURGE"
 - "For the glory of our mighty Empire, your Tsarina hereby authorizes you to VANQUISH"
-- "As the House-sword of Caergold, the Tarani Dukes have authorized you to BURN"
+- "As the House-sword of Caergold, the Tarahni Dukes have authorized you to BURN"
 
 
 # GM Tips

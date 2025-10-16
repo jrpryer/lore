@@ -4,6 +4,7 @@ tags:
   - Echnica
   - pantheon
   - Echnican
+  - Vólaril
 aliases:
   - Middle Pantheon
   - Kanirûl
@@ -21,7 +22,7 @@ The [[Strix]] people best record [[Nashtara]] as a great disturbance in the cosm
 - **[[Valencia]]** 'The Heartkindler' - Goddess of Love and Beauty
 
   
-Together with the [[Anarûl Pantheon|Anarûl]], the Kanirûl were combined into the overall **Vólaril** {VOH-lah-ril} pantheon as worshiped by the original [[Vólat Church]]. When the church ratified its schism, two sects were defined, called the Vólat-sin and Vólat-rah to better identify their loyalties in regards to the two pantheons.
+Together with the [[Anarûl Pantheon]], the Kanirûl were combined into the overall **Vólaril** {VOH-lah-ril} pantheon as worshiped by the original [[Vólat Church]]. When the church ratified its schism, two sects were defined, called the Vólat-sin and Vólat-rah to better identify their loyalties in regards to the two pantheons.
 
 # From Another Place
 Though each member of the Middle Pantheon carried with them great power, it is known that they all shared a unique heritage and seemed to bear deep emotions towards their previous homeland. Colloquially called the first-world, Greater Echnica was a realm suffused in deep magic and strong emotional energies. It was reflected in the eyes of the walking gods and in their demeanors and mannerisms when they were together.

@@ -6,8 +6,10 @@ Speculative: 427 SD
 
 
 Later in the timeline, there will be a War in Heaven, where the Empyreans of the [[Gilded Order]], led by [[Aethmi-Istar]], will seek to depose [[Life|Liën]] of her divinity and war against the Archons with the Legions divided in their loyalties. The [[Vaal'k|Vaal'kuhrea]] will be called home to aid their father in his holy war, while the most powerful [[Drakhaën|Dragons]] will be sought after by both sides to tempt them into aiding one side or the other -> [[#Daughters Return]]
+Those blessed with the [[Vólat Church|Divine Arts]] (or Divine Protections of the Saints) would also be contacted by messengers of their [[Aethmi-Istar|Holy Aesuhir]] to join him, to which the Archons would respond by tentatively reach out to Zlaaz'ek to recruit her twisted but beautifully inspired [[Daemons#Syraphite|Syraphite]] to bolter their ranks against the Kanyiirans
 
-Perhaps it is the Fate of **Ascended** mortals to take up the mantle of true deities from the fragments of Infinity taken/siphoned/stolen from the [[Family of the Endless|Endless]].
+
+> Perhaps it is the Fate of **Ascended** mortals to take up the mantle of true deities from the fragments of Infinity taken/siphoned/stolen from the [[Family of the Endless|Endless]].
 
 
 This is where we can use the **Mythos** 5e book.

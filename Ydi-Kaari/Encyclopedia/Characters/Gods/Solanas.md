@@ -24,6 +24,7 @@ High King of Greater Echnica and king of the [[Kanirûl Pantheon|Kanirûl]] cou
 
 # Artifacts
 Bands of the Suhns (bracers, Echnican relic of the First World)
+Helion Bow
 # Divine Symbols & Sigils
 Twin blazing Suhns, the eyes of Solanas
 

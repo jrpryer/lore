@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.containsAny("player")
+    order:
+      - file.name
+      - aliases
+      - file.tags
+      - file.links
+      - file.backlinks

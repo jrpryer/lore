@@ -7,5 +7,11 @@ The Kaelitharion - the council chambers where only the [[Kanirûl Pantheon|Kanir
 # Architecture
 Built by the hands of the walking gods themselves, Ech'Yinara drips with sweeping balconies, column-lined corridors, and towering ceilings. Stunning baroque artistry adorns nearly every interior while the exterior is dominated by perfectly smooth domes, convex-carved edges, and thin but vibrant foliage in the gardens. The divine substance [[Malovelium]] is used almost exclusively for the art and decorative installations that fill this campus of the gods.
 
-# The Spellforge
+This temple palace was a grand construction and feat of architectural wonder built by those who knew they were shaping eternity. To right eye, even in ruin, it is a bastion of wealth and the promise of immortal dreams.
+
+# Spellforge
 Hidden beneath The Kaelitharion lies a massive anvil wrought of [[Malovelium]]. This was the workshop of [[Pyronia]], the place where she and [[Tympestyr]] devised their lesser Runes to tame the [[Anarûl Pantheon#Runes|Anarûl Runes]], and where she later forged the [[Runeblades]].
+
+# Library
+The haunt of Lunatas and a favored getaway for Valencia and even Borealis, this beautifully crafted wing of the palace was built with the top floor being level with the surrounding grounds but then sunk down another two stories into the limestone beneath, offering a natural cooling effect to spread throughout the halls. The bookshelves themselves were hewn equally from the wood of the Golden Dawn Wood, an entire forest planted ahead of time by Solanas not long after Nashtara, specifically for the purpose of being gifted to his bride for the holding and preserving of her knowledge, when the time was right
+An enchanted dome built out of thin, translucent sandstone tiles carved from the deepest quarry of the Duhnian desert crowns the top of the chamber, allowing for clear and smooth diffused sunlight to spread evenly throughout the central courtyard. Planted beneath is the heart-tree of the Golden Dawn forest, transplanted here and blessed by Borealis to observe the passing of the seasons without decay.

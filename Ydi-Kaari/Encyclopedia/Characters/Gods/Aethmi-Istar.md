@@ -20,7 +20,7 @@ After he was blessed by the will of Asteria in **120 BD**, Aesuhir ascended to 
 # Family
 Sire to the [[Passions & Apathies|Apathies]] as Aesuhir
 Sire to the [[Vaal'k]] demigods as Aethmi-Istar
-
+Consort of [[Valencia]]
 # Details
 **Divine Classification** Ascended
 **Current Status** Ascended

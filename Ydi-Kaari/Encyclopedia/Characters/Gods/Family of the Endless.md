@@ -14,16 +14,15 @@ Of the Endless,
 
 **Fate**: [[Fate|Asteria]] on Kanyiirah | Avæylith on [[Yggrāhkærn|Olession's Lash]]
 The definition of destiny, reverberation, causality, and foresight. It is the pinnacle of cosmic knowledge and interconnectivity. Without it, the truth of what is certain would be hidden, without any hope of peaking into what can or cannot come to pass. Fate governs the endless potential paths of reality. It's domain expands into the multiverse’s infinite permutations, representing every possible future or choice. Avatars often appear as guides, oracles, tethers, or eyes, presenting mortals with crossroads that define their destinies.
-([[Fate|See more]])
   
 **Entropy**: [[Entropy|Tevros]] on Kanyiirah | Mykaedra on [[Muérai]]
 The presence tied to destruction, withering, descent, submersion, falling, and endless depths. It is the slow spiral down, the force that pulls always deeper. Mykaedra's touch creates unexplainable abysses—bottomless pits, unfathomable ocean trenches, or the deep gnawing sense of loss. Those who encounter it are drawn toward literal or metaphorical descent and loss, eventually succumbing to the nothingness at the bottom, at the end of all things.
 
-**Life**: [[Life|Rhajos]] on Kanyirrah | Liën (Xëkliën), (aka. The Echoing Radiance) within [[Lämmrus]] and the Suhns
-The definition of radiance, interconnection, energy, light, life, and virility. It is the essence of will and volition. Without it, there would be no comprehension of brightness or the contrast that defines shadow. It remains the purest fragment of the harmony at the universal Origin, maintaining the luster of the first tone as it fuels the Suhns.
+**Life**: [[Life|Rhajos]] on Kanyirrah | Liën (Xëkliën), (aka. The Echoing Radiance) within [[Lämmrus]]
+The definition of radiance, interconnection, energy, light, life, and virility. It is the essence of will and volition. Without it, there would be no comprehension of brightness or the contrast that defines shadow. It remains the purest fragment of the harmony at the universal Origin, maintaining the luster of the first tone.
 
 **Darkness**: [[Darkness|Vespera]] on Kanyiirah | Thyrrakos on [[Abythras|Saviurn]]
-The presence of pure control, absence of will, domination, dominion, and subjugation. The siphoning of effort and energy until all is swallowed in darkness. As Thyrrakos, it is a towering figure encased in chains of molten amethyst, their every movement accompanied by the sound of tightening links. Their gaze is piercing, exuding an oppressive aura of command. The Aeon of Dominion thrives on power dynamics, ensuring that only the strongest control the weak.
+The presence of pure control, absence of will, domination, dominion, and subjugation. The siphoning of effort and energy until all is swallowed in darkness. As Thyrrakos, it is a towering figure encased in chains of molten amethyst, their every movement accompanied by the sound of tightening chain-links. Their gaze is piercing, exuding an oppressive aura of command. The Aeon of Dominion thrives on power dynamics, ensuring that only the strongest control the weak.
 
 **Myst**: Unnamed on [[Echni|Syrisi]]
 The mystical embodiment of memory, aether, transmutation, and imagination. She gave substance to the realm of Echnica, cultivating the life Rhajos propagated there and enhancing the minds and lives of all things within her domain. Hers was the most mortal-like, often manifesting in her avatar form to empathize with her charge and experience life alongside them. She was susceptible to many evils this way and eventually was so blinded by this obsession with enhancing the will of others that she could not see the threats she herself had empowered. During the civil war of Greater and Lesser Echnica, she was forcibly robbed of her infinite immortality and sealed within the ashen remnants of the Echnica World Tree, her name and history wiped from memory by her own star pupil, the High Queen [[Lunatas]].

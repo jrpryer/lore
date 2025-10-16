@@ -1,5 +1,5 @@
 
-(ee-dee KAH-ree / ˈiː.di ˈkɑː.riː)
+(ee-deeh KAH-ree / ˈiː.di ˈkɑː.riː)
 
 > [!recite|bg-c-gray] _Ours is a limited understanding of the natural phenomena that makes up the fabric of our reality. We know there are beings we call gods, capable of great feats of magic that have eluded mortalkind, colossal beings of strength and cunning that we barely understand. Yet these facts bring only more questions to bear, and so I pose a new suggestion: for the pursuits of this organization to put aside the histories told to us and seek instead to innovate on our own ability to observe the world we currently live in..._
   

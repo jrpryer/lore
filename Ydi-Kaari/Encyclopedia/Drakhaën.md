@@ -48,7 +48,7 @@ Anílanthë's strongest and foremost champion of the wyrd-bound "An’kryn" Dra
 Languages: [[Draconic]], an adapted form of [[Lustrálian]]
 
 ## Interspecies Relations
-One young Zy'kryn Drakhaën named [[Fyrekka]] managed to follow the [[Aurelyn]] and the trail left by [[Caelaistra]] to descend over the [[Eternal Maelstrom|Mists of Dolos]] and alight upon [[Lesser Isles#Subasa|Subasa Isle]]. Biding her time until the wars of the Thinning were over and the [[University Towards Enlightened Truth|UTET]] was established, she has only recently made her presence known to the faculty of the University.
+One young Zy'kryn Drakhaën named [[Fyrekka]] managed to follow the [[Aurelyn]] and the trail left by [[Caelaistra]] to descend over [[Eternal Maelstrom|the Zhek'ovl]] and alight upon [[Lesser Isles#Subasa|Subasa Isle]]. Biding her time until the wars of the Thinning were over and the [[University Towards Enlightened Truth|UTET]] was established, she has only recently made her presence known to the faculty of the University.
 
 #REVIEW 
 The creation of [[Kobolds]] by the Drakhaën is a hard truth of the race displaying them as victims of cruelty, bound to serve and suffer under their creators. This dynamic introduces a stark contrast between them and the [[Draktharun]] genetic descendants, with the Kobolds possibly seeing the Draktharun as inheritors of power they were denied.

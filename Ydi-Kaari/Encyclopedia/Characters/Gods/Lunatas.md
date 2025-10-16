@@ -29,7 +29,7 @@ High Queen of Greater Echnica and mother of the two [[Moons|Moons of Kanyiirah]
 ![[Lunastas_profile.png|500]]
 
 # Artifacts
-Diadem of the Stars (crown, Echnican relic of the First World)
+Diadem of Stars (crown, Echnican relic of the First World)
 # Divine Symbols & Sigils
 Twin Crescent Moons
 ![[Lunatas_symbol.png]]

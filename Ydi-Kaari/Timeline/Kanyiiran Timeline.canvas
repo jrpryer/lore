@@ -9,7 +9,6 @@
 		{"id":"a550680cc97e836f","type":"text","text":"# [[Nashtara]]","x":4020,"y":240,"width":380,"height":50,"color":"#ffd500"},
 		{"id":"502e66a637acd297","type":"text","text":"###### Ascension of [[Aethmi-Istar]]","x":4372,"y":303,"width":268,"height":74,"color":"3"},
 		{"id":"cd88b687680c2a72","type":"text","text":"\n| 15 SD | —   | 47 SD |\n| ----- | --- | ----- |\n","x":5521,"y":168,"width":1220,"height":50,"color":"#8f004c"},
-		{"id":"c1d62f84210a1f5b","type":"text","text":"","x":8410,"y":168,"width":50,"height":50},
 		{"id":"803b474204e13b7c","type":"text","text":"# [[The Thinning]]","x":5883,"y":240,"width":496,"height":50,"color":"6"},
 		{"id":"42751c14ac817de0","type":"text","text":"# [[The Departure]]","x":4718,"y":240,"width":568,"height":50,"color":"#c24400"},
 		{"id":"3b33ee70d83265b2","type":"text","text":"| 290 | 280 | 270 | 260 | 250 | 240 | 230 | 220 | 210 | 200 | 190 | 180 | 170 | 160 | 150 | 140 | 130 | 120 | 110 | 100 | 90  | 80  | 70  | 60  | 50  | 40  | 30  | 20  | 10  | 0   |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n","x":3640,"y":118,"width":1402,"height":50},
@@ -17,7 +16,8 @@
 		{"id":"ed8679f9591bea94","type":"text","text":"","x":4481,"y":168,"width":50,"height":50},
 		{"id":"2e598306aaa8eba2","type":"text","text":"Date unknown","x":3640,"y":168,"width":180,"height":50},
 		{"id":"0a27883146c9fb1a","type":"text","text":"###### [[Idanthi]] Emergence","x":3553,"y":240,"width":350,"height":50,"color":"1"},
-		{"id":"cf10e7870e70f4aa","type":"text","text":"# [[Vólat Church#Schism|Vólat Schism]]","x":8112,"y":240,"width":646,"height":50,"color":"3"}
+		{"id":"c1d62f84210a1f5b","type":"text","text":"","x":8560,"y":168,"width":50,"height":50},
+		{"id":"cf10e7870e70f4aa","type":"text","text":"# [[Vólat Church#Schism|Vólat Schism]]","x":8262,"y":300,"width":646,"height":50,"color":"3"}
 	],
 	"edges":[
 		{"id":"de8d76fba49c8a86","fromNode":"502e66a637acd297","fromSide":"top","toNode":"ed8679f9591bea94","toSide":"bottom"},

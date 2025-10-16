@@ -12,7 +12,7 @@ source:
   - Arcane
 ---
 # The Fiery Heart
-[[Kanirûl Pantheon|Kanirûl]] Goddess of the forge and master inventor, Pyronia was a stoic and observant deity. She is highly honored amongst the mechanist of the [[House Taran]]
+[[Kanirûl Pantheon|Kanirûl]] Goddess of the forge and master inventor, Pyronia was a stoic and observant deity. She is highly honored amongst the mechanist of the [[House Tarahn]]
 
 # Family
 [[Borealis]] - husband

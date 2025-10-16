@@ -2,7 +2,7 @@
   "ITS-AT@@select": "none",
   "ITS@@ITS-Sizes": "none",
   "ITS@@radius-s": 1,
-  "ITS@@file-line-width": 700,
+  "ITS@@file-line-width": 1300,
   "ITS@@hide-resize-handle": true,
   "ITS@@hide-scrollbar": true,
   "ITS@@hide-vault-name": true,
@@ -36,5 +36,6 @@
   "ITS@@t-d": false,
   "ITS@@s-d": false,
   "ITS@@slrvb-g": false,
-  "ITS@@default-statblock": false
+  "ITS@@default-statblock": false,
+  "ITS@@writing-document": false
 }

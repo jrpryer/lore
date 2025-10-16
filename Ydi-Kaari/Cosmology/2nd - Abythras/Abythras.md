@@ -16,7 +16,7 @@ The home of the [[Daemons|Daemon Lords]] and the great flying cities of their 
 
 The Daemonic world of Abythras is rife with broken citadels and blighted provinces. The surface of the sphere is suffused in a leaching, heavy, hot gas that leaks from the volcanic poles and whips about the landscape on gusting winds.
 
-The avatar of [[Family of the Endless#Inversion|Khalthon]] dwells at the heart of the world, holding the sphere together and subtly maintaining the Aether well that keeps the swirling laws of rebirth active, constantly transmuting all unbound spirits into new daemonic forms. With such close proximity, many [[Arcane]] and [[Wyrd]] [[Laws of True Magic#Convergence|Convergent]] experiments occur here, primarily by the Daemon Lords of [[Daemons#Lords of Guile|Guile]] and [[Daemons#Lords of Blood|Blood]], respectively.  
+The avatar of [[Family of the Endless#Inversion|Khalthon]] dwells at the heart of the world, holding the sphere together and subtly maintaining the Aether well that keeps the swirling laws of rebirth active, constantly transmuting all unbound spirits into new daemonic forms. With such close proximity, many [[Arcane]] and [[Wyrd]] [[Laws of True Magic#Convergence|Convergent]] experiments occur here, primarily by the Daemon Lords of [[Daemons#Principes of Guile|Guile]] and [[Daemons#Principes of Blood|Blood]], respectively.  
 
 The avatar [[Darkness|Thyrrakos]] also hovers about the world, feeding off the chaos the Abythratic Wars churn out. He also fouls all plans of the Daemon Principes and Lords, changing enough variables to force their machinations so that they never quite hit the mark or come to full fruition. 
 

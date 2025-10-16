@@ -2,6 +2,7 @@
 tags:
   - gods
   - pantheon
+  - Vólaril
 aliases:
   - Upper Pantheon
   - Anarûl
@@ -19,7 +20,7 @@ These avatars were known as:
 - [[Life|Rhajos]] 'The Herald of Delights' - Father of Revelry, keeper of the Blood Rune
 - [[Darkness|Vespera]] 'The Veiled One' - Mother of Trickery, keeper of the Night Rune
 
-Together with the [[Kanirûl Pantheon|Kanirûl]], the Anarûl were combined into the overall **Vólaril** {VOH-lah-ril} pantheon as worshiped by the original [[Vólat Church]]. When the church ratified the schism, the two sects were called the Vólat-rah and Vólat-sin to better identify their loyalties in regards to the two pantheons.
+Together with the [[Kanirûl Pantheon]], the Anarûl were combined into the overall **Vólaril** {VOH-lah-ril} pantheon as worshiped by the original [[Vólat Church]]. When the church ratified the schism, the two sects were called the Vólat-rah and Vólat-sin to better identify their loyalties in regards to the two pantheons.
 
 # Runes
 #REVIEW since [[Session 0]] Keystones exist…

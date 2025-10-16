@@ -1,3 +1,7 @@
+---
+tags:
+  - player
+---
 # GM:
 Example characters with their Keystone synergies
 
@@ -61,3 +65,9 @@ Counting the suit of your chosen Primary Keystone...
 	Each **black** minor (Swords / Pentacles  -  Ruin / Bloom) nudges toward **Woe**
 	If you end up with equal red and black → **Balanced**
 
+
+# Character Building
+Internal complexity
+Conflicting ideals
+Things they want, but cannot get
+Based around simple/singular concepts fall flat in longer games

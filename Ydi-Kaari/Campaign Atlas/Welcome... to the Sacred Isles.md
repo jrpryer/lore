@@ -1,6 +1,6 @@
 > The year is 97 [[TIMELINE.canvas|SD]]
 
-Upon the sphere of [[Kanyiirah]], the continent known as [[Cara-Duhn]] is a region of both unity and chaos; a land on the brink of greatness or disaster. 
+Upon the sphere of [[Kanyiirah]] there lies the continent paradise known as [[Cara-Duhn]]. A collection of major and minor islands sporting many different biomes and landmarks, these Sacred Isles are a region of both unity and chaos; a land on the brink of something unknown that can spell either greatness or disaster.
 
 At a time when the poignant actions of even a meager few can alter the course of history, we find ourselves following the footsteps of **five beleaguered cutthroats**, as they stumble onto the sprawling docks of [[Grayport]], desperate for a hot meal and a bed.
 
@@ -39,9 +39,9 @@ There are eight cultural regions of the Cara-Duhnian isles. Choosing which land 
 	- Races found [[Duhn#Inhabitants|here]]: [[Alseid]], [[Elvi]] (Wood), [[Nagaji]], [[Hobgoblin]] (Wildings), [[Aqualii]] (Shae’thalis)
 	- Common Heritages:
 
-- [[House Taran|Tarani Houses]] 
-	- Choosing the region of the Houses of Taran as your native land allows you to roll any saving throw at advantage once per long rest.
-	- The Tarani are the second largest nation after the [[Carain Empire]]. It is an extremely feudal society ruled by four ruling Dukes, each responsible for governing their own land and laws that vary slightly from duchy to duchy. Their cooperation has often been their greatest strength, opening the nation to some of the most lucrative trade benefits in the known world. The wealth has recently led many to seek war, however, choosing conquest and expansionary goals over the simple increase of wealth accumulation. It has been a few years since their last great war, and it is only a matter of time before they set their sights on their northern neighbors. 
+- [[House Tarahn|Tarahni Houses]] 
+	- Choosing the region of the Houses of Tarahn as your native land allows you to roll any saving throw at advantage once per long rest.
+	- The Tarahni are the second largest nation after the [[Carain Empire]]. It is an extremely feudal society ruled by four ruling Dukes, each responsible for governing their own land and laws that vary slightly from duchy to duchy. Their cooperation has often been their greatest strength, opening the nation to some of the most lucrative trade benefits in the known world. The wealth has recently led many to seek war, however, choosing conquest and expansionary goals over the simple increase of wealth accumulation. It has been a few years since their last great war, and it is only a matter of time before they set their sights on their northern neighbors. 
 	- Religions found here: • [[Vólat Church#Kilkesh Riots|Vólat-rah]] • [[Doctrines#Thraev'gal Pact|Thraev'gal Pact]] • Zurlism • Segrilade 
 	- Races found [[Duhn#Inhabitants|here]]: [[Tieflings]], [[Smallfolk]] (Gnome), [[Elvi]] (High), [[Oread]] (Ifrit), [[Hobgoblin]]
 	- Common Heritages:

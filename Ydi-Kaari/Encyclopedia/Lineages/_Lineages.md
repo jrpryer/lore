@@ -45,10 +45,21 @@ tags:
 >~ Qi'ara Linn | 3rd year [[University Towards Enlightened Truth|UTET]] Anthropology dedication
 
 # Post-Nashtaran Emergences:
-- Vampyrs - the immortal descendants of [[Fate of the Heartkindler|Rathus]] and his ilk that underwent the [[Laws of True Magic|Second Law Convergence]] that transformed them into their final monstrous, [[SECRETS#True Laws of True Magic|Instinctual]] forms, Vampyrs — or **vampires** — are a rare sub-species of Elvi within Cara-Duhn, despised by the general populace of the [[Ropeshian Dynasty]] but quietly revered by the nobles of the [[Vólatian Theocracy]]. Their existence was born of a dark event, but 4 of the 5 vampire families all swore life-long oaths to the doctrine of the Vólat Church and now hold high positions in the Theocracy leadership, having fully supported the shift in Vólat-rah orthodoxy as well.
-	- The remaining [[SECRETS#The 5th Family|5th family]] remained isolated from civilization after [[the Thinning]]
+- Dhampyrs - The cursed spawn of true [[Vampyrs]], the immortal descendants of [[Fate of the Heartkindler|Rathus]] and his ilk. Despised by the general populace of the [[Ropeshian Dynasty]], but quietly revered by the nobles of the [[Vólatian Theocracy]], 4 of the 5 Vampyr houses have all sworn life-long oaths to the doctrine of the Vólat Church as recompence for their dark history. Many of their Dhampyr children now hold high positions in the Theocracy leadership as the families have fully supported the shift in Vólat-rah orthodoxy as well.
+	- The remaining [[SECRETS#The 5th House of Rathus|5th house]] remained isolated from civilization since [[The Departure]] 
 
 - [[Draktharun]] - (Dragonborn) diverse, scaled, notorious, and loyal. Chosen of the mortal races and forged new bodies by the magic of the Drakhaën, Draktharun are smaller, more humanoid forms of their mighty creators, sporting the wings, spikes, tails, and scales of their master. Draktharun are nearly sterile, the males incapable of siring children for any other race to bear, and females only capable of bearing Wilding offspring. #REVIEW 
 	- Wilding variant - (Kobold) small, witty, inventive. Immediate descendants of Draktharun that carry none of the bodily majesties of their parentage, seemly having lost many of the gifts the mighty Drakhaën bestowed on their bloodline. #REVIEW 
 
 - Aens'hel - (Syderean, Celestial) vibrant, charismatic, passionate, sporting metallic or iridescent skin tones. Children born from a union of any one of the mortal races and a [[Vaal'k]] descendent of the mortal-made-god [[Aethmi-Istar]] himself, most often sired by a Vaal'korr though rarely borne by a Vaal'kuhrea. However, The Echoing Radiance [[Life|Xëkliën]] forbids the birth of Kanyiirans within her realm, so all Aens'hels are forced to walk upon a sphere they know was never made to be their true home.
+
+
+
+%% Orcs vs Hobgoblins vs Trollkin vs Bugbear vs Firbolg
+Kitsune vs Leonin vs Tabaxi 
+Strix vs Kenku vs Owlin vs Aarakocra vs Corvum vs Ravenfolk 
+Aqualli vs Triton vs Sea Elf vs Genasi (water) vs Deepborn
+Aens'hel vs Aasimar vs Downcast
+
+
+Stoneborn, Silkborn, Yuan-ti %%

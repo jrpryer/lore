@@ -29,14 +29,14 @@ It was no secret that the Fathers and Mothers of Kanyiirah opposed the idea of t
 
 >[!recite|bg-c-gray] - _Sylvania died her first death in Ferrovus' arms we believe around ~195 BD, not long after her task was complete. Her great form lay still for many years in the [[Erdú]] valley, untouched by rot or decomposition, leading the Kanirûl to remain wary of her and create Lem'urex lest she simply be in slumber. Her spirit has not been seen in the Erdún lands for generations and is assumed to have suffered her second death sometime before ~100 BD._  
     
->[!recite|bg-c-gray] - _Ferrovus disappeared under the earth, fleeing the sight of the Kanirûl and the mortal races of Nashtara, leaving no trace of his first death. However, the folktale of 'Caelaistra's Fall' provides a first-hand account that leads many to trust his first death to be assured around the year ~188 BD. Nothing is known of his second death._   
+>[!recite|bg-c-gray] - _Ferrovus disappeared under the earth, fleeing the sight of the Kanirûl and the mortal races of Nashtara, leaving no trace of his first death. However, the folktale of 'Caelaistra's Fall' provides a first-hand account that leads many to trust his first death to be assured around the year ~180 BD. Nothing is known of his second death._   
 
 >[!recite|bg-c-gray] - _The record of 'Caelaistra's Fall' was captured from the eyewitness account of the Bladesman Rukhzar Mao himself, pointedly marking the Divine Titan's first and second deaths simultaneously in 174 BD. The legend has also provided the main body of empirical evidence that this 'theory of second deaths' extrapolates._  
     
 >[!recite|bg-c-gray] - _Umbravex is the only titan still believed to possess its mortal form. So little is known about the Wyrd beast, we have only the myths and legends recorded from the earliest years of Nashtara to even know of its existence. And understandably, little effort has been made to try and corroborate the claims of pirates and deranged seamen that crop up in the Western and Southern oceans; stories that speak of dark monsters swimming leagues beneath the surface, yet large enough to cast great shadows during moments of calm upon those waters..._  
 
 >[!recite|bg-c-gray] _There is still so much we don't know regarding the Titans and their purpose. It is my hope that new discoveries will come to us from the relic hunters that brave the wilds of Evyrn isle._  
->~ Qylin Fetters | 4th year [[University Towards Enlightened Truth|UTET]] History dedication
+>~ Qylin Fetters | 4th year [[University Towards Enlightened Truth|UTET]] Historia dedication
 
 
 # Collection

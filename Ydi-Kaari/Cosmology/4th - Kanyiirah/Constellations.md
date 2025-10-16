@@ -31,4 +31,4 @@ According to folklore, this serpent ate its own tail in a fit of madness, turnin
   
 # Whirlwind’s Eye 
 #REVIEW
-Resembling a spiraling wind, this constellation emerges during the stormy seasons, reminding people to take shelter and prepare for turbulent weather. It is during this season that the [[Eternal Maelstrom|Mists of Dolos]] are the thickest, whipped into a heavy fog by the Eternal Maelstrom.
+Resembling a spiraling vortex, this constellation emerges during the stormy seasons, reminding people to take shelter and prepare for turbulent weather. It is during this season that [[Eternal Maelstrom#Mists|the Dolos]] are the thickest, whipped into the heaviest and most encroaching grey fog by the [[Eternal Maelstrom]].

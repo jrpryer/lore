@@ -48,12 +48,12 @@ The core militia of the Theocracy and police force. They are an organization of 
 The conciliate that manages the official judiciary stance of the Theocracy. They reviews cases of heresy, excommunication, and apostasy, acting as the moderating force behind the will of the Benedictiary and the instruction of the Centenary.
 
 ## Inquisitorium
-Led by a new Archbishop of the Defeasancey, the Inquisitorium has been recently established to further enforce the rulings of the Centenary conciliate and carry out the work of the Defeasancy en-masse, in light of the recent schism.
+Requisitioned by the new Archbishop of the Defeasancey, the Inquisitorium is instructed to ensure the rulings of the Centenary conciliate are adhered to, in light of the Vólat-sin schism. Though they often work closely with the Pulette Knights to carry out the work of the Defeasancy with more surgical precision, Inquisitors are given greater authority to bring the enlightenment of the Vólat-rah to all.
+
+Certain Inquisitors are known to seek the blessing of the [[#Benedictiary]] to reach the far corners of civilization, alongside a similarly-motivated priest or rector to proselytize the new Vólat-rah orthodoxy further into the far reaches of the Sacred Isles. These individuals are also specifically equipped to deal with any dangerous Vólat-sin zealots that might reject the faith or otherwise seek to undermine the Church beyond the borders of the Theocracy.
 
 ## Chassurates
-The highest-ranking members of the Pulette Knights and the Inquisitorium's arm of judgment within the sanctioned borders of the Theocracy. The order of Chassurates are the only Vólatians apart from the Archbishop of the [[#Defeasancy]] who can suppress the blessing of the divine arts in noble-blooded individuals.
-
-Certain inquisitors are known to seek the blessing of the [[#Benedictiary]], tasked to reach the far corners of civilization alongside a similarly-motivated priest or rector to proselytize the new Vólat-rah orthodoxy further into the far reaches of the sacred isles. These Chassurates are also specifically equipped to deal with any dangerous Vólat-sin zealots that might reject the faith or otherwise seek to undermine the Church beyond the borders of the Theocracy.
+The highest-ranking members of the Pulette Knights that were brought into this Order are the Inquisitorium's fist of judgment within the sanctioned borders of the Theocracy. The order of Chassurates are the only Vólatians apart from the Archbishop of the [[#Defeasancy]] who can suppress the blessing of the divine arts in noble-blooded individuals.
 
 Zstalfo Granetoss is among their number.
 

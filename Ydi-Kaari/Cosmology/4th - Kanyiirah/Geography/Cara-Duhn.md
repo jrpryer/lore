@@ -4,6 +4,7 @@ tags:
   - cara-Duhnian
 aliases:
   - sacred isles
+  - Sacred Isles
 ---
 (kah-ruh-dJUNE / ˈkɑːrə dʒuːn)
 
