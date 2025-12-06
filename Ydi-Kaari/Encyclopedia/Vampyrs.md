@@ -6,27 +6,31 @@ tags:
 source:
   - Wyrd
 ---
-The Elvi of Rathus' family who partook in [[Fate of the Heartkindler|Valencia's murder]] and underwent the [[Laws of True Magic|Second Law Convergence]] that transformed them into their final monstrous, [[SECRETS#True Laws of True Magic|Instinctual]] forms, marking their bloodline as baned by the blackest of curses: 
+The Elvi of Rathus' family who partook in [[Fate of the Heartkindler|Valencia's murder]] and underwent the [[Laws of True Magic|Second Law Convergence]] that transformed them into their final monstrous, [[SECRETS#True Laws of True Magic|Instinctual]] forms; they had their Spirits and bloodline baned with the blackest of curses:
 ![[Fate of the Heartkindler#^f5a647]]
 
-The power of Myst's fragment granted the Rathus bloodline naturally attractive features while enhancing their bodies in supernatural ways. Their connection to others is stronger, bonds formed through marriage, lust, or oath are neigh unbreakable, magically empowered by the very blood in their veins. Consequently, they can influence others with their charm before enslaving them to their will. Though all falls away into meaningless chaff in the shadow of their curse: they are slaves to their hunger for blood. The burning need never truly vanishes in their bellies, always urging them to feed and relish in the death of other beings. They are some of the truest monsters ever to walk the shores of the great isles.
+The power of Myst's fragment granted the Rathus bloodline naturally attractive features while enhancing their bodies in supernatural ways. Their pull of others is stronger, bonds formed through marriage, lust, or oath are neigh unbreakable simply because the others do not wish them to be broken, the connections magically empowered by the very blood in their veins. Consequently, they can influence others with their charm before enslaving them to their will. Though all falls away into meaningless chaff in the shadow of their curse: they are slaves to their hunger for blood. The burning need never truly vanishes in their bellies, always urging them to feed and relish in the death of other beings. They are some of the truest monsters ever to walk the shores of the great isles.
+
+Thankfully, the curse is anchored in their Spirit and is therefore not completely hereditary. The alterations to the Form cannot be avoided however, and has resulted in the forming of a new subspecies Heritage on Cara: the Dhampyrs.
+
+%% It is the very fact that the curse is a Spiritual one that makes the concept of new Vampyr possible: if one were to destroy a member of the Rathus bloodline and properly absorb the power of their Spirit, they would absorb the thread of Myst and the curse equally. 
+Alternatively, if Rathus and Corvus were to attempt a proper [[Laws of True Magic|Convergence]] and fracture their threads of Myst (or if they subject another of their house to such a fate), then the curse would be duplicated to affect both contributing sources, while the power of the thread would be diminished again, split between the original host and participating host. So technically making another Vampyr is possible, but is not within the best interests of the Rathus family.
+Wyrd source infects and feeds, only growing stronger by spreading and consuming, which would require the death or severe kneecapping of the current Vampyrs; Rathus' vision of Vampyric dominance would require the multiplicative strength found in Divine source magics. %%
 
 # House Sangyr
-The four respectable vampyr houses collectively adopted the name **Sangyr** upon their emergence into Theocracy society, approximately 150 years after the Thinning's end. The name—meaning "of the blood"—was carefully chosen to suggest noble bloodline heritage while subtly acknowledging their curse. It provides administrative legitimacy and distances them from the Fifth House, which retained the name **Rathus** in defiance of respectability.
-
----
+The four respectable vampyr houses collectively adopted the name **Sangyr** upon their emergence into Theocracy society, approximately 23 years after the Thinning's end. The name—meaning "of the blood"—was carefully chosen to suggest noble bloodline heritage while subtly acknowledging their curse. It provides administrative legitimacy and distances them from the Fifth House, which retained the name **Rathus** in defiance of respectability.
 
 ## RATHUS
 **Epithet:** the Thief
 **House:** Fifth House Rathus (Patriarch)  
 **Age:** 166
-**Status:** In hiding, location unknown
+**Status:** In hiding, location unknown %% Nort-Eastern Cara, just outside the border of the Ropeshian Dynasty %%
 
 **Appearance:** Gaunt and predatory, with sunken eyes that gleam with unsettling intelligence. His features remain handsome in that supernaturally refined way all vampyrs possess, but twisted by a century of dark magical experimentation. Dresses in practical, travel-worn clothing—a philosopher-monster, not a courtier.
 
-**Philosophy:** Rathus remains convinced his crime was not sacrilege but ambition meeting opportunity. The Kanirûl were mortals elevated through First Law Convergence with Primordial power—if they could ascend, why not him? The curse is merely a technical flaw in an otherwise perfect theft. Valencia's divine essence flows through his bloodline; he simply needs to master it.
+**Philosophy:** Rathus remains convinced his crime was not sacrilege but ambition meeting opportunity. The Vólatian prophet, [[Aethmi-Istar|Holy Aesuhir]], was a mortal man ascended by the power of the Kanirûl—if he could ascend, why not them? The curse is merely a technical flaw in an otherwise perfect plan. Valencia's divine essence flows within his bloodline; he simply needs to master it.
 
-**Current Activities:** Conducts blood magic experiments in the furthest reaches of Cara-Duhn's wilderness, pursuing "completion of ascension." His research has produced Lycanthropy (weaponized from a Shurgen-Tur corpse), the Hags of the Silver Hills, and the fanatical Blood Witches. He views each creation as a stepping stone toward true divinity through mastery of Second Law Convergence between Divine and Wyrd sources.
+**Current Activities:** Conducts blood magic experiments in the furthest reaches of Cara-Duhn's wilderness, pursuing "completion of ascension." His research has produced Lycanthropy (weaponized from a Shurgen-Tur corpse), the Hags of the Silver Hills, and the fanatical Blood Witches. He views each creation as a stepping stone toward true divinity through mastery of Second Law Convergence between Divine and Wyrd sources. {eventually he will succeed in transferring his Soul and cursed Spirit into the Form of a young Dhampyr? This allows him to still over see the }
 
 **Motivations:** Transcendence through transgression. He seeks to prove that mortality can seize immortality through will and knowledge alone. The fact that four of his sons "hide among cattle" disgusts him—they had godhood in their grasp and settled for being cursed nobles.
 
@@ -40,11 +44,9 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"The Kanirûl stole their divinity from the Primordial depths. I merely stole from thieves. The curse proves the power is real—it simply requires... refinement."_
 
----
-
 ## SATEUS
 **Epithet:** the Black
-**House:** Fifth House (First born)  
+**House:** Fifth House (First born)
 **Age:** 139
 **Status:** Rathus's enforcer and right hand
 
@@ -68,7 +70,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"My brothers hide among sheep, pretending to be shepherds. I am what we became—the wolf that no longer apologizes for hunger."_
 
----
+
 
 ## DYLANUS
 **Epithet:** the White
@@ -82,12 +84,11 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **The Long Game:** Orchestrated the four houses' emergence, coached his brothers on presentation, positioned them as essential to Theocracy stability _before_ revealing their nature. His genius is understanding that the Church doesn't want to destroy them—it wants to _save_ them. So he gives them a project: wealthy families desperately seeking a cure, willing to fund anything.
 
-**Motivations:** Legitimacy through institution-building. He wants to cure the curse not for redemption but because mortality limits political power. If they could walk in sunlight, breed true heirs, and die naturally at 800 like Elvi, they'd rule Cara-Duhn within three generations.
+**Motivations:** Legitimacy through institution-building. He wants to cure the curse not for redemption but because their limitations weaken thier political power. If they could walk in sunlight, breed true heirs, and die naturally like normal Elvi, they'd rule Cara-Duhn within three generations.
 
 **Personality:** Charismatic without warmth, calculated without coldness. Brilliant at reading rooms and people. Views mortals as pieces on a game board—not with contempt, but with a strategist's detached interest. Every conversation is a negotiation. Every smile costs something.
 
 **Relationships:**
-
 - Chairs the monthly four-house coordination meetings
 - Tense relationship with Caelum (needs his piety, resents his guilt)
 - Collaborative but distant with Valens (they need each other, neither likes the other)
@@ -99,7 +100,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"The Church built itself on the love between Valencia and Aesuhir. We built ourselves on her corpse. The architecture is stable—provided no one examines the foundation."_
 
----
+
 
 ## TALIS
 **Epithet:** the Wall
@@ -127,7 +128,6 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 **Personality:** Blunt, pragmatic, prefers actions to words. Has a code—protects those under his command, honors promises made in combat. This reputation is carefully cultivated and absolutely genuine. Loyalty must be earned even from cattle. Doesn't romanticize what they did; guilt is waste, regret is poison, survival is victory.
 
 **Relationships:**
-
 - Deep rivalry with Sateus (fought to a draw once, both want rematch)
 - Respects Dylanus's strategy, executes his plans
 - Protective of his Dhampir soldiers—they're his, and he keeps his tools sharp
@@ -138,7 +138,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"Reputation is currency. The Scarlet Company has one worth more than gold: brutal but fair, merciless but honorable. In a world that knows what we did, reputation is survival."_
 
----
+
 
 ## CAELUM
 **Epithet:** the Nameless Penitent
@@ -161,7 +161,6 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 **Personality:** Quietly intense, intellectually ferocious, emotionally devastated. Speaks carefully, weighs every word. Fasts frequently, pushing hunger to its limit. When he feeds, he weeps every time; even after a century of this, he can't punish himself enough.
 
 **Relationships:**
-
 - Resents being used by [[#Dylanus]] but lacks strength to refuse
 - Unexpected friendship with [[#Rhilos]]: they correspond about meaning and damnation
 - The other brothers find his guilt disturbing—useless and performative
@@ -172,7 +171,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"I serve the Church built on the love I murdered. Every mass I conduct, every blessing I witness, every prayer I lead—all of it scaffolding around a corpse. Her corpse. And still I cannot stop."_
 
----
+
 
 ## CORVUS
 **Epithet:** the Ash
@@ -195,7 +194,6 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 **Personality:** Clinically detached, speaks in hypotheticals, treats conversation like academic debate. The most _alien_ of the brothers—drifted furthest from humanoid emotional frameworks. Not cruel, just absent of normal empathy. Views his own damnation as the price of knowledge.
 
 **Relationships:**
-
 - Only brother who still visits the Fifth House regularly
 - Corresponds with Rathus about magical theory
 - Provides Rathus with research findings; Rathus provides test subjects
@@ -206,7 +204,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"Ethics are frameworks for creatures with limited lifespans. We have centuries to pursue knowledge. The question isn't 'should we have done it'—it's 'what does the doing teach us about the fundamental nature of magic and divinity?' I submit that the data has been invaluable."_
 
----
+
 
 ## VALENS
 **Epithet:** the Gilded
@@ -229,7 +227,6 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 **Secret Vice:** Addicted to risk. A century and a half of accumulation bore him. Makes deliberately dangerous investments—backing rebellious artists, funding heretical research, supporting political radicals—just to feel the thrill of potential loss. Playing an increasingly dangerous game. Some part of him wants to lose.
 
 **Relationships:**
-
 - Collaborative but distant with Dylanus (they need each other, neither likes the other)
 - Finds Caelum's guilt tedious
 - Respects Talis's pragmatism
@@ -240,7 +237,6 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 **Quote:** _"We paid the highest price imaginable for immortality and power. A century later, the return on investment has been extraordinary. The guilt? That's merely overhead—and I've always been excellent at managing costs."_
 
----
 
 ## RHILOS
 **Epithet:** the Spider
@@ -273,7 +269,7 @@ The four respectable vampyr houses collectively adopted the name **Sangyr** upon
 
 
 ## The Fifth House of Rathus
-Unlike the four respectable houses, Rathus, Sateus, and Rhilos retained the original family name, rejecting the "Sangyr" rebranding as capitulation. They operate from hidden locations in the Carain wilderness, conducting blood magic experiments that have produced:
+Unlike the four respectable houses, Rathus himself and two of his sons—Sateus, and Rhilos retained the original family name, rejecting the "Sangyr" rebranding as capitulation. They operate from hidden locations in the Carain wilderness, conducting blood magic experiments that have produced:
 - **Lycanthropy:** Weaponized disease crafted from a Shurgen-Tur corpse
 - **The Hags of the Silver Hills:** Twisted orphans, traumatized and magically warped
 - **Blood Witches:** Perfected version of the Hag experiments, fanatically loyal

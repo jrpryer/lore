@@ -28,7 +28,6 @@ Dark Arcanist, Greatest of Spellweavers,
 Frozen Lasher
 
 
-
 ## Principes of Guile
 Led by the Daemon Lord Arkhazath, the Principes of Guile are chief shapechangers and charmers of illusion and altered perceptions. 
 
@@ -103,7 +102,7 @@ Slaves to the chaos of the Abythratic wars, these daemons are forced into servit
 First among the mortal-bound lesser daemons and apex survivors of the wars, these are the luitenents of the Daemon Principes and chief executioners of their grand visions.
 
 ## Unnatural Rebirth
-in **220 BD,** 30 years before the Kanyiiran event called [[Nashtara]], the [[#Draezhir]] Daemon Principe **Zaurath**, the Fleshcarver, desired to forge a perfected slave race to serve his Daemonic Principe as fuel to the grinder of their war machines. He descended to Kanyiirah to kidnap [[Idanthi]] who would be the catalysts of his new venture and brought them to Maevelis' throne city of [[Abythras#Cities|Tiefratus]]. Through brutal [[Wyrd]] experimentation he conducted a series of [[Laws of True Magic|Convergences]], using the [[Arcane]] cores of several slain [[#Cyndralis]] champions as his anchor. With the fanatical devotion of the truest Draezhir deviant, the Daemon Principe of Blood twisted every fiber of those Idanthi captives into something new through his dark rituals. Slowly, subtly, he altered their forms, harmonized their spirits, scarred their very souls until, he had perfected a new [[SECRETS#True Laws of True Magic|Instinctual]] form of life, born of [[Abythras]]: the first [[_Lineages|Tieflings]].
+in **604 BD,** 35 years before the Kanyiiran event called [[Nashtara]], the [[#Draezhir]] Daemon Principe **Zaurath**, the Fleshcarver, desired to forge a perfected slave race to serve his Daemonic Principe as fuel to the grinder of their war machines. He descended to Kanyiirah to kidnap [[Idanthi]] who would be the catalysts of his new venture and brought them to Maevelis' throne city of [[Abythras#Cities|Tiefratus]]. Through brutal [[Wyrd]] experimentation he conducted a series of [[Laws of True Magic|Convergences]], using the [[Arcane]] cores of several slain [[#Cyndralis]] champions as his anchor. With the fanatical devotion of the truest Draezhir deviant, the Daemon Principe of Blood twisted every fiber of those Idanthi captives into something new through his dark rituals. Slowly, subtly, he altered their forms, harmonized their spirits, scarred their very souls until, he had perfected a new [[SECRETS#True Laws of True Magic|Instinctual]] form of life, born of [[Abythras]]: the first [[_Lineages|Tieflings]].
 
 ## Syraphite
 'Angel' is a word used by Kanyiirans as an honorific to the [[Vaal'k|celestial children]] of [[Aethmi-Istar]] and [[Valencia]]. The Daemon Principe **[[#Zlaaz'ek]]** — Wielder of SunEater, Most Unmerciful, Great Dethroner and first among the Principes of Hellfire — used this to her advantage, kidnapping several Ilystrin that had taken physical form and sealing them with vile blood curses to twist their bodies and alter their minds, breaking their wills to serve the Principes of Hellfire alone. This birthed the fiendish **Syraphite**, or "Dark Angels": daemons of fair form and complexion that resemble the holy figures of [[Lämmrus|Lusturil]] to charm and beguile mortalkind into serving as cultists in profane, heretical rituals that empower the Principes of Hellfire directly.

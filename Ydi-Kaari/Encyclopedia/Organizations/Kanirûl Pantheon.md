@@ -11,12 +11,12 @@ aliases:
 ---
 (kah-nee-ROOL)
 
-The [[Strix]] people best record [[Nashtara]] as a great disturbance in the cosmos; something that rippled out from the stars. Perhaps it was from another sphere or perhaps even the  Origin. What came of it, however, was the mass influx of the [[_Lineages|races]] within [[Cara-Duhn]] and with them, a new host of lesser gods that stepped from the first-world into Kanyiirah. These beings each held an immense font of magic power and would come to be known as the **Middle Kanirûl Pantheon**:
+The [[Shix]] people best record [[Nashtara]] as a great disturbance in the cosmos; something that rippled out from the stars. Perhaps it was from another sphere or perhaps even the  Origin. What came of it, however, was the mass influx of the [[_Lineages|races]] within [[Cara-Duhn]] and with them, a new host of lesser gods that stepped from the first-world into Kanyiirah. These beings each held an immense font of magic power and would come to be known as the **Middle Kanirûl Pantheon**:
 
 - **[[Solanas]]** 'The Dawnfather' - God of the Suhns and Light, husband to Lunatas
 - **[[Lunatas]]** 'The Dreamweaver' - Goddess of the Moons and Wards, chosen of Myst, wife of Solanas
-- **[[Tympestyr]]** 'The Stormbreaker' - God of Storms and the Seas
 - **[[Taerannon]]** 'The Untamed' - God of Nature and father of the beasts that roam the isles
+- **[[Tympestyr]]** 'The Stormbreaker' - God of the Arcane and the Storm
 - **[[Pyronia]]** 'The Fiery Heart' - Goddess of Fire and the Forge of invention, wife of Borealis
 - **[[Borealis]]** 'The Frozen Heart' - God of Winter and the Northern Ice, husband to Pyronia
 - **[[Valencia]]** 'The Heartkindler' - Goddess of Love and Beauty

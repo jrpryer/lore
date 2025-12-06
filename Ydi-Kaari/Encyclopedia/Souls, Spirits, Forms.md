@@ -12,9 +12,9 @@ True death of a soul however is a much different and more sacred occurrence; sin
 Individuals with heightened senses or specialized training can often feel the Spiritual presence emitted by beings in their vicinity; just as a heavy liquid inside a container can be felt and movement inferred by placing ones hand alongside, so can the pressure and power of one's spirit be felt. If one such trained person were to come across an individual of incredible, it is very likely they would be overwhelmed.
 
 # Greater Spirits
-Greater Spirits on the other hand are Ethereal beings already bound to a Soul and hold greater control of their source, giving them the ability to manifest a physical form, choosing to alter it under certain circumstances but always maintaining consciousness without needing to remain corporeal. Often, Greater Spirits will choose to go about formless for their own safety and freedom, only choosing to manifest a body when great need arises or complex communication is required with mortal beings.
+Greater Spirits on the other hand are Ethereal beings already bound to a Soul and hold greater control of their source. Greater Spirits that hold a title (Regal, Noble, Empyrean, Archon, Xenon, Orubite, etc) also gain the ability to manifest a physical form, choosing to alter it under certain circumstances but always maintaining consciousness without needing to remain corporeal. Often, Greater Spirits will choose to go about formless for their own safety and freedom, only choosing to manifest a body when great need arises or complex articulation is required with the physical world.
 
-The power ranking of Greater Spirits exists on a wide spectrum and is more of a title shared to any powerful entity that holds control of their form. %% A Greater Spirit can be born, made, matured, evolved into, or devolved out of, all through the power of [[Laws of True Magic|Convergences]]. %%
+The power ranking of titled Greater Spirits exists on a wide spectrum, as the distinction is shared by any powerful entity that holds control of their form. %% A Greater Spirit can be born, made, matured, evolved into, or devolved out of, all through the power of [[Laws of True Magic|Convergences]]. Titles are gained by any sufficiently powerful arbiter of Primordial source, using the [[Primordial Mastery - True Naming|Mastery of True Naming]] %%
 
 # Archspirits
 Potent fonts of natural power in the Mundane plane are themselves represented in the Ethereal Plane as beings of immense pooled source, called Archspirits. They are powerful entities, godlike in their own way as they shape and affect all [[Planes of Existence]] at once. 
@@ -27,7 +27,7 @@ Two exist within the [[Ydi-Kaari System]], named Yvinanokklen (YEEV-inna knock-l
 # Afterlife
 Each of the [[Anarûl Pantheon|Anarûl]] %% by nature of being one of the Endless  %%has the power to create and destroy demiplanes associated with their domains of power. This nature seeped into their early creations and connected them to the mortal beings born of that power. The ultimate destination of a soul heavily depends on what Mother or Father its species or lineage is tied to, and where the being placed its faith during its time of walking.
 
-Primarily, Kanyiiran souls are judged by [[Entropy|Tevros]], and ferried to The [[Muérai|Gates of Silence]] to be ushered into [[Muérai]] and live in the layer upon which they have earned their rest. 
+Primarily, Kanyiiran souls are judged by [[Entropy|Tevros]], and ferried to The [[Muéræ|Gates of Silence]] to be ushered into [[Muéræ]] and live in the layer upon which they have earned their rest. 
 Currently, it is unknown what happens to the souls of Echnicans {[[Echni]]}, Daemons {[[Abythras]]}, or Celestials {[[Lämmrus]]}
 
 # Spiritual Composition

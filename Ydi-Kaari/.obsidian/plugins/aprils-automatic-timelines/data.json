@@ -1,0 +1,127 @@
+{
+  "dateDisplayFormat": "{day} of {month}, {year}",
+  "dateParserGroupPriority": "year,month,day",
+  "dateParserRegex": "(?<year>-?[0-9]*)-(?<month>-?[0-9]*)-(?<day>-?[0-9]*)",
+  "eventRenderToggleKey": "aat-render-enabled",
+  "inlineEventEndOfBodyMarker": "%%aat-event-end-of-body%%",
+  "markdownBlockTagsToFindSeparator": ",",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventEndDate": "aat-event-end-date",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "metadataKeyEventStartDate": "aat-event-start-date",
+  "metadataKeyEventTimelineTag": "timelines",
+  "metadataKeyEventTitleOverride": "aat-event-title",
+  "noteInlineEventKey": "aat-inline-event",
+  "ignoreLineCommentToken": "aat-ignore-line",
+  "applyAdditonalConditionFormatting": true,
+  "lookForCalendariumSpanEvents": false,
+  "lookForInlineEventsInNotes": true,
+  "lookForTagsForTimeline": false,
+  "stylizeDateInline": true,
+  "bodyFontSize": -1,
+  "dateFontSize": -1,
+  "titleFontSize": -1,
+  "dateTokenConfiguration": [
+    {
+      "minLeght": 1,
+      "name": "year",
+      "type": "NUMBER",
+      "displayWhenZero": true,
+      "formatting": [
+        {
+          "evaluations": [
+            {
+              "condition": "LESS",
+              "value": 0
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "{value} B.D."
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "EQUAL",
+              "value": 0
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "{value} B.D."
+        },
+        {
+          "evaluations": [
+            {
+              "condition": "GREATER",
+              "value": 0
+            }
+          ],
+          "conditionsAreExclusive": false,
+          "format": "{value} S.D."
+        }
+      ],
+      "hideSign": true
+    },
+    {
+      "name": "month",
+      "type": "STRING",
+      "dictionary": [
+        "Invalid",
+        "First Dance",
+        "Dreamward",
+        "Crimson Veil",
+        "Pursuit",
+        "Twin Zenith",
+        "Parting",
+        "Twin Crown",
+        "Red Dawns",
+        "Violet Eves",
+        "Hearthward",
+        "Blood Convergeance",
+        "Shadow Dance",
+        "Dwindlings"
+      ],
+      "formatting": []
+    },
+    {
+      "minLeght": 1,
+      "name": "day",
+      "type": "STRING",
+      "dictionary": [
+        "Invalid",
+        "1st",
+        "2nd",
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "7th",
+        "8th",
+        "9th",
+        "10th",
+        "11th",
+        "12th",
+        "13th",
+        "14th",
+        "15th",
+        "16th",
+        "17th",
+        "18th",
+        "19th",
+        "20th",
+        "21st",
+        "22nd",
+        "23rd",
+        "24th",
+        "25th",
+        "26th",
+        "27th",
+        "28th",
+        "29th",
+        "30th"
+      ],
+      "displayWhenZero": true,
+      "formatting": [],
+      "hideSign": false
+    }
+  ]
+}

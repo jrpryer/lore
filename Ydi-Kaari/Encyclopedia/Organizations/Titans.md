@@ -1,11 +1,18 @@
 ---
 tags:
   - titan
+aat-event-title: Cara-Duhnian Titans
+aat-event-body: The Anarûl manifested great Titans to fulfill their will upon the sphere are carve the Sacred Isles into a paradise that reflected the greatest Kanyiirah had to offer
+aat-event-start-date: -742-09-04
+timelines:
+  - kanyiirah-bd-of-giants-and-man
+aat-event-picture:
+aat-render-enabled: true
 ---
 # History
 >[!recite|bg-c-gray] *One portion of the Kanyiiran sphere chiefly drew the attention of the [[Anarûl Pantheon|Fathers and Mothers]], and it became their shared goal to send down servants and prepare this land for the habitation of sentient life. Their motivations for doing so are speculated upon, but the Vólat-sin traditions claim that they wished to share the beauty of the Sphere with all life. Great Titans were manifested by the Anarûl deities, each infused with the core of a source magic and fed by the currents of chaos their masters tethered to them.*  
 
-%% The Kanyiiran Titans were Greater Spirits of [[Yggrāhkærn]], [[Lämmrus]], [[Abythras]], and [[Echni]], all bound to their hulking forms by the [[Anarûl Pantheon|Anarûl]] and promised by the Mothers and Fathers that once they fulfilled their task, they would be restored to even greater affluence. %%
+%% The Kanyiiran Titans were either Greater Spirits or otherwise mighty Souls from [[Yggrāhkærn]], [[Lämmrus]], [[Abythras]], and [[Echni]], all bound to their new hulking Forms by the [[Anarûl Pantheon|Anarûl]] and promised by the Mothers and Fathers that they would be restored to even greater affluence once their tasks were fulfilled. %%
 
 Ancient songs of the [[Aqualii]] are the most verbose in the telling of the story, recounting the following myth:
 - Tevros brought forth **[[Ferrovus]]** the Arcane Colossus from the bones of Kanyiirah, an armored four-armed giant wreathed in lava who hewed islands and forged volcanos with his molten hands. He was the first to split the continents apart with his hammer, forging the rugged spine of [[Cara]], carving out [[Evryn]] and [[Delipol]], and smashing the lesser isles into place along [[Duhn]]'s coasts. It was believed that he lay his fiery hammer up along the mountainous edge of Cara for a time, and it melted the glaciers there, leaving behind the deep fjord that leads on into the mountains.

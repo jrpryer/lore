@@ -1,0 +1,18 @@
+---
+aat-event-title: The Shattering of Yggrāhkærn
+aat-event-body: Without the guidance of their god, the thinly balanced society of [[Yggrāhkærn]] collapsed in on itself in less than 1000 years
+aat-event-start-date: -2424-01-24
+timelines:
+  - kanyiirah-bd-creation-from-chaos
+aat-event-picture:
+aat-render-enabled: true
+---
+Without the guidance of their god, the thinly balanced society of [[Yggrāhkærn]] had collapsed in on itself in less than 1000 years, the First Titans having fallen to infighting while their [[#Colossi]] offspring swelled into over population, decimating the natural resources of the small, dense sphere and shattering their older generations on the anvil of famine and starvation. Within the span of 800 years, the vibrant gathering places of the First Titans that had once been the cradle of imagination, culture, art, and industry were thrown down and buried in the bloody, desperate civil wars of a young and panicked people.
+
+Great warriors had arisen among the largest factions of [[#Colossi]], attempting to lead their followers with a brave face and bearing godlike titles themselves as they slaughtered through their own kin for survival: Surtur the berserker consumed with rage and the breaking of foes, Throk the axe-wielding pioneer who freed the cities of ice from the hand of Heívallr. And Loyek his brother, who was the favored assassin of the southern city's queen Hæletec. And of course Olession, the holy acolyte of Avæylith that desperately sought the restoration of a new world order, claiming to bear the eyes of Fate and prophesying that the law of the [[#Urævdarn]] could not be maintained in this faltering world, even as he waded through the blood and bodies of [[#Colossi]] children.
+
+These, along with the others, made up the [[#N'ordning]], a pseudo-pantheon of the greatest beings born into the known universe; forged of great hardship these names were legendary amongst a dying people. Then suddenly, the warring [[#Colossi]] population collapsed, even as their 'gods' stormed the original holy city, following Olession as he led them in a final assault on the First Titans, slaughtering them out of contempt, spite, and fear of competition. This, the violent mutilation of the First Titans, was the final act that broke Avæylith and caused the shattering of the foundations of the sphere. In an instant the mantle of the world was cracked by the torrent of releasing energy that emanated from the mangled forms of the First Titans: as their Spirits clawed to remain bound, they desperately lashed out at the gathered N'ordning murderers that fed on their arcanely runed flesh and drank of their semi-divine blood. Driven mad with singular rage, these Spirits ripped through the Aether that held the Soul of the sphere intact, suffocating another innocent like a drowning man that clings to another, yet dooms them both to a cold, watery death. 
+
+With a heavy heart, Avæylith gathered the remaining Forms of the [[#N'ordning]] and beseeched [[Life|Rhajos]] to allow them asylum upon the young Kanyiiran sphere as refugees. Rhajos readily agreed, seeing the opportunity to experiment with new forms and bloodlines from an entirely different stock. [[Family of the Endless|Myst]] also aided Avæylith in shrouding the tragic memories of [[Yggrāhkærn]] from their minds, save for those born by their leaders.
+
+Only Hæletec's pride was still undaunted as she refused the charity of Avæylith and sought instead the favor of [[Entropy|Mykædra]] who begrudgingly allowed the duchess and her children to take refuge on her craggy [[Muéræ|moon of Hræth]] ^9c44a6

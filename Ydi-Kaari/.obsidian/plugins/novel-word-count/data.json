@@ -122,6 +122,217 @@
         "newlineCount": 0
       }
     },
+    "Timeline/The Departure.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 881,
+      "nonWhitespaceCharacterCount": 738,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738258659369,
+      "modifiedDate": 1765048807038,
+      "sizeInBytes": 1270,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45666666666666667,
+        "wordCount": 137,
+        "characterCount": 881,
+        "nonWhitespaceCharacterCount": 738,
+        "newlineCount": 8
+      },
+      "frontmatter": {
+        "tags": [
+          "major-event",
+          "gods"
+        ],
+        "aat-event-start-date": "0-04-07",
+        "timelines": [
+          "kanyiirah-sd-of-founding"
+        ],
+        "aat-render-enabled": true,
+        "aat-event-end-date": "1-1-1",
+        "aat-event-body": "From this day, the walking gods of the Kanirûl were never seen nor heard from again, marking the second most formative day in the history of the sacred isles and becoming known simply as **The Departure**."
+      }
+    },
+    "Timeline/Kanyiiran Timeline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 284,
+      "nonWhitespaceCharacterCount": 251,
+      "newlineCount": 19,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761956229870,
+      "modifiedDate": 1765048547796,
+      "sizeInBytes": 284,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 285,
+        "nonWhitespaceCharacterCount": 252,
+        "newlineCount": 19
+      }
+    },
+    "Timeline/the Thinning.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 267,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.89,
+      "characterCount": 1691,
+      "nonWhitespaceCharacterCount": 1420,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 1.0075471698113208,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738532084957,
+      "modifiedDate": 1765048709576,
+      "sizeInBytes": 1983,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.97,
+        "wordCount": 291,
+        "characterCount": 1850,
+        "nonWhitespaceCharacterCount": 1552,
+        "newlineCount": 12
+      },
+      "frontmatter": {
+        "aat-event-start-date": "15-04-08",
+        "aat-event-end-date": "47-07-01",
+        "timelines": [
+          "kanyiirah-sd-of-founding"
+        ],
+        "aat-render-enabled": true,
+        "aat-event-body": "Wars fought between new nations of the sacred isles, severely diminishing the populations of select species. Commonly called the Thinning."
+      }
+    },
+    "Timeline/Nashtara.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 363,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.21,
+      "characterCount": 2275,
+      "nonWhitespaceCharacterCount": 1902,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 1.369811320754717,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": [
+        "The Birth",
+        "Nashtaran"
+      ],
+      "createdDate": 1738254460717,
+      "modifiedDate": 1762570572728,
+      "sizeInBytes": 2667,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.21,
+        "wordCount": 363,
+        "characterCount": 2275,
+        "nonWhitespaceCharacterCount": 1902,
+        "newlineCount": 13
+      },
+      "frontmatter": {
+        "aliases": [
+          "The Birth",
+          "Nashtaran"
+        ],
+        "tags": [
+          "major-event"
+        ],
+        "aat-event-body": "~\"The Birth\"~\nA great disturbance in the cosmos; the mass influx of the sapient species to Kanyiirah and with them, a new host of lesser gods known as the [[Kanirûl Pantheon]].",
+        "aat-event-start-date": "-639-01-01",
+        "timelines": [
+          "kanyiirah-bd-of-walking-gods"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
+      }
+    },
+    "Timeline/Kanyiiran Timeline.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 217,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7233333333333334,
+      "characterCount": 2341,
+      "nonWhitespaceCharacterCount": 1537,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 0.8188679245283019,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738626938990,
+      "modifiedDate": 1760673035299,
+      "sizeInBytes": 5034,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7233333333333334,
+        "wordCount": 217,
+        "characterCount": 2341,
+        "nonWhitespaceCharacterCount": 1537,
+        "newlineCount": 29
+      }
+    },
+    "Timeline/Fate of the Heartkindler.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1099,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6633333333333336,
+      "characterCount": 6521,
+      "nonWhitespaceCharacterCount": 5391,
+      "newlineCount": 25,
+      "readingTimeInMinutes": 4.1471698113207545,
+      "linkCount": 17,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738264701278,
+      "modifiedDate": 1764440788005,
+      "sizeInBytes": 6686,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.6633333333333336,
+        "wordCount": 1099,
+        "characterCount": 6521,
+        "nonWhitespaceCharacterCount": 5391,
+        "newlineCount": 25
+      },
+      "frontmatter": {
+        "aat-event-start-date": "-1-08-14",
+        "aat-event-title": "Death of Valencia",
+        "aat-render-enabled": true,
+        "timelines": [
+          "kanyiirah-bd-of-walking-gods"
+        ]
+      }
+    },
     "z_Assets/yggrāhkærn.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -176,33 +387,6 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/wyrd_ring_v.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738291238692,
-      "modifiedDate": 1738291238694,
-      "sizeInBytes": 1748339,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "z_Assets/Ydi-Kaari.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -230,7 +414,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/volat_theoc1.png": {
+    "z_Assets/wyrd_ring_v.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -245,9 +429,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738282982581,
-      "modifiedDate": 1738282982581,
-      "sizeInBytes": 778623,
+      "createdDate": 1738291238692,
+      "modifiedDate": 1738291238694,
+      "sizeInBytes": 1748339,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -311,7 +495,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/vaal'k1.png": {
+    "z_Assets/volat_theoc1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -326,9 +510,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738361461564,
-      "modifiedDate": 1738361461564,
-      "sizeInBytes": 2695067,
+      "createdDate": 1738282982581,
+      "modifiedDate": 1738282982581,
+      "sizeInBytes": 778623,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -365,7 +549,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Umbravex1.png": {
+    "z_Assets/vaal'k1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -380,9 +564,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738258020632,
-      "modifiedDate": 1738258020635,
-      "sizeInBytes": 2094773,
+      "createdDate": 1738361461564,
+      "modifiedDate": 1738361461564,
+      "sizeInBytes": 2695067,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -419,6 +603,60 @@
         "newlineCount": 0
       }
     },
+    "z_Assets/Tympestyr_symbol.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738275666088,
+      "modifiedDate": 1738275666091,
+      "sizeInBytes": 4846600,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/Umbravex1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738258020632,
+      "modifiedDate": 1738258020635,
+      "sizeInBytes": 2094773,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "z_Assets/Valencia_full.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -437,33 +675,6 @@
       "createdDate": 1738264600377,
       "modifiedDate": 1738264600379,
       "sizeInBytes": 471727,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/TrueMagic_full.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738289802888,
-      "modifiedDate": 1738289802889,
-      "sizeInBytes": 1440679,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -500,7 +711,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Tympestyr_symbol.png": {
+    "z_Assets/TrueMagic_full.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -515,9 +726,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738275666088,
-      "modifiedDate": 1738275666091,
-      "sizeInBytes": 4846600,
+      "createdDate": 1738289802888,
+      "modifiedDate": 1738289802889,
+      "sizeInBytes": 1440679,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -554,7 +765,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Sylvania_test.png": {
+    "z_Assets/Taerannon_symbol.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -569,36 +780,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738258165222,
-      "modifiedDate": 1738258165225,
-      "sizeInBytes": 1986327,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/shaedriel1_zyra.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738534167814,
-      "modifiedDate": 1738534167816,
-      "sizeInBytes": 2251901,
+      "createdDate": 1738276710996,
+      "modifiedDate": 1738276710999,
+      "sizeInBytes": 4684846,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -635,7 +819,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Taerannon_symbol.png": {
+    "z_Assets/Sylvania_test.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -650,9 +834,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738276710996,
-      "modifiedDate": 1738276710999,
-      "sizeInBytes": 4684846,
+      "createdDate": 1738258165222,
+      "modifiedDate": 1738258165225,
+      "sizeInBytes": 1986327,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -716,6 +900,33 @@
         "newlineCount": 0
       }
     },
+    "z_Assets/ships.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1762747845734,
+      "modifiedDate": 1762747513973,
+      "sizeInBytes": 2433120,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "z_Assets/ropeshian1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -734,6 +945,60 @@
       "createdDate": 1739221238270,
       "modifiedDate": 1739027308828,
       "sizeInBytes": 1981084,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/shaedriel1_zyra.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738534167814,
+      "modifiedDate": 1738534167816,
+      "sizeInBytes": 2251901,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/Pyronia_symbol.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738277032771,
+      "modifiedDate": 1738277032773,
+      "sizeInBytes": 4917442,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -824,31 +1089,31 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Pyronia_symbol.png": {
-      "isCountable": false,
+    "z_Assets/Outsider_art": {
+      "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
+      "noteCount": 1,
+      "wordCount": 66028,
       "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
+      "wordGoal": null,
+      "pageCount": 220.09333333333333,
+      "characterCount": 3210484,
+      "nonWhitespaceCharacterCount": 3170509,
+      "newlineCount": 6866,
+      "readingTimeInMinutes": 223.67762264150943,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738277032771,
-      "modifiedDate": 1738277032773,
-      "sizeInBytes": 4917442,
+      "aliases": null,
+      "createdDate": 1740272459174,
+      "modifiedDate": 1740272459733,
+      "sizeInBytes": 3426308,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 220.09333333333333,
+        "wordCount": 66028,
+        "characterCount": 3210484,
+        "nonWhitespaceCharacterCount": 3170509,
+        "newlineCount": 6866
       }
     },
     "z_Assets/passionsapathies.png": {
@@ -878,33 +1143,6 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Outsider_art": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 66028,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 220.09333333333333,
-      "characterCount": 3210484,
-      "nonWhitespaceCharacterCount": 3170509,
-      "newlineCount": 6866,
-      "readingTimeInMinutes": 223.67762264150943,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740272459174,
-      "modifiedDate": 1740272459733,
-      "sizeInBytes": 3426308,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 220.09333333333333,
-        "wordCount": 66028,
-        "characterCount": 3210484,
-        "nonWhitespaceCharacterCount": 3170509,
-        "newlineCount": 6866
-      }
-    },
     "z_Assets/newSins.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -932,7 +1170,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/malovelium3.png": {
+    "z_Assets/muerai.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -947,9 +1185,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739313306235,
-      "modifiedDate": 1739120537350,
-      "sizeInBytes": 1822535,
+      "createdDate": 1738449542985,
+      "modifiedDate": 1738449542987,
+      "sizeInBytes": 860424,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -986,7 +1224,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/muerai.png": {
+    "z_Assets/malovelium3.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1001,9 +1239,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738449542985,
-      "modifiedDate": 1738449542987,
-      "sizeInBytes": 860424,
+      "createdDate": 1739313306235,
+      "modifiedDate": 1739120537350,
+      "sizeInBytes": 1822535,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1067,6 +1305,60 @@
         "newlineCount": 0
       }
     },
+    "z_Assets/Lunatas_symbol.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738264217983,
+      "modifiedDate": 1738264217988,
+      "sizeInBytes": 5290959,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/Lunatas_full.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738264133144,
+      "modifiedDate": 1738264133146,
+      "sizeInBytes": 476699,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "z_Assets/malovelium1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1121,60 +1413,6 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/Lunatas_full.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738264133144,
-      "modifiedDate": 1738264133146,
-      "sizeInBytes": 476699,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/Lunatas_symbol.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738264217983,
-      "modifiedDate": 1738264217988,
-      "sizeInBytes": 5290959,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "z_Assets/Lunastas_profile.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1193,33 +1431,6 @@
       "createdDate": 1738264167235,
       "modifiedDate": 1738264167235,
       "sizeInBytes": 512113,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/lorae_art1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1740967231988,
-      "modifiedDate": 1740967231989,
-      "sizeInBytes": 930422,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1256,33 +1467,6 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/lorae_art3.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1740967828659,
-      "modifiedDate": 1740967828661,
-      "sizeInBytes": 1571876,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "z_Assets/kanyiirah_planet.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1310,7 +1494,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/erdu1.png": {
+    "z_Assets/lorae_art3.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1325,9 +1509,36 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739221237561,
-      "modifiedDate": 1739023444750,
-      "sizeInBytes": 2006318,
+      "createdDate": 1740967828659,
+      "modifiedDate": 1740967828661,
+      "sizeInBytes": 1571876,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/lorae_art1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740967231988,
+      "modifiedDate": 1740967231989,
+      "sizeInBytes": 930422,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1355,6 +1566,60 @@
       "createdDate": 1750298984333,
       "modifiedDate": 1723395904000,
       "sizeInBytes": 16736254,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/echni.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1742684554126,
+      "modifiedDate": 1742676399192,
+      "sizeInBytes": 47265,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/erdu1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739221237561,
+      "modifiedDate": 1739023444750,
+      "sizeInBytes": 2006318,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1418,7 +1683,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/divine_ring.png": {
+    "z_Assets/empire1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1433,9 +1698,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738290645486,
-      "modifiedDate": 1738290645490,
-      "sizeInBytes": 1379288,
+      "createdDate": 1739221236334,
+      "modifiedDate": 1738952579548,
+      "sizeInBytes": 1568088,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1472,7 +1737,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/empire1.png": {
+    "z_Assets/divine_ring.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1487,36 +1752,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1739221236334,
-      "modifiedDate": 1738952579548,
-      "sizeInBytes": 1568088,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/echni.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1742684554126,
-      "modifiedDate": 1742676399192,
-      "sizeInBytes": 47265,
+      "createdDate": 1738290645486,
+      "modifiedDate": 1738290645490,
+      "sizeInBytes": 1379288,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1544,6 +1782,87 @@
       "createdDate": 1738290707359,
       "modifiedDate": 1738290707360,
       "sizeInBytes": 1382001,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/daemons_art1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1740967581871,
+      "modifiedDate": 1740967581873,
+      "sizeInBytes": 373490,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/colossiRemnent3.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739758884403,
+      "modifiedDate": 1739758884403,
+      "sizeInBytes": 38371,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/daemonArcane1.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739762179993,
+      "modifiedDate": 1739762179994,
+      "sizeInBytes": 76177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1607,7 +1926,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/daemons_art1.png": {
+    "z_Assets/colossiRemnent2.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1622,63 +1941,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1740967581871,
-      "modifiedDate": 1740967581873,
-      "sizeInBytes": 373490,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/daemonArcane1.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739762179993,
-      "modifiedDate": 1739762179994,
-      "sizeInBytes": 76177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/colossiRemnent3.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739758884403,
-      "modifiedDate": 1739758884403,
-      "sizeInBytes": 38371,
+      "createdDate": 1739758688686,
+      "modifiedDate": 1739758688686,
+      "sizeInBytes": 41743,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1715,60 +1980,6 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/colossiRemnent2.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739758688686,
-      "modifiedDate": 1739758688686,
-      "sizeInBytes": 41743,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/colossiRemnent1.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1739758544122,
-      "modifiedDate": 1739758544124,
-      "sizeInBytes": 70069,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "z_Assets/brotherhood1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1787,33 +1998,6 @@
       "createdDate": 1739221238102,
       "modifiedDate": 1739027815517,
       "sizeInBytes": 778749,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/Borealis_full.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738277283169,
-      "modifiedDate": 1738277283170,
-      "sizeInBytes": 472792,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1850,6 +2034,33 @@
         "newlineCount": 0
       }
     },
+    "z_Assets/colossiRemnent1.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1739758544122,
+      "modifiedDate": 1739758544124,
+      "sizeInBytes": 70069,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "z_Assets/Caelaistra1.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1868,6 +2079,60 @@
       "createdDate": 1738257535242,
       "modifiedDate": 1738257535244,
       "sizeInBytes": 2068318,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/Borealis_full.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738277283169,
+      "modifiedDate": 1738277283170,
+      "sizeInBytes": 472792,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "z_Assets/arcane_ring_t.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1738291007841,
+      "modifiedDate": 1738291007843,
+      "sizeInBytes": 1708818,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1931,7 +2196,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/arcane_ring_t.png": {
+    "z_Assets/aethmi-istar.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1946,36 +2211,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738291007841,
-      "modifiedDate": 1738291007843,
-      "sizeInBytes": 1708818,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
-    "z_Assets/anarul1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1738280993392,
-      "modifiedDate": 1738280993393,
-      "sizeInBytes": 2483888,
+      "createdDate": 1738361606705,
+      "modifiedDate": 1738361606708,
+      "sizeInBytes": 2084747,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2012,7 +2250,7 @@
         "newlineCount": 0
       }
     },
-    "z_Assets/aethmi-istar.png": {
+    "z_Assets/anarul1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -2027,9 +2265,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1738361606705,
-      "modifiedDate": 1738361606708,
-      "sizeInBytes": 2084747,
+      "createdDate": 1738280993392,
+      "modifiedDate": 1738280993393,
+      "sizeInBytes": 2483888,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -2089,8 +2327,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1739221241791,
-      "modifiedDate": 1757739138124,
-      "sizeInBytes": 13403,
+      "modifiedDate": 1761972669744,
+      "sizeInBytes": 13628,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.86,
@@ -2102,7 +2340,14 @@
       "frontmatter": {
         "tags": [
           "lore-doc"
-        ]
+        ],
+        "aat-event-start-date": "-422-11-22",
+        "aat-event-body": "The legend of Rukhzar Mao and the final confrontation with the Divine Titan, Caelaistra",
+        "timelines": [
+          "kanyiirah-bd-of-walking-gods"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
       }
     },
     "Vingettes/Secrets Unseen.md": {
@@ -2132,159 +2377,6 @@
         "newlineCount": 27
       }
     },
-    "Timeline/The Departure.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 137,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 848,
-      "nonWhitespaceCharacterCount": 709,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.5169811320754717,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738258659369,
-      "modifiedDate": 1757728144340,
-      "sizeInBytes": 904,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.45666666666666667,
-        "wordCount": 137,
-        "characterCount": 848,
-        "nonWhitespaceCharacterCount": 709,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": [
-          "major-event",
-          "gods"
-        ],
-        "dates": "0 SD"
-      }
-    },
-    "Timeline/Nashtara.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 362,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2066666666666668,
-      "characterCount": 2248,
-      "nonWhitespaceCharacterCount": 1873,
-      "newlineCount": 14,
-      "readingTimeInMinutes": 1.3660377358490565,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": [
-        "The Birth"
-      ],
-      "createdDate": 1738254460717,
-      "modifiedDate": 1755358533089,
-      "sizeInBytes": 2319,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.2066666666666668,
-        "wordCount": 362,
-        "characterCount": 2248,
-        "nonWhitespaceCharacterCount": 1873,
-        "newlineCount": 14
-      },
-      "frontmatter": {
-        "aliases": [
-          "The Birth"
-        ],
-        "tags": [
-          "major-event"
-        ],
-        "dates": "~189 BD"
-      }
-    },
-    "Timeline/The Thinning.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 291,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.97,
-      "characterCount": 1851,
-      "nonWhitespaceCharacterCount": 1553,
-      "newlineCount": 12,
-      "readingTimeInMinutes": 1.0981132075471698,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738532084957,
-      "modifiedDate": 1751566969618,
-      "sizeInBytes": 1858,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.97,
-        "wordCount": 291,
-        "characterCount": 1851,
-        "nonWhitespaceCharacterCount": 1553,
-        "newlineCount": 12
-      }
-    },
-    "Timeline/Kanyiiran Timeline.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 217,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7233333333333334,
-      "characterCount": 2341,
-      "nonWhitespaceCharacterCount": 1537,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 0.8188679245283019,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738626938990,
-      "modifiedDate": 1760319319603,
-      "sizeInBytes": 5034,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7233333333333334,
-        "wordCount": 217,
-        "characterCount": 2341,
-        "nonWhitespaceCharacterCount": 1537,
-        "newlineCount": 29
-      }
-    },
-    "Timeline/Fate of the Heartkindler.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 965,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.216666666666667,
-      "characterCount": 5721,
-      "nonWhitespaceCharacterCount": 4732,
-      "newlineCount": 19,
-      "readingTimeInMinutes": 3.641509433962264,
-      "linkCount": 15,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738264701278,
-      "modifiedDate": 1760311649718,
-      "sizeInBytes": 5742,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.216666666666667,
-        "wordCount": 965,
-        "characterCount": 5721,
-        "nonWhitespaceCharacterCount": 4732,
-        "newlineCount": 19
-      }
-    },
     "MOONS.html": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -2312,18 +2404,290 @@
         "newlineCount": 0
       }
     },
+    "Delz Ilgar2.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1764442366474,
+      "modifiedDate": 1764442365171,
+      "sizeInBytes": 253514,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "GM/Vault.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2505,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.35,
+      "characterCount": 15876,
+      "nonWhitespaceCharacterCount": 13241,
+      "newlineCount": 110,
+      "readingTimeInMinutes": 9.452830188679245,
+      "linkCount": 27,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1739598443452,
+      "modifiedDate": 1764644472215,
+      "sizeInBytes": 15944,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 7.83,
+        "wordCount": 2349,
+        "characterCount": 14980,
+        "nonWhitespaceCharacterCount": 12510,
+        "newlineCount": 103
+      }
+    },
+    "GM/War In Heaven.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2541,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 8.47,
+      "characterCount": 16192,
+      "nonWhitespaceCharacterCount": 13555,
+      "newlineCount": 94,
+      "readingTimeInMinutes": 9.58867924528302,
+      "linkCount": 15,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738620871680,
+      "modifiedDate": 1764182020468,
+      "sizeInBytes": 16319,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 8.47,
+        "wordCount": 2541,
+        "characterCount": 16192,
+        "nonWhitespaceCharacterCount": 13555,
+        "newlineCount": 94
+      },
+      "frontmatter": {
+        "tags": [
+          "REVIEW"
+        ]
+      }
+    },
+    "GM/SECRETS.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2023,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.743333333333333,
+      "characterCount": 12758,
+      "nonWhitespaceCharacterCount": 10640,
+      "newlineCount": 84,
+      "readingTimeInMinutes": 7.633962264150943,
+      "linkCount": 67,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738525687318,
+      "modifiedDate": 1764182122185,
+      "sizeInBytes": 12844,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 6.743333333333333,
+        "wordCount": 2023,
+        "characterCount": 12758,
+        "nonWhitespaceCharacterCount": 10640,
+        "newlineCount": 84
+      },
+      "frontmatter": {
+        "tags": [
+          "GM"
+        ]
+      }
+    },
+    "GM/_miniatures.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 121,
+      "nonWhitespaceCharacterCount": 114,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1752244436008,
+      "modifiedDate": 1752197245726,
+      "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 121,
+        "nonWhitespaceCharacterCount": 114,
+        "newlineCount": 4
+      }
+    },
+    "GM/GM DUMP.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7055,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 23.516666666666666,
+      "characterCount": 45876,
+      "nonWhitespaceCharacterCount": 36962,
+      "newlineCount": 293,
+      "readingTimeInMinutes": 26.62264150943396,
+      "linkCount": 65,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738523344627,
+      "modifiedDate": 1764609076763,
+      "sizeInBytes": 46087,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 23.516666666666666,
+        "wordCount": 7055,
+        "characterCount": 45877,
+        "nonWhitespaceCharacterCount": 36963,
+        "newlineCount": 293
+      },
+      "frontmatter": {
+        "tags": [
+          "GM"
+        ]
+      }
+    },
+    "GM/TIMELINE.canvas": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 740,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.466666666666667,
+      "characterCount": 8856,
+      "nonWhitespaceCharacterCount": 6047,
+      "newlineCount": 37,
+      "readingTimeInMinutes": 2.792452830188679,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738615543453,
+      "modifiedDate": 1761921093606,
+      "sizeInBytes": 14243,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.466666666666667,
+        "wordCount": 740,
+        "characterCount": 8856,
+        "nonWhitespaceCharacterCount": 6047,
+        "newlineCount": 37
+      }
+    },
+    "GM/Idanthi.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 7,
+      "nonWhitespaceCharacterCount": 6,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739221242451,
+      "modifiedDate": 1761974309347,
+      "sizeInBytes": 311,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 7,
+        "nonWhitespaceCharacterCount": 6,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "REVIEW"
+        ],
+        "aat-event-title": "Modern Idanthi Emergence",
+        "aat-event-body": "Estimated to be when founding lineages of the modern day Idanthi came into prominence",
+        "aat-event-start-date": "-2100-01-01",
+        "timelines": [
+          "kanyiirah-bd-of-giants-and-man"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
+      }
+    },
+    "GM/Hexploration.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 3604,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 12.013333333333334,
+      "characterCount": 22391,
+      "nonWhitespaceCharacterCount": 18508,
+      "newlineCount": 401,
+      "readingTimeInMinutes": 13.6,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1760647184324,
+      "modifiedDate": 1760647369113,
+      "sizeInBytes": 22519,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 12.013333333333334,
+        "wordCount": 3604,
+        "characterCount": 22391,
+        "nonWhitespaceCharacterCount": 18508,
+        "newlineCount": 401
+      }
+    },
     "Encyclopedia/Vaal'k.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 56,
+      "wordCount": 55,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18666666666666668,
-      "characterCount": 451,
-      "nonWhitespaceCharacterCount": 392,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 445,
+      "nonWhitespaceCharacterCount": 387,
       "newlineCount": 6,
-      "readingTimeInMinutes": 0.21132075471698114,
+      "readingTimeInMinutes": 0.20754716981132076,
       "linkCount": 4,
       "embedCount": 1,
       "aliases": [
@@ -2332,8 +2696,8 @@
         "angel"
       ],
       "createdDate": 1738361442327,
-      "modifiedDate": 1752542083532,
-      "sizeInBytes": 585,
+      "modifiedDate": 1764608968724,
+      "sizeInBytes": 579,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.18666666666666668,
@@ -2358,31 +2722,44 @@
         ]
       }
     },
-    "Encyclopedia/Runeblades.md": {
+    "Encyclopedia/Vampyrs.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 254,
+      "wordCount": 3558,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8466666666666667,
-      "characterCount": 1722,
-      "nonWhitespaceCharacterCount": 1447,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.9584905660377359,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738291897791,
-      "modifiedDate": 1759684931553,
-      "sizeInBytes": 1735,
+      "pageCount": 11.86,
+      "characterCount": 25421,
+      "nonWhitespaceCharacterCount": 21696,
+      "newlineCount": 270,
+      "readingTimeInMinutes": 13.426415094339623,
+      "linkCount": 17,
+      "embedCount": 1,
+      "aliases": [
+        "vampires"
+      ],
+      "createdDate": 1760313119385,
+      "modifiedDate": 1762186358861,
+      "sizeInBytes": 25597,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.8466666666666667,
-        "wordCount": 254,
-        "characterCount": 1722,
-        "nonWhitespaceCharacterCount": 1447,
-        "newlineCount": 22
+        "pageCount": 11.86,
+        "wordCount": 3558,
+        "characterCount": 25421,
+        "nonWhitespaceCharacterCount": 21696,
+        "newlineCount": 270
+      },
+      "frontmatter": {
+        "aliases": [
+          "vampires"
+        ],
+        "tags": [
+          "vampire"
+        ],
+        "source": [
+          "Wyrd"
+        ]
       }
     },
     "Encyclopedia/Shaedriël.md": {
@@ -2426,34 +2803,257 @@
         ]
       }
     },
+    "Encyclopedia/Runeblades.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 294,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.98,
+      "characterCount": 1987,
+      "nonWhitespaceCharacterCount": 1670,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 1.109433962264151,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738291897791,
+      "modifiedDate": 1762318508496,
+      "sizeInBytes": 2000,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.98,
+        "wordCount": 294,
+        "characterCount": 1987,
+        "nonWhitespaceCharacterCount": 1670,
+        "newlineCount": 26
+      }
+    },
+    "Encyclopedia/Organizations/Gilded Order.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 108,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.36,
+      "characterCount": 685,
+      "nonWhitespaceCharacterCount": 575,
+      "newlineCount": 6,
+      "readingTimeInMinutes": 0.4075471698113208,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738362012808,
+      "modifiedDate": 1752542111408,
+      "sizeInBytes": 784,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.36,
+        "wordCount": 108,
+        "characterCount": 685,
+        "nonWhitespaceCharacterCount": 575,
+        "newlineCount": 6
+      },
+      "frontmatter": {
+        "tags": [
+          "organization",
+          "Lustrálian",
+          "celestial",
+          "divine"
+        ],
+        "source": [
+          "Divine"
+        ]
+      }
+    },
+    "Encyclopedia/Organizations/Kanirûl Pantheon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 849,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.83,
+      "characterCount": 5524,
+      "nonWhitespaceCharacterCount": 4628,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 3.2037735849056603,
+      "linkCount": 32,
+      "embedCount": 3,
+      "aliases": [
+        "Middle Pantheon",
+        "Kanirûl"
+      ],
+      "createdDate": 1738254700665,
+      "modifiedDate": 1764863656623,
+      "sizeInBytes": 5678,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.8266666666666667,
+        "wordCount": 848,
+        "characterCount": 5519,
+        "nonWhitespaceCharacterCount": 4624,
+        "newlineCount": 43
+      },
+      "frontmatter": {
+        "tags": [
+          "gods",
+          "Echnica",
+          "pantheon",
+          "Echnican",
+          "Vólaril"
+        ],
+        "aliases": [
+          "Middle Pantheon",
+          "Kanirûl"
+        ]
+      }
+    },
+    "Encyclopedia/Organizations/Titans.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1256,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 4.1866666666666665,
+      "characterCount": 7919,
+      "nonWhitespaceCharacterCount": 6588,
+      "newlineCount": 48,
+      "readingTimeInMinutes": 4.739622641509434,
+      "linkCount": 29,
+      "embedCount": 5,
+      "aliases": null,
+      "createdDate": 1738256097281,
+      "modifiedDate": 1761956438234,
+      "sizeInBytes": 8325,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 4.1866666666666665,
+        "wordCount": 1256,
+        "characterCount": 7919,
+        "nonWhitespaceCharacterCount": 6588,
+        "newlineCount": 48
+      },
+      "frontmatter": {
+        "tags": [
+          "titan"
+        ],
+        "aat-event-title": "Cara-Duhnian Titans",
+        "aat-event-body": "The Anarûl manifested great Titans to fulfill their will upon the sphere are carve the Sacred Isles into a paradise that reflected the greatest Kanyiirah had to offer",
+        "aat-event-start-date": "-742-09-04",
+        "timelines": [
+          "kanyiirah-bd-of-giants-and-man"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
+      }
+    },
+    "Encyclopedia/Organizations/Anarûl Pantheon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 233,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7766666666666666,
+      "characterCount": 1601,
+      "nonWhitespaceCharacterCount": 1342,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 0.879245283018868,
+      "linkCount": 9,
+      "embedCount": 2,
+      "aliases": [
+        "Upper Pantheon",
+        "Anarûl",
+        "Fathers and Mothers"
+      ],
+      "createdDate": 1738280643702,
+      "modifiedDate": 1760669754891,
+      "sizeInBytes": 1728,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7766666666666666,
+        "wordCount": 233,
+        "characterCount": 1601,
+        "nonWhitespaceCharacterCount": 1342,
+        "newlineCount": 28
+      },
+      "frontmatter": {
+        "tags": [
+          "gods",
+          "pantheon",
+          "Vólaril"
+        ],
+        "aliases": [
+          "Upper Pantheon",
+          "Anarûl",
+          "Fathers and Mothers"
+        ]
+      }
+    },
+    "Encyclopedia/Souls, Spirits, Forms.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1081,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6033333333333335,
+      "characterCount": 7022,
+      "nonWhitespaceCharacterCount": 5887,
+      "newlineCount": 43,
+      "readingTimeInMinutes": 4.079245283018868,
+      "linkCount": 19,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738529038196,
+      "modifiedDate": 1764181775235,
+      "sizeInBytes": 7064,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.6033333333333335,
+        "wordCount": 1081,
+        "characterCount": 7022,
+        "nonWhitespaceCharacterCount": 5887,
+        "newlineCount": 43
+      },
+      "frontmatter": {
+        "tags": [
+          "law"
+        ]
+      }
+    },
     "Encyclopedia/Passions & Apathies.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1221,
+      "wordCount": 1355,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.07,
-      "characterCount": 7574,
-      "nonWhitespaceCharacterCount": 6315,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 4.607547169811321,
-      "linkCount": 13,
-      "embedCount": 1,
+      "pageCount": 4.516666666666667,
+      "characterCount": 8760,
+      "nonWhitespaceCharacterCount": 7358,
+      "newlineCount": 51,
+      "readingTimeInMinutes": 5.113207547169812,
+      "linkCount": 14,
+      "embedCount": 3,
       "aliases": [
         "Passions",
         "Apathies"
       ],
       "createdDate": 1738280472531,
-      "modifiedDate": 1755358566306,
-      "sizeInBytes": 7699,
+      "modifiedDate": 1764442583404,
+      "sizeInBytes": 8886,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.07,
-        "wordCount": 1221,
-        "characterCount": 7574,
-        "nonWhitespaceCharacterCount": 6315,
-        "newlineCount": 32
+        "pageCount": 4.516666666666667,
+        "wordCount": 1355,
+        "characterCount": 8760,
+        "nonWhitespaceCharacterCount": 7358,
+        "newlineCount": 51
       },
       "frontmatter": {
         "tags": [
@@ -2470,35 +3070,624 @@
         ]
       }
     },
-    "Encyclopedia/Souls, Spirits, Forms.md": {
+    "Encyclopedia/Lineages/Syderean.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1048,
+      "wordCount": 587,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.493333333333333,
-      "characterCount": 6780,
-      "nonWhitespaceCharacterCount": 5679,
-      "newlineCount": 43,
-      "readingTimeInMinutes": 3.9547169811320755,
-      "linkCount": 18,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738529038196,
-      "modifiedDate": 1757729985697,
-      "sizeInBytes": 6820,
+      "pageCount": 1.9566666666666668,
+      "characterCount": 3430,
+      "nonWhitespaceCharacterCount": 2827,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 2.2150943396226417,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": [
+        "Tieflings"
+      ],
+      "createdDate": 1762625927081,
+      "modifiedDate": 1762655993431,
+      "sizeInBytes": 3509,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.493333333333333,
-        "wordCount": 1048,
-        "characterCount": 6780,
-        "nonWhitespaceCharacterCount": 5679,
-        "newlineCount": 43
+        "pageCount": 1.9566666666666668,
+        "wordCount": 587,
+        "characterCount": 3430,
+        "nonWhitespaceCharacterCount": 2827,
+        "newlineCount": 23
       },
       "frontmatter": {
         "tags": [
-          "law"
+          "lineage",
+          "tiefling"
+        ],
+        "aliases": [
+          "Tieflings"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Smallfolk.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 428,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4266666666666667,
+      "characterCount": 2728,
+      "nonWhitespaceCharacterCount": 2290,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 1.6150943396226416,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762584586755,
+      "modifiedDate": 1762583732558,
+      "sizeInBytes": 2767,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4266666666666667,
+        "wordCount": 428,
+        "characterCount": 2728,
+        "nonWhitespaceCharacterCount": 2290,
+        "newlineCount": 21
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Urik.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 750,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.5,
+      "characterCount": 4568,
+      "nonWhitespaceCharacterCount": 3807,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 2.830188679245283,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740437100749,
+      "modifiedDate": 1762623400349,
+      "sizeInBytes": 4617,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.5,
+        "wordCount": 750,
+        "characterCount": 4568,
+        "nonWhitespaceCharacterCount": 3807,
+        "newlineCount": 23
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "orcs"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/_Lineages.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 894,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.98,
+      "characterCount": 6410,
+      "nonWhitespaceCharacterCount": 5398,
+      "newlineCount": 66,
+      "readingTimeInMinutes": 3.3735849056603775,
+      "linkCount": 36,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738254916686,
+      "modifiedDate": 1764609082637,
+      "sizeInBytes": 6453,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.98,
+        "wordCount": 894,
+        "characterCount": 6413,
+        "nonWhitespaceCharacterCount": 5401,
+        "newlineCount": 66
+      },
+      "frontmatter": {
+        "tags": [
+          "REVIEW"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Shix.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 677,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.256666666666667,
+      "characterCount": 4185,
+      "nonWhitespaceCharacterCount": 3495,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 2.5547169811320756,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1762477190717,
+      "modifiedDate": 1762623355150,
+      "sizeInBytes": 4221,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.256666666666667,
+        "wordCount": 677,
+        "characterCount": 4185,
+        "nonWhitespaceCharacterCount": 3495,
+        "newlineCount": 24
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Nagaji.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 439,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4633333333333334,
+      "characterCount": 2816,
+      "nonWhitespaceCharacterCount": 2367,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 1.6566037735849057,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": [
+        "lizardfolk"
+      ],
+      "createdDate": 1739313307488,
+      "modifiedDate": 1762632340002,
+      "sizeInBytes": 2893,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4633333333333334,
+        "wordCount": 439,
+        "characterCount": 2816,
+        "nonWhitespaceCharacterCount": 2367,
+        "newlineCount": 18
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "lizardfolk"
+        ],
+        "aliases": [
+          "lizardfolk"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Oread.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 394,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 2581,
+      "nonWhitespaceCharacterCount": 2181,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 1.4867924528301886,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739221242676,
+      "modifiedDate": 1762623349850,
+      "sizeInBytes": 2661,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3133333333333332,
+        "wordCount": 394,
+        "characterCount": 2581,
+        "nonWhitespaceCharacterCount": 2181,
+        "newlineCount": 17
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "REVIEW",
+          "dwarf",
+          "dwarves",
+          "dwarven"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Kitsune.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 656,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1866666666666665,
+      "characterCount": 4154,
+      "nonWhitespaceCharacterCount": 3481,
+      "newlineCount": 24,
+      "readingTimeInMinutes": 2.4754716981132074,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755378125718,
+      "modifiedDate": 1762655328953,
+      "sizeInBytes": 4192,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1866666666666665,
+        "wordCount": 656,
+        "characterCount": 4154,
+        "nonWhitespaceCharacterCount": 3481,
+        "newlineCount": 24
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "REVIEW"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Hobgoblin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1008,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.36,
+      "characterCount": 6312,
+      "nonWhitespaceCharacterCount": 5281,
+      "newlineCount": 44,
+      "readingTimeInMinutes": 3.8037735849056604,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "Goblin",
+        "goblinoid"
+      ],
+      "createdDate": 1739221242076,
+      "modifiedDate": 1762623342003,
+      "sizeInBytes": 6396,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.36,
+        "wordCount": 1008,
+        "characterCount": 6312,
+        "nonWhitespaceCharacterCount": 5281,
+        "newlineCount": 44
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage"
+        ],
+        "aliases": [
+          "Goblin",
+          "goblinoid"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Elvi.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 2755,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 9.183333333333334,
+      "characterCount": 18258,
+      "nonWhitespaceCharacterCount": 15423,
+      "newlineCount": 99,
+      "readingTimeInMinutes": 10.39622641509434,
+      "linkCount": 26,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739313307372,
+      "modifiedDate": 1764609068954,
+      "sizeInBytes": 18375,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 9.183333333333334,
+        "wordCount": 2755,
+        "characterCount": 18258,
+        "nonWhitespaceCharacterCount": 15423,
+        "newlineCount": 99
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "Elvi",
+          "elven",
+          "elvish"
+        ],
+        "aliases": null
+      }
+    },
+    "Encyclopedia/Lineages/Ghoran.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1086,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.62,
+      "characterCount": 6558,
+      "nonWhitespaceCharacterCount": 5451,
+      "newlineCount": 40,
+      "readingTimeInMinutes": 4.09811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1755378125572,
+      "modifiedDate": 1762583432259,
+      "sizeInBytes": 6610,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.62,
+        "wordCount": 1086,
+        "characterCount": 6558,
+        "nonWhitespaceCharacterCount": 5451,
+        "newlineCount": 40
+      },
+      "frontmatter": {
+        "tags": [
+          "Dryad",
+          "lineage"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Draktharun.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 8,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 74,
+      "nonWhitespaceCharacterCount": 65,
+      "newlineCount": 2,
+      "readingTimeInMinutes": 0.03018867924528302,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739676011284,
+      "modifiedDate": 1755360424841,
+      "sizeInBytes": 144,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02666666666666667,
+        "wordCount": 8,
+        "characterCount": 74,
+        "nonWhitespaceCharacterCount": 65,
+        "newlineCount": 2
+      },
+      "frontmatter": {
+        "tags": [
+          "dragons",
+          "Draconic",
+          "dragonborn",
+          "dragonkin"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Alseid.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 731,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4366666666666665,
+      "characterCount": 4618,
+      "nonWhitespaceCharacterCount": 3869,
+      "newlineCount": 28,
+      "readingTimeInMinutes": 2.758490566037736,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739313307255,
+      "modifiedDate": 1762623319578,
+      "sizeInBytes": 4683,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4366666666666665,
+        "wordCount": 731,
+        "characterCount": 4618,
+        "nonWhitespaceCharacterCount": 3869,
+        "newlineCount": 28
+      },
+      "frontmatter": {
+        "tags": [
+          "lineage",
+          "centaurs"
+        ]
+      }
+    },
+    "Encyclopedia/Lineages/Aqualii.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 745,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4833333333333334,
+      "characterCount": 5036,
+      "nonWhitespaceCharacterCount": 4240,
+      "newlineCount": 49,
+      "readingTimeInMinutes": 2.811320754716981,
+      "linkCount": 11,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738255103984,
+      "modifiedDate": 1762623328465,
+      "sizeInBytes": 5138,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4833333333333334,
+        "wordCount": 745,
+        "characterCount": 5036,
+        "nonWhitespaceCharacterCount": 4240,
+        "newlineCount": 49
+      },
+      "frontmatter": {
+        "tags": [
+          "Aquan",
+          "REVIEW",
+          "lineage"
+        ]
+      }
+    },
+    "Encyclopedia/Fauna, Flora, Natural Resources/Leviathans.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 212,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1302,
+      "nonWhitespaceCharacterCount": 1086,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.8,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": [
+        "spawn of Umbravex"
+      ],
+      "createdDate": 1739221240562,
+      "modifiedDate": 1760996298415,
+      "sizeInBytes": 1358,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.7066666666666667,
+        "wordCount": 212,
+        "characterCount": 1302,
+        "nonWhitespaceCharacterCount": 1086,
+        "newlineCount": 7
+      },
+      "frontmatter": {
+        "aliases": [
+          "spawn of Umbravex"
+        ],
+        "source": [
+          "Wyrd"
+        ]
+      }
+    },
+    "Encyclopedia/Fauna, Flora, Natural Resources/Malovelium.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 617,
+      "nonWhitespaceCharacterCount": 520,
+      "newlineCount": 9,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 2,
+      "embedCount": 3,
+      "aliases": null,
+      "createdDate": 1739221242951,
+      "modifiedDate": 1739120539361,
+      "sizeInBytes": 691,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.3,
+        "wordCount": 90,
+        "characterCount": 617,
+        "nonWhitespaceCharacterCount": 520,
+        "newlineCount": 9
+      },
+      "frontmatter": {
+        "tags": [
+          "titan",
+          "primordial",
+          "material"
+        ],
+        "source": [
+          "Primordial"
+        ]
+      }
+    },
+    "Encyclopedia/Fauna, Flora, Natural Resources/Aurelyn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 62,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 345,
+      "nonWhitespaceCharacterCount": 284,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.2339622641509434,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739221240476,
+      "modifiedDate": 1738336562193,
+      "sizeInBytes": 348,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.20666666666666667,
+        "wordCount": 62,
+        "characterCount": 345,
+        "nonWhitespaceCharacterCount": 284,
+        "newlineCount": 1
+      }
+    },
+    "Encyclopedia/Magic/Wyrd.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 292,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9733333333333334,
+      "characterCount": 1801,
+      "nonWhitespaceCharacterCount": 1497,
+      "newlineCount": 11,
+      "readingTimeInMinutes": 1.1018867924528302,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738291117819,
+      "modifiedDate": 1754803374103,
+      "sizeInBytes": 1862,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9733333333333334,
+        "wordCount": 292,
+        "characterCount": 1801,
+        "nonWhitespaceCharacterCount": 1497,
+        "newlineCount": 11
+      },
+      "frontmatter": {
+        "tags": [
+          "wyrd",
+          "magic"
+        ],
+        "source": [
+          "Wyrd"
         ]
       }
     },
@@ -2538,39 +3727,44 @@
         ]
       }
     },
-    "Encyclopedia/Magic/Wyrd.md": {
+    "Encyclopedia/Magic/Primordial Mastery - True Naming.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 292,
+      "wordCount": 295,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9733333333333334,
-      "characterCount": 1801,
-      "nonWhitespaceCharacterCount": 1497,
-      "newlineCount": 11,
-      "readingTimeInMinutes": 1.1018867924528302,
+      "pageCount": 0.9833333333333333,
+      "characterCount": 1834,
+      "nonWhitespaceCharacterCount": 1519,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 1.1132075471698113,
       "linkCount": 2,
       "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738291117819,
-      "modifiedDate": 1754803374103,
-      "sizeInBytes": 1862,
+      "aliases": [
+        "Primordial mastery",
+        "True Naming",
+        "True Name"
+      ],
+      "createdDate": 1738869005960,
+      "modifiedDate": 1754803898076,
+      "sizeInBytes": 1927,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.9733333333333334,
-        "wordCount": 292,
-        "characterCount": 1801,
-        "nonWhitespaceCharacterCount": 1497,
-        "newlineCount": 11
+        "pageCount": 0.9833333333333333,
+        "wordCount": 295,
+        "characterCount": 1834,
+        "nonWhitespaceCharacterCount": 1519,
+        "newlineCount": 20
       },
       "frontmatter": {
         "tags": [
-          "wyrd",
-          "magic"
+          "primordial"
         ],
-        "source": [
-          "Wyrd"
+        "aliases": [
+          "Primordial mastery",
+          "True Naming",
+          "True Name"
         ]
       }
     },
@@ -2652,158 +3846,6 @@
         ]
       }
     },
-    "Encyclopedia/Magic/Divine Mastery - Spirit Linking.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 307,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0233333333333334,
-      "characterCount": 1935,
-      "nonWhitespaceCharacterCount": 1620,
-      "newlineCount": 13,
-      "readingTimeInMinutes": 1.1584905660377358,
-      "linkCount": 5,
-      "embedCount": 1,
-      "aliases": [
-        "Divine mastery",
-        "Spirit Linking"
-      ],
-      "createdDate": 1738868608614,
-      "modifiedDate": 1754802895945,
-      "sizeInBytes": 2011,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0233333333333334,
-        "wordCount": 307,
-        "characterCount": 1935,
-        "nonWhitespaceCharacterCount": 1620,
-        "newlineCount": 13
-      },
-      "frontmatter": {
-        "tags": [
-          "divine"
-        ],
-        "aliases": [
-          "Divine mastery",
-          "Spirit Linking"
-        ]
-      }
-    },
-    "Encyclopedia/Magic/Primordial Mastery - True Naming.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 295,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9833333333333333,
-      "characterCount": 1834,
-      "nonWhitespaceCharacterCount": 1519,
-      "newlineCount": 20,
-      "readingTimeInMinutes": 1.1132075471698113,
-      "linkCount": 2,
-      "embedCount": 1,
-      "aliases": [
-        "Primordial mastery",
-        "True Naming",
-        "True Name"
-      ],
-      "createdDate": 1738869005960,
-      "modifiedDate": 1754803898076,
-      "sizeInBytes": 1927,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9833333333333333,
-        "wordCount": 295,
-        "characterCount": 1834,
-        "nonWhitespaceCharacterCount": 1519,
-        "newlineCount": 20
-      },
-      "frontmatter": {
-        "tags": [
-          "primordial"
-        ],
-        "aliases": [
-          "Primordial mastery",
-          "True Naming",
-          "True Name"
-        ]
-      }
-    },
-    "Encyclopedia/Magic/Divine.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 336,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.12,
-      "characterCount": 2060,
-      "nonWhitespaceCharacterCount": 1712,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 1.2679245283018867,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738290424005,
-      "modifiedDate": 1755357893909,
-      "sizeInBytes": 2126,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.12,
-        "wordCount": 336,
-        "characterCount": 2060,
-        "nonWhitespaceCharacterCount": 1712,
-        "newlineCount": 17
-      },
-      "frontmatter": {
-        "tags": [
-          "divine",
-          "magic"
-        ],
-        "source": [
-          "Divine"
-        ]
-      }
-    },
-    "Encyclopedia/Magic/Arcane.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 259,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8633333333333333,
-      "characterCount": 1661,
-      "nonWhitespaceCharacterCount": 1386,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 0.9773584905660377,
-      "linkCount": 1,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738290898238,
-      "modifiedDate": 1754803751845,
-      "sizeInBytes": 1723,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8633333333333333,
-        "wordCount": 259,
-        "characterCount": 1661,
-        "nonWhitespaceCharacterCount": 1386,
-        "newlineCount": 15
-      },
-      "frontmatter": {
-        "tags": [
-          "arcane",
-          "magic"
-        ],
-        "source": [
-          "Arcane"
-        ]
-      }
-    },
     "Encyclopedia/Magic/Arcane Mastery - Words of Power.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2843,207 +3885,114 @@
         ]
       }
     },
-    "Encyclopedia/Organizations/Anarûl Pantheon.md": {
+    "Encyclopedia/Magic/Divine Mastery - Spirit Linking.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 233,
+      "wordCount": 307,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7766666666666666,
-      "characterCount": 1600,
-      "nonWhitespaceCharacterCount": 1342,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 0.879245283018868,
-      "linkCount": 9,
-      "embedCount": 2,
+      "pageCount": 1.0233333333333334,
+      "characterCount": 1935,
+      "nonWhitespaceCharacterCount": 1620,
+      "newlineCount": 13,
+      "readingTimeInMinutes": 1.1584905660377358,
+      "linkCount": 5,
+      "embedCount": 1,
       "aliases": [
-        "Upper Pantheon",
-        "Anarûl",
-        "Fathers and Mothers"
+        "Divine mastery",
+        "Spirit Linking"
       ],
-      "createdDate": 1738280643702,
-      "modifiedDate": 1760318888668,
-      "sizeInBytes": 1727,
+      "createdDate": 1738868608614,
+      "modifiedDate": 1754802895945,
+      "sizeInBytes": 2011,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.7766666666666666,
-        "wordCount": 233,
-        "characterCount": 1600,
-        "nonWhitespaceCharacterCount": 1342,
-        "newlineCount": 27
+        "pageCount": 1.0233333333333334,
+        "wordCount": 307,
+        "characterCount": 1935,
+        "nonWhitespaceCharacterCount": 1620,
+        "newlineCount": 13
       },
       "frontmatter": {
         "tags": [
-          "gods",
-          "pantheon",
-          "Vólaril"
+          "divine"
         ],
         "aliases": [
-          "Upper Pantheon",
-          "Anarûl",
-          "Fathers and Mothers"
+          "Divine mastery",
+          "Spirit Linking"
         ]
       }
     },
-    "Encyclopedia/Organizations/Gilded Order.md": {
+    "Encyclopedia/Magic/Arcane.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 108,
+      "wordCount": 259,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.36,
-      "characterCount": 685,
-      "nonWhitespaceCharacterCount": 575,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.4075471698113208,
-      "linkCount": 3,
-      "embedCount": 0,
+      "pageCount": 0.8633333333333333,
+      "characterCount": 1661,
+      "nonWhitespaceCharacterCount": 1386,
+      "newlineCount": 15,
+      "readingTimeInMinutes": 0.9773584905660377,
+      "linkCount": 1,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738362012808,
-      "modifiedDate": 1752542111408,
-      "sizeInBytes": 784,
+      "createdDate": 1738290898238,
+      "modifiedDate": 1754803751845,
+      "sizeInBytes": 1723,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.36,
-        "wordCount": 108,
-        "characterCount": 685,
-        "nonWhitespaceCharacterCount": 575,
-        "newlineCount": 6
+        "pageCount": 0.8633333333333333,
+        "wordCount": 259,
+        "characterCount": 1661,
+        "nonWhitespaceCharacterCount": 1386,
+        "newlineCount": 15
       },
       "frontmatter": {
         "tags": [
-          "organization",
-          "Lustrálian",
-          "celestial",
-          "divine"
+          "arcane",
+          "magic"
+        ],
+        "source": [
+          "Arcane"
+        ]
+      }
+    },
+    "Encyclopedia/Magic/Divine.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 336,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.12,
+      "characterCount": 2060,
+      "nonWhitespaceCharacterCount": 1712,
+      "newlineCount": 17,
+      "readingTimeInMinutes": 1.2679245283018867,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738290424005,
+      "modifiedDate": 1755357893909,
+      "sizeInBytes": 2126,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.12,
+        "wordCount": 336,
+        "characterCount": 2060,
+        "nonWhitespaceCharacterCount": 1712,
+        "newlineCount": 17
+      },
+      "frontmatter": {
+        "tags": [
+          "divine",
+          "magic"
         ],
         "source": [
           "Divine"
-        ]
-      }
-    },
-    "Encyclopedia/Organizations/Titans.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1250,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.166666666666667,
-      "characterCount": 7880,
-      "nonWhitespaceCharacterCount": 6555,
-      "newlineCount": 48,
-      "readingTimeInMinutes": 4.716981132075472,
-      "linkCount": 29,
-      "embedCount": 5,
-      "aliases": null,
-      "createdDate": 1738256097281,
-      "modifiedDate": 1760319538761,
-      "sizeInBytes": 7942,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.166666666666667,
-        "wordCount": 1250,
-        "characterCount": 7880,
-        "nonWhitespaceCharacterCount": 6555,
-        "newlineCount": 48
-      },
-      "frontmatter": {
-        "tags": [
-          "titan"
-        ]
-      }
-    },
-    "Encyclopedia/Organizations/Kanirûl Pantheon.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 848,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.8266666666666667,
-      "characterCount": 5520,
-      "nonWhitespaceCharacterCount": 4625,
-      "newlineCount": 43,
-      "readingTimeInMinutes": 3.2,
-      "linkCount": 32,
-      "embedCount": 3,
-      "aliases": [
-        "Middle Pantheon",
-        "Kanirûl"
-      ],
-      "createdDate": 1738254700665,
-      "modifiedDate": 1760318901302,
-      "sizeInBytes": 5674,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.8266666666666667,
-        "wordCount": 848,
-        "characterCount": 5520,
-        "nonWhitespaceCharacterCount": 4625,
-        "newlineCount": 43
-      },
-      "frontmatter": {
-        "tags": [
-          "gods",
-          "Echnica",
-          "pantheon",
-          "Echnican",
-          "Vólaril"
-        ],
-        "aliases": [
-          "Middle Pantheon",
-          "Kanirûl"
-        ]
-      }
-    },
-    "Encyclopedia/Drakhaën.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 922,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.0733333333333333,
-      "characterCount": 6158,
-      "nonWhitespaceCharacterCount": 5188,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 3.479245283018868,
-      "linkCount": 27,
-      "embedCount": 1,
-      "aliases": [
-        "dragons",
-        "Narithalë",
-        "An’kryn",
-        "Zy’kryn"
-      ],
-      "createdDate": 1738530650921,
-      "modifiedDate": 1757737015452,
-      "sizeInBytes": 6396,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.0733333333333333,
-        "wordCount": 922,
-        "characterCount": 6158,
-        "nonWhitespaceCharacterCount": 5188,
-        "newlineCount": 44
-      },
-      "frontmatter": {
-        "tags": [
-          "Draconic",
-          "dragons"
-        ],
-        "aliases": [
-          "dragons",
-          "Narithalë",
-          "An’kryn",
-          "Zy’kryn"
-        ],
-        "source": [
-          "Divine",
-          "Wyrd"
         ]
       }
     },
@@ -3113,6 +4062,43 @@
         ]
       }
     },
+    "Encyclopedia/Languages/Aquan.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 169,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 1272,
+      "nonWhitespaceCharacterCount": 1062,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 0.6377358490566037,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": [
+        "Qualissë"
+      ],
+      "createdDate": 1738255255942,
+      "modifiedDate": 1739064328285,
+      "sizeInBytes": 1348,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5633333333333334,
+        "wordCount": 169,
+        "characterCount": 1272,
+        "nonWhitespaceCharacterCount": 1062,
+        "newlineCount": 27
+      },
+      "frontmatter": {
+        "tags": [
+          "Aquan"
+        ],
+        "aliases": [
+          "Qualissë"
+        ]
+      }
+    },
     "Encyclopedia/Languages/Druidic.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3177,519 +4163,45 @@
         ]
       }
     },
-    "Encyclopedia/Languages/Aquan.md": {
+    "Encyclopedia/Daemons.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 169,
+      "wordCount": 1939,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5633333333333334,
-      "characterCount": 1272,
-      "nonWhitespaceCharacterCount": 1062,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 0.6377358490566037,
-      "linkCount": 2,
-      "embedCount": 0,
+      "pageCount": 6.463333333333333,
+      "characterCount": 12575,
+      "nonWhitespaceCharacterCount": 10531,
+      "newlineCount": 125,
+      "readingTimeInMinutes": 7.316981132075472,
+      "linkCount": 22,
+      "embedCount": 3,
       "aliases": [
-        "Qualissë"
+        "Daemon Lords"
       ],
-      "createdDate": 1738255255942,
-      "modifiedDate": 1739064328285,
-      "sizeInBytes": 1348,
+      "createdDate": 1738544703447,
+      "modifiedDate": 1762655405677,
+      "sizeInBytes": 12713,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.5633333333333334,
-        "wordCount": 169,
-        "characterCount": 1272,
-        "nonWhitespaceCharacterCount": 1062,
-        "newlineCount": 27
+        "pageCount": 6.463333333333333,
+        "wordCount": 1939,
+        "characterCount": 12575,
+        "nonWhitespaceCharacterCount": 10531,
+        "newlineCount": 125
       },
       "frontmatter": {
         "tags": [
-          "Aquan"
+          "daemons",
+          "Abyssal"
+        ],
+        "source": [
+          "Arcane",
+          "Wyrd"
         ],
         "aliases": [
-          "Qualissë"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/_Lineages.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 817,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.723333333333333,
-      "characterCount": 5915,
-      "nonWhitespaceCharacterCount": 4992,
-      "newlineCount": 62,
-      "readingTimeInMinutes": 3.0830188679245283,
-      "linkCount": 35,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738254916686,
-      "modifiedDate": 1760302395080,
-      "sizeInBytes": 5958,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.723333333333333,
-        "wordCount": 817,
-        "characterCount": 5915,
-        "nonWhitespaceCharacterCount": 4992,
-        "newlineCount": 62
-      },
-      "frontmatter": {
-        "tags": [
-          "REVIEW"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Oread.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 293,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9766666666666667,
-      "characterCount": 1858,
-      "nonWhitespaceCharacterCount": 1561,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 1.1056603773584905,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739221242676,
-      "modifiedDate": 1755357909977,
-      "sizeInBytes": 1935,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9766666666666667,
-        "wordCount": 293,
-        "characterCount": 1858,
-        "nonWhitespaceCharacterCount": 1561,
-        "newlineCount": 15
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "REVIEW",
-          "dwarf",
-          "dwarves",
-          "dwarven"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Urik.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 59,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.19666666666666666,
-      "characterCount": 382,
-      "nonWhitespaceCharacterCount": 321,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.22264150943396227,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740437100749,
-      "modifiedDate": 1748124333561,
-      "sizeInBytes": 416,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.19666666666666666,
-        "wordCount": 59,
-        "characterCount": 382,
-        "nonWhitespaceCharacterCount": 321,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "orcs"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Tieflings.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 45,
-      "nonWhitespaceCharacterCount": 38,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1739756961012,
-      "modifiedDate": 1740437429404,
-      "sizeInBytes": 81,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 45,
-        "nonWhitespaceCharacterCount": 38,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "REVIEW"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Strix.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 537,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.79,
-      "characterCount": 3213,
-      "nonWhitespaceCharacterCount": 2668,
-      "newlineCount": 21,
-      "readingTimeInMinutes": 2.026415094339623,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739313307592,
-      "modifiedDate": 1740437137740,
-      "sizeInBytes": 3255,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.79,
-        "wordCount": 537,
-        "characterCount": 3213,
-        "nonWhitespaceCharacterCount": 2668,
-        "newlineCount": 21
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "REVIEW"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Nagaji.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 353,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1766666666666667,
-      "characterCount": 2135,
-      "nonWhitespaceCharacterCount": 1773,
-      "newlineCount": 15,
-      "readingTimeInMinutes": 1.3320754716981131,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": [
-        "lizardfolk"
-      ],
-      "createdDate": 1739313307488,
-      "modifiedDate": 1746327027197,
-      "sizeInBytes": 2205,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1766666666666667,
-        "wordCount": 353,
-        "characterCount": 2135,
-        "nonWhitespaceCharacterCount": 1773,
-        "newlineCount": 15
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "lizardfolk"
-        ],
-        "aliases": [
-          "lizardfolk"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Hobgoblin.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 949,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.1633333333333336,
-      "characterCount": 5911,
-      "nonWhitespaceCharacterCount": 4936,
-      "newlineCount": 46,
-      "readingTimeInMinutes": 3.581132075471698,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": [
-        "Goblin",
-        "goblinoid"
-      ],
-      "createdDate": 1739221242076,
-      "modifiedDate": 1741279659670,
-      "sizeInBytes": 5994,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.1633333333333336,
-        "wordCount": 949,
-        "characterCount": 5911,
-        "nonWhitespaceCharacterCount": 4936,
-        "newlineCount": 46
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage"
-        ],
-        "aliases": [
-          "Goblin",
-          "goblinoid"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Elvi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1367,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.556666666666667,
-      "characterCount": 9184,
-      "nonWhitespaceCharacterCount": 7761,
-      "newlineCount": 60,
-      "readingTimeInMinutes": 5.158490566037736,
-      "linkCount": 21,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739313307372,
-      "modifiedDate": 1755357923747,
-      "sizeInBytes": 9285,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.556666666666667,
-        "wordCount": 1367,
-        "characterCount": 9184,
-        "nonWhitespaceCharacterCount": 7761,
-        "newlineCount": 60
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "Elvi",
-          "elven",
-          "elvish"
-        ],
-        "aliases": null
-      }
-    },
-    "Encyclopedia/Lineages/Kitsune.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 186,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.62,
-      "characterCount": 1246,
-      "nonWhitespaceCharacterCount": 1057,
-      "newlineCount": 7,
-      "readingTimeInMinutes": 0.7018867924528301,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755378125718,
-      "modifiedDate": 1751567358742,
-      "sizeInBytes": 1271,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.62,
-        "wordCount": 186,
-        "characterCount": 1246,
-        "nonWhitespaceCharacterCount": 1057,
-        "newlineCount": 7
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Ghoran.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1808,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.026666666666666,
-      "characterCount": 10627,
-      "nonWhitespaceCharacterCount": 8800,
-      "newlineCount": 175,
-      "readingTimeInMinutes": 6.8226415094339625,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1755378125572,
-      "modifiedDate": 1755358429088,
-      "sizeInBytes": 10702,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.026666666666666,
-        "wordCount": 1808,
-        "characterCount": 10627,
-        "nonWhitespaceCharacterCount": 8800,
-        "newlineCount": 175
-      },
-      "frontmatter": {
-        "tags": [
-          "Dryad",
-          "lineage"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Draktharun.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 8,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 74,
-      "nonWhitespaceCharacterCount": 65,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.03018867924528302,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739676011284,
-      "modifiedDate": 1755360424841,
-      "sizeInBytes": 144,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02666666666666667,
-        "wordCount": 8,
-        "characterCount": 74,
-        "nonWhitespaceCharacterCount": 65,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "dragons",
-          "Draconic",
-          "dragonborn",
-          "dragonkin"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Aqualii.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 449,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4966666666666666,
-      "characterCount": 3241,
-      "nonWhitespaceCharacterCount": 2742,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 1.6943396226415095,
-      "linkCount": 11,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738255103984,
-      "modifiedDate": 1757737144904,
-      "sizeInBytes": 3340,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4966666666666666,
-        "wordCount": 449,
-        "characterCount": 3241,
-        "nonWhitespaceCharacterCount": 2742,
-        "newlineCount": 37
-      },
-      "frontmatter": {
-        "tags": [
-          "Aquan",
-          "REVIEW",
-          "lineage"
-        ]
-      }
-    },
-    "Encyclopedia/Lineages/Alseid.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 692,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.3066666666666666,
-      "characterCount": 4373,
-      "nonWhitespaceCharacterCount": 3665,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 2.611320754716981,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739313307255,
-      "modifiedDate": 1755358175837,
-      "sizeInBytes": 4436,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.3066666666666666,
-        "wordCount": 692,
-        "characterCount": 4373,
-        "nonWhitespaceCharacterCount": 3665,
-        "newlineCount": 28
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "centaurs"
-        ]
-      }
-    },
-    "Encyclopedia/Doctrines.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1315,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 4.383333333333334,
-      "characterCount": 8747,
-      "nonWhitespaceCharacterCount": 7132,
-      "newlineCount": 60,
-      "readingTimeInMinutes": 4.962264150943396,
-      "linkCount": 32,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738463868252,
-      "modifiedDate": 1760305046803,
-      "sizeInBytes": 8810,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 4.383333333333334,
-        "wordCount": 1315,
-        "characterCount": 8747,
-        "nonWhitespaceCharacterCount": 7132,
-        "newlineCount": 60
-      },
-      "frontmatter": {
-        "tags": [
-          "magic"
+          "Daemon Lords"
         ]
       }
     },
@@ -3720,251 +4232,84 @@
         "newlineCount": 5
       }
     },
-    "Encyclopedia/Fauna, Flora, Natural Resources/Leviathans.md": {
+    "Encyclopedia/Drakhaën.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 121,
+      "wordCount": 931,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4033333333333333,
-      "characterCount": 741,
-      "nonWhitespaceCharacterCount": 619,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.45660377358490567,
-      "linkCount": 3,
-      "embedCount": 0,
+      "pageCount": 3.1033333333333335,
+      "characterCount": 6216,
+      "nonWhitespaceCharacterCount": 5234,
+      "newlineCount": 45,
+      "readingTimeInMinutes": 3.513207547169811,
+      "linkCount": 27,
+      "embedCount": 1,
       "aliases": [
-        "spawn of Umbravex"
+        "dragons",
+        "Narithalë",
+        "An’kryn",
+        "Zy’kryn"
       ],
-      "createdDate": 1739221240562,
-      "modifiedDate": 1739601116442,
-      "sizeInBytes": 780,
+      "createdDate": 1738530650921,
+      "modifiedDate": 1764183144104,
+      "sizeInBytes": 6488,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.4033333333333333,
-        "wordCount": 121,
-        "characterCount": 741,
-        "nonWhitespaceCharacterCount": 619,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "aliases": [
-          "spawn of Umbravex"
-        ]
-      }
-    },
-    "Encyclopedia/Fauna, Flora, Natural Resources/Malovelium.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 90,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3,
-      "characterCount": 617,
-      "nonWhitespaceCharacterCount": 520,
-      "newlineCount": 9,
-      "readingTimeInMinutes": 0.33962264150943394,
-      "linkCount": 2,
-      "embedCount": 3,
-      "aliases": null,
-      "createdDate": 1739221242951,
-      "modifiedDate": 1739120539361,
-      "sizeInBytes": 691,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3,
-        "wordCount": 90,
-        "characterCount": 617,
-        "nonWhitespaceCharacterCount": 520,
-        "newlineCount": 9
+        "pageCount": 3.1033333333333335,
+        "wordCount": 931,
+        "characterCount": 6216,
+        "nonWhitespaceCharacterCount": 5234,
+        "newlineCount": 45
       },
       "frontmatter": {
         "tags": [
-          "titan",
-          "primordial",
-          "material"
-        ],
-        "source": [
-          "Primordial"
-        ]
-      }
-    },
-    "Encyclopedia/Fauna, Flora, Natural Resources/Aurelyn.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 62,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20666666666666667,
-      "characterCount": 345,
-      "nonWhitespaceCharacterCount": 284,
-      "newlineCount": 1,
-      "readingTimeInMinutes": 0.2339622641509434,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739221240476,
-      "modifiedDate": 1738336562193,
-      "sizeInBytes": 348,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20666666666666667,
-        "wordCount": 62,
-        "characterCount": 345,
-        "nonWhitespaceCharacterCount": 284,
-        "newlineCount": 1
-      }
-    },
-    "Encyclopedia/Daemons.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1939,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.463333333333333,
-      "characterCount": 12576,
-      "nonWhitespaceCharacterCount": 10531,
-      "newlineCount": 126,
-      "readingTimeInMinutes": 7.316981132075472,
-      "linkCount": 22,
-      "embedCount": 3,
-      "aliases": [
-        "Daemon Lords"
-      ],
-      "createdDate": 1738544703447,
-      "modifiedDate": 1758165915238,
-      "sizeInBytes": 12714,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.463333333333333,
-        "wordCount": 1939,
-        "characterCount": 12576,
-        "nonWhitespaceCharacterCount": 10531,
-        "newlineCount": 126
-      },
-      "frontmatter": {
-        "tags": [
-          "daemons",
-          "Abyssal"
-        ],
-        "source": [
-          "Arcane",
-          "Wyrd"
+          "Draconic",
+          "dragons"
         ],
         "aliases": [
-          "Daemon Lords"
-        ]
-      }
-    },
-    "Encyclopedia/Characters/Umbravex.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 148,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49333333333333335,
-      "characterCount": 1016,
-      "nonWhitespaceCharacterCount": 862,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.5584905660377358,
-      "linkCount": 8,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738257799066,
-      "modifiedDate": 1738360156808,
-      "sizeInBytes": 1071,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.49333333333333335,
-        "wordCount": 148,
-        "characterCount": 1016,
-        "nonWhitespaceCharacterCount": 862,
-        "newlineCount": 10
-      },
-      "frontmatter": {
-        "tags": [
-          "titan",
-          "wyrd"
+          "dragons",
+          "Narithalë",
+          "An’kryn",
+          "Zy’kryn"
         ],
         "source": [
+          "Divine",
           "Wyrd"
-        ]
+        ],
+        "aat-event-start-date": "-422-11-22"
       }
     },
-    "Encyclopedia/Characters/Sylvania.md": {
+    "Encyclopedia/Doctrines.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 310,
+      "wordCount": 1364,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0333333333333334,
-      "characterCount": 1898,
-      "nonWhitespaceCharacterCount": 1578,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 1.169811320754717,
-      "linkCount": 8,
+      "pageCount": 4.546666666666667,
+      "characterCount": 9395,
+      "nonWhitespaceCharacterCount": 7441,
+      "newlineCount": 60,
+      "readingTimeInMinutes": 5.1471698113207545,
+      "linkCount": 32,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738258065710,
-      "modifiedDate": 1752542111330,
-      "sizeInBytes": 1961,
+      "createdDate": 1738463868252,
+      "modifiedDate": 1760672876369,
+      "sizeInBytes": 9458,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.0333333333333334,
-        "wordCount": 310,
-        "characterCount": 1898,
-        "nonWhitespaceCharacterCount": 1578,
-        "newlineCount": 18
+        "pageCount": 4.546666666666667,
+        "wordCount": 1364,
+        "characterCount": 9395,
+        "nonWhitespaceCharacterCount": 7441,
+        "newlineCount": 60
       },
       "frontmatter": {
         "tags": [
-          "titan",
-          "primordial"
-        ],
-        "source": [
-          "Primordial"
-        ]
-      }
-    },
-    "Encyclopedia/Characters/Caelaistra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 61,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.20333333333333334,
-      "characterCount": 401,
-      "nonWhitespaceCharacterCount": 334,
-      "newlineCount": 10,
-      "readingTimeInMinutes": 0.23018867924528302,
-      "linkCount": 3,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738257418254,
-      "modifiedDate": 1756703521447,
-      "sizeInBytes": 454,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.20333333333333334,
-        "wordCount": 61,
-        "characterCount": 401,
-        "nonWhitespaceCharacterCount": 334,
-        "newlineCount": 10
-      },
-      "frontmatter": {
-        "tags": [
-          "titan",
-          "divine"
-        ],
-        "source": [
-          "Divine"
+          "magic"
         ]
       }
     },
@@ -4004,94 +4349,111 @@
         ]
       }
     },
-    "Encyclopedia/Characters/Gods/Taerannon.md": {
+    "Encyclopedia/Characters/Umbravex.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 439,
+      "wordCount": 148,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4633333333333334,
-      "characterCount": 2811,
-      "nonWhitespaceCharacterCount": 2352,
-      "newlineCount": 32,
-      "readingTimeInMinutes": 1.6566037735849057,
-      "linkCount": 7,
-      "embedCount": 2,
-      "aliases": [
-        "Eldest Druid",
-        "The Untamed"
-      ],
-      "createdDate": 1738276505013,
-      "modifiedDate": 1760063087010,
-      "sizeInBytes": 2954,
+      "pageCount": 0.49333333333333335,
+      "characterCount": 1016,
+      "nonWhitespaceCharacterCount": 862,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.5584905660377358,
+      "linkCount": 8,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738257799066,
+      "modifiedDate": 1738360156808,
+      "sizeInBytes": 1071,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.4633333333333334,
-        "wordCount": 439,
-        "characterCount": 2811,
-        "nonWhitespaceCharacterCount": 2352,
-        "newlineCount": 32
+        "pageCount": 0.49333333333333335,
+        "wordCount": 148,
+        "characterCount": 1016,
+        "nonWhitespaceCharacterCount": 862,
+        "newlineCount": 10
       },
       "frontmatter": {
         "tags": [
-          "gods",
-          "Echnica",
-          "walking-god",
-          "divine"
-        ],
-        "aliases": [
-          "Eldest Druid",
-          "The Untamed"
+          "titan",
+          "wyrd"
         ],
         "source": [
-          "Divine",
-          "Primordial"
+          "Wyrd"
         ]
       }
     },
-    "Encyclopedia/Characters/Gods/Pyronia.md": {
+    "Encyclopedia/Characters/Caelaistra.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 50,
+      "wordCount": 61,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 410,
-      "nonWhitespaceCharacterCount": 349,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.18867924528301888,
+      "pageCount": 0.20333333333333334,
+      "characterCount": 401,
+      "nonWhitespaceCharacterCount": 334,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 0.23018867924528302,
       "linkCount": 3,
-      "embedCount": 2,
-      "aliases": [
-        "The Fiery Heart"
-      ],
-      "createdDate": 1738276809657,
-      "modifiedDate": 1760062385162,
-      "sizeInBytes": 545,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738257418254,
+      "modifiedDate": 1756703521447,
+      "sizeInBytes": 454,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.16666666666666666,
-        "wordCount": 50,
-        "characterCount": 410,
-        "nonWhitespaceCharacterCount": 349,
+        "pageCount": 0.20333333333333334,
+        "wordCount": 61,
+        "characterCount": 401,
+        "nonWhitespaceCharacterCount": 334,
+        "newlineCount": 10
+      },
+      "frontmatter": {
+        "tags": [
+          "titan",
+          "divine"
+        ],
+        "source": [
+          "Divine"
+        ]
+      }
+    },
+    "Encyclopedia/Characters/Sylvania.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 316,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0533333333333332,
+      "characterCount": 1936,
+      "nonWhitespaceCharacterCount": 1610,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 1.1924528301886792,
+      "linkCount": 9,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738258065710,
+      "modifiedDate": 1763254009415,
+      "sizeInBytes": 1999,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0533333333333332,
+        "wordCount": 316,
+        "characterCount": 1936,
+        "nonWhitespaceCharacterCount": 1610,
         "newlineCount": 18
       },
       "frontmatter": {
         "tags": [
-          "gods",
-          "Echnica",
-          "walking-god",
-          "divine",
-          "arcane"
-        ],
-        "aliases": [
-          "The Fiery Heart"
+          "titan",
+          "primordial"
         ],
         "source": [
-          "Divine",
-          "Arcane"
+          "Primordial"
         ]
       }
     },
@@ -4140,32 +4502,123 @@
         ]
       }
     },
+    "Encyclopedia/Characters/Gods/Fate.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 378,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.26,
+      "characterCount": 2500,
+      "nonWhitespaceCharacterCount": 2105,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 1.4264150943396225,
+      "linkCount": 13,
+      "embedCount": 1,
+      "aliases": [
+        "The Widow",
+        "Mother of the Stars",
+        "Asteria",
+        "Ephemeral Reverberance",
+        "Avæylith"
+      ],
+      "createdDate": 1738285516438,
+      "modifiedDate": 1761920768864,
+      "sizeInBytes": 2663,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.26,
+        "wordCount": 378,
+        "characterCount": 2500,
+        "nonWhitespaceCharacterCount": 2105,
+        "newlineCount": 18
+      },
+      "frontmatter": {
+        "tags": [
+          "gods",
+          "endless"
+        ],
+        "aliases": [
+          "The Widow",
+          "Mother of the Stars",
+          "Asteria",
+          "Ephemeral Reverberance",
+          "Avæylith"
+        ]
+      }
+    },
+    "Encyclopedia/Characters/Gods/Pyronia.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 50,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 411,
+      "nonWhitespaceCharacterCount": 350,
+      "newlineCount": 18,
+      "readingTimeInMinutes": 0.18867924528301888,
+      "linkCount": 3,
+      "embedCount": 2,
+      "aliases": [
+        "The Fiery Heart"
+      ],
+      "createdDate": 1738276809657,
+      "modifiedDate": 1760406827686,
+      "sizeInBytes": 546,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.16666666666666666,
+        "wordCount": 50,
+        "characterCount": 411,
+        "nonWhitespaceCharacterCount": 350,
+        "newlineCount": 18
+      },
+      "frontmatter": {
+        "tags": [
+          "gods",
+          "Echnica",
+          "walking-god",
+          "divine",
+          "arcane"
+        ],
+        "aliases": [
+          "The Fiery Heart"
+        ],
+        "source": [
+          "Divine",
+          "Arcane"
+        ]
+      }
+    },
     "Encyclopedia/Characters/Gods/Valencia.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 341,
+      "wordCount": 342,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1366666666666667,
-      "characterCount": 2314,
-      "nonWhitespaceCharacterCount": 1950,
+      "pageCount": 1.14,
+      "characterCount": 2344,
+      "nonWhitespaceCharacterCount": 1979,
       "newlineCount": 40,
-      "readingTimeInMinutes": 1.2867924528301886,
-      "linkCount": 12,
+      "readingTimeInMinutes": 1.290566037735849,
+      "linkCount": 13,
       "embedCount": 3,
       "aliases": [
         "The Heartkindler"
       ],
       "createdDate": 1738264410124,
-      "modifiedDate": 1760306384809,
-      "sizeInBytes": 2466,
+      "modifiedDate": 1760672969740,
+      "sizeInBytes": 2496,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1366666666666667,
-        "wordCount": 341,
-        "characterCount": 2314,
-        "nonWhitespaceCharacterCount": 1950,
+        "pageCount": 1.14,
+        "wordCount": 342,
+        "characterCount": 2344,
+        "nonWhitespaceCharacterCount": 1979,
         "newlineCount": 40
       },
       "frontmatter": {
@@ -4185,45 +4638,50 @@
         ]
       }
     },
-    "Encyclopedia/Characters/Gods/Solanas.md": {
+    "Encyclopedia/Characters/Gods/Taerannon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 69,
+      "wordCount": 439,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23,
-      "characterCount": 540,
-      "nonWhitespaceCharacterCount": 460,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 0.26037735849056604,
-      "linkCount": 3,
+      "pageCount": 1.4633333333333334,
+      "characterCount": 2811,
+      "nonWhitespaceCharacterCount": 2352,
+      "newlineCount": 32,
+      "readingTimeInMinutes": 1.6566037735849057,
+      "linkCount": 7,
       "embedCount": 2,
       "aliases": [
-        "The Dawnfather"
+        "Eldest Druid",
+        "The Untamed"
       ],
-      "createdDate": 1738259577671,
-      "modifiedDate": 1758476918695,
-      "sizeInBytes": 647,
+      "createdDate": 1738276505013,
+      "modifiedDate": 1760063087010,
+      "sizeInBytes": 2954,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.23,
-        "wordCount": 69,
-        "characterCount": 540,
-        "nonWhitespaceCharacterCount": 460,
-        "newlineCount": 22
+        "pageCount": 1.4633333333333334,
+        "wordCount": 439,
+        "characterCount": 2811,
+        "nonWhitespaceCharacterCount": 2352,
+        "newlineCount": 32
       },
       "frontmatter": {
         "tags": [
-          "Echnica",
           "gods",
-          "divine",
-          "walking-god"
+          "Echnica",
+          "walking-god",
+          "divine"
         ],
         "aliases": [
-          "The Dawnfather"
+          "Eldest Druid",
+          "The Untamed"
         ],
-        "source": "Divine"
+        "source": [
+          "Divine",
+          "Primordial"
+        ]
       }
     },
     "Encyclopedia/Characters/Gods/Life.md": {
@@ -4274,50 +4732,45 @@
         ]
       }
     },
-    "Encyclopedia/Characters/Gods/Fate.md": {
+    "Encyclopedia/Characters/Gods/Solanas.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 377,
+      "wordCount": 69,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.2566666666666666,
-      "characterCount": 2507,
-      "nonWhitespaceCharacterCount": 2113,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 1.4226415094339622,
-      "linkCount": 13,
-      "embedCount": 1,
+      "pageCount": 0.23,
+      "characterCount": 540,
+      "nonWhitespaceCharacterCount": 460,
+      "newlineCount": 22,
+      "readingTimeInMinutes": 0.26037735849056604,
+      "linkCount": 3,
+      "embedCount": 2,
       "aliases": [
-        "The Widow",
-        "Mother of the Stars",
-        "Asteria",
-        "Ephemeral Reverberance",
-        "Avæylith"
+        "The Dawnfather"
       ],
-      "createdDate": 1738285516438,
-      "modifiedDate": 1758506695882,
-      "sizeInBytes": 2672,
+      "createdDate": 1738259577671,
+      "modifiedDate": 1758476918695,
+      "sizeInBytes": 647,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.2566666666666666,
-        "wordCount": 377,
-        "characterCount": 2507,
-        "nonWhitespaceCharacterCount": 2113,
-        "newlineCount": 18
+        "pageCount": 0.23,
+        "wordCount": 69,
+        "characterCount": 540,
+        "nonWhitespaceCharacterCount": 460,
+        "newlineCount": 22
       },
       "frontmatter": {
         "tags": [
+          "Echnica",
           "gods",
-          "endless"
+          "divine",
+          "walking-god"
         ],
         "aliases": [
-          "The Widow",
-          "Mother of the Stars",
-          "Asteria",
-          "Ephemeral Reverberance",
-          "Avæylith"
-        ]
+          "The Dawnfather"
+        ],
+        "source": "Divine"
       }
     },
     "Encyclopedia/Characters/Gods/Lunatas.md": {
@@ -4362,6 +4815,44 @@
         "source": [
           "Divine",
           "Arcane"
+        ]
+      }
+    },
+    "Encyclopedia/Characters/Gods/Family of the Endless.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1174,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.9133333333333336,
+      "characterCount": 7662,
+      "nonWhitespaceCharacterCount": 6447,
+      "newlineCount": 45,
+      "readingTimeInMinutes": 4.430188679245283,
+      "linkCount": 19,
+      "embedCount": 0,
+      "aliases": [
+        "Endless"
+      ],
+      "createdDate": 1738286544418,
+      "modifiedDate": 1764182096674,
+      "sizeInBytes": 7758,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.9133333333333336,
+        "wordCount": 1174,
+        "characterCount": 7662,
+        "nonWhitespaceCharacterCount": 6447,
+        "newlineCount": 45
+      },
+      "frontmatter": {
+        "tags": [
+          "gods",
+          "endless"
+        ],
+        "aliases": [
+          "Endless"
         ]
       }
     },
@@ -4419,8 +4910,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.3933333333333333,
-      "characterCount": 798,
-      "nonWhitespaceCharacterCount": 669,
+      "characterCount": 793,
+      "nonWhitespaceCharacterCount": 664,
       "newlineCount": 11,
       "readingTimeInMinutes": 0.44528301886792454,
       "linkCount": 3,
@@ -4430,17 +4921,17 @@
         "Father of War",
         "Tevros",
         "Goddess of Death",
-        "Mykaedra"
+        "Mykædra"
       ],
       "createdDate": 1738287007328,
-      "modifiedDate": 1755353087549,
+      "modifiedDate": 1764182078321,
       "sizeInBytes": 933,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3933333333333333,
         "wordCount": 118,
-        "characterCount": 798,
-        "nonWhitespaceCharacterCount": 669,
+        "characterCount": 793,
+        "nonWhitespaceCharacterCount": 664,
         "newlineCount": 11
       },
       "frontmatter": {
@@ -4453,45 +4944,7 @@
           "Father of War",
           "Tevros",
           "Goddess of Death",
-          "Mykaedra"
-        ]
-      }
-    },
-    "Encyclopedia/Characters/Gods/Family of the Endless.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1174,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.9133333333333336,
-      "characterCount": 7665,
-      "nonWhitespaceCharacterCount": 6450,
-      "newlineCount": 45,
-      "readingTimeInMinutes": 4.430188679245283,
-      "linkCount": 19,
-      "embedCount": 0,
-      "aliases": [
-        "Endless"
-      ],
-      "createdDate": 1738286544418,
-      "modifiedDate": 1758506892422,
-      "sizeInBytes": 7758,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.9133333333333336,
-        "wordCount": 1174,
-        "characterCount": 7665,
-        "nonWhitespaceCharacterCount": 6450,
-        "newlineCount": 45
-      },
-      "frontmatter": {
-        "tags": [
-          "gods",
-          "endless"
-        ],
-        "aliases": [
-          "Endless"
+          "Mykædra"
         ]
       }
     },
@@ -4499,29 +4952,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 317,
+      "wordCount": 315,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.0566666666666666,
-      "characterCount": 2095,
-      "nonWhitespaceCharacterCount": 1761,
-      "newlineCount": 28,
-      "readingTimeInMinutes": 1.1962264150943396,
+      "pageCount": 1.05,
+      "characterCount": 2083,
+      "nonWhitespaceCharacterCount": 1753,
+      "newlineCount": 27,
+      "readingTimeInMinutes": 1.1886792452830188,
       "linkCount": 13,
       "embedCount": 2,
       "aliases": [
         "Holy Aesuhir"
       ],
       "createdDate": 1738361601797,
-      "modifiedDate": 1760307794466,
-      "sizeInBytes": 2201,
+      "modifiedDate": 1764861748413,
+      "sizeInBytes": 2558,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.0566666666666666,
-        "wordCount": 317,
-        "characterCount": 2095,
-        "nonWhitespaceCharacterCount": 1761,
-        "newlineCount": 28
+        "pageCount": 1.05,
+        "wordCount": 315,
+        "characterCount": 2084,
+        "nonWhitespaceCharacterCount": 1754,
+        "newlineCount": 27
       },
       "frontmatter": {
         "tags": [
@@ -4531,10 +4984,17 @@
         "source": [
           "Divine"
         ],
-        "dates": "120 BD",
         "aliases": [
           "Holy Aesuhir"
-        ]
+        ],
+        "aat-event-start-date": "-541-03-27",
+        "aat-event-title": "Ascension of Aethmi-Istar",
+        "timelines": [
+          "kanyiirah-bd-of-walking-gods"
+        ],
+        "aat-event-body": "After he was blessed by the will of Asteria, Aesuhir ascended to a new form of minor deity, calling himself the First [[Gilded Order|Empyrean]] and changing his name to **Aethmi-Istar**",
+        "aat-event-picture": "aethmi-istar.png",
+        "aat-render-enabled": true
       }
     },
     "Encyclopedia/Characters/Gods/Borealis.md": {
@@ -4609,241 +5069,58 @@
         "newlineCount": 2
       }
     },
-    "GM/War In Heaven.md": {
-      "isCountable": true,
+    "Delz Ilgar.jpg": {
+      "isCountable": false,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2541,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 8.47,
-      "characterCount": 16190,
-      "nonWhitespaceCharacterCount": 13553,
-      "newlineCount": 94,
-      "readingTimeInMinutes": 9.58867924528302,
-      "linkCount": 15,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738620871680,
-      "modifiedDate": 1758338621324,
-      "sizeInBytes": 16324,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 8.47,
-        "wordCount": 2541,
-        "characterCount": 16190,
-        "nonWhitespaceCharacterCount": 13553,
-        "newlineCount": 94
-      },
-      "frontmatter": {
-        "tags": [
-          "REVIEW"
-        ]
-      }
-    },
-    "GM/Vault.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2178,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 7.26,
-      "characterCount": 13882,
-      "nonWhitespaceCharacterCount": 11586,
-      "newlineCount": 94,
-      "readingTimeInMinutes": 8.218867924528302,
-      "linkCount": 26,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739598443452,
-      "modifiedDate": 1760647318142,
-      "sizeInBytes": 13960,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.536666666666667,
-        "wordCount": 1961,
-        "characterCount": 12517,
-        "nonWhitespaceCharacterCount": 10449,
-        "newlineCount": 81
-      }
-    },
-    "GM/_miniatures.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 121,
-      "nonWhitespaceCharacterCount": 114,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.026415094339622643,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1752244436008,
-      "modifiedDate": 1752197245726,
-      "sizeInBytes": 121,
+      "aliases": [],
+      "createdDate": 1764442366231,
+      "modifiedDate": 1764442365191,
+      "sizeInBytes": 116992,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 121,
-        "nonWhitespaceCharacterCount": 114,
-        "newlineCount": 4
-      }
-    },
-    "GM/GM DUMP.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7298,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 24.326666666666668,
-      "characterCount": 47348,
-      "nonWhitespaceCharacterCount": 38184,
-      "newlineCount": 297,
-      "readingTimeInMinutes": 27.539622641509435,
-      "linkCount": 70,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738523344627,
-      "modifiedDate": 1760648324290,
-      "sizeInBytes": 47563,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 24.136666666666667,
-        "wordCount": 7241,
-        "characterCount": 46974,
-        "nonWhitespaceCharacterCount": 37867,
-        "newlineCount": 295
-      },
-      "frontmatter": {
-        "tags": [
-          "GM"
-        ]
-      }
-    },
-    "GM/SECRETS.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 2008,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.693333333333333,
-      "characterCount": 12687,
-      "nonWhitespaceCharacterCount": 10585,
-      "newlineCount": 81,
-      "readingTimeInMinutes": 7.577358490566038,
-      "linkCount": 67,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1738525687318,
-      "modifiedDate": 1760302365226,
-      "sizeInBytes": 12765,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.693333333333333,
-        "wordCount": 2008,
-        "characterCount": 12687,
-        "nonWhitespaceCharacterCount": 10585,
-        "newlineCount": 81
-      },
-      "frontmatter": {
-        "tags": [
-          "GM"
-        ]
-      }
-    },
-    "GM/TIMELINE.canvas": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 740,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.466666666666667,
-      "characterCount": 8856,
-      "nonWhitespaceCharacterCount": 6047,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 2.792452830188679,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738615543453,
-      "modifiedDate": 1760319830415,
-      "sizeInBytes": 14249,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.466666666666667,
-        "wordCount": 740,
-        "characterCount": 8856,
-        "nonWhitespaceCharacterCount": 6047,
-        "newlineCount": 37
-      }
-    },
-    "GM/Idanthi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 7,
-      "nonWhitespaceCharacterCount": 6,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1739221242451,
-      "modifiedDate": 1739064366539,
-      "sizeInBytes": 43,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.0033333333333333335,
-        "wordCount": 1,
-        "characterCount": 7,
-        "nonWhitespaceCharacterCount": 6,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "lineage",
-          "REVIEW"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "Cosmology/Ydi-Kaari System.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 369,
+      "wordCount": 400,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.23,
-      "characterCount": 2439,
-      "nonWhitespaceCharacterCount": 2027,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 1.3924528301886792,
-      "linkCount": 8,
+      "pageCount": 1.3333333333333333,
+      "characterCount": 2692,
+      "nonWhitespaceCharacterCount": 2236,
+      "newlineCount": 35,
+      "readingTimeInMinutes": 1.509433962264151,
+      "linkCount": 10,
       "embedCount": 3,
       "aliases": null,
       "createdDate": 1738353054999,
-      "modifiedDate": 1757732333806,
-      "sizeInBytes": 2461,
+      "modifiedDate": 1764183036002,
+      "sizeInBytes": 2718,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.23,
-        "wordCount": 369,
-        "characterCount": 2439,
-        "nonWhitespaceCharacterCount": 2027,
-        "newlineCount": 29
+        "pageCount": 1.3333333333333333,
+        "wordCount": 400,
+        "characterCount": 2692,
+        "nonWhitespaceCharacterCount": 2236,
+        "newlineCount": 35
       }
     },
     "Cosmology/Planes of Existence.md": {
@@ -4854,8 +5131,8 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.13,
-      "characterCount": 2176,
-      "nonWhitespaceCharacterCount": 1822,
+      "characterCount": 2174,
+      "nonWhitespaceCharacterCount": 1820,
       "newlineCount": 14,
       "readingTimeInMinutes": 1.2792452830188679,
       "linkCount": 6,
@@ -4864,14 +5141,14 @@
         "planes"
       ],
       "createdDate": 1739599365916,
-      "modifiedDate": 1754482942480,
+      "modifiedDate": 1764181775166,
       "sizeInBytes": 2264,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.13,
         "wordCount": 339,
-        "characterCount": 2176,
-        "nonWhitespaceCharacterCount": 1822,
+        "characterCount": 2174,
+        "nonWhitespaceCharacterCount": 1820,
         "newlineCount": 14
       },
       "frontmatter": {
@@ -4890,29 +5167,29 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1341,
+      "wordCount": 827,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.47,
-      "characterCount": 8760,
-      "nonWhitespaceCharacterCount": 7359,
-      "newlineCount": 72,
-      "readingTimeInMinutes": 5.060377358490566,
-      "linkCount": 30,
-      "embedCount": 7,
+      "pageCount": 2.756666666666667,
+      "characterCount": 5555,
+      "nonWhitespaceCharacterCount": 4673,
+      "newlineCount": 64,
+      "readingTimeInMinutes": 3.120754716981132,
+      "linkCount": 17,
+      "embedCount": 8,
       "aliases": [
         "Olession's Lash"
       ],
       "createdDate": 1742676453856,
-      "modifiedDate": 1758506618302,
-      "sizeInBytes": 8906,
+      "modifiedDate": 1764182632148,
+      "sizeInBytes": 5689,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 4.47,
-        "wordCount": 1341,
-        "characterCount": 8760,
-        "nonWhitespaceCharacterCount": 7359,
-        "newlineCount": 72
+        "pageCount": 2.756666666666667,
+        "wordCount": 827,
+        "characterCount": 5555,
+        "nonWhitespaceCharacterCount": 4673,
+        "newlineCount": 64
       },
       "frontmatter": {
         "tags": [
@@ -4926,18 +5203,55 @@
         ]
       }
     },
-    "Cosmology/5th - Hræth/Muérai.md": {
+    "Cosmology/Shattered - Yggrāhkærn/The Shattering.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 272,
+      "wordCount": 526,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9066666666666666,
-      "characterCount": 1824,
-      "nonWhitespaceCharacterCount": 1531,
-      "newlineCount": 27,
-      "readingTimeInMinutes": 1.0264150943396226,
+      "pageCount": 1.7533333333333334,
+      "characterCount": 3282,
+      "nonWhitespaceCharacterCount": 2751,
+      "newlineCount": 10,
+      "readingTimeInMinutes": 1.9849056603773585,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761956228837,
+      "modifiedDate": 1764182125117,
+      "sizeInBytes": 3626,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7533333333333334,
+        "wordCount": 526,
+        "characterCount": 3282,
+        "nonWhitespaceCharacterCount": 2751,
+        "newlineCount": 10
+      },
+      "frontmatter": {
+        "aat-event-title": "The Shattering of Yggrāhkærn",
+        "aat-event-body": "Without the guidance of their god, the thinly balanced society of [[Yggrāhkærn]] collapsed in on itself in less than 1000 years",
+        "aat-event-start-date": "-2424-01-24",
+        "timelines": [
+          "kanyiirah-bd-creation-from-chaos"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
+      }
+    },
+    "Cosmology/5th - Hræth/Muéræ.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 323,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0766666666666667,
+      "characterCount": 2118,
+      "nonWhitespaceCharacterCount": 1774,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 1.2188679245283018,
       "linkCount": 5,
       "embedCount": 4,
       "aliases": [
@@ -4945,15 +5259,15 @@
         "Gloam"
       ],
       "createdDate": 1738444791461,
-      "modifiedDate": 1752542061327,
-      "sizeInBytes": 1962,
+      "modifiedDate": 1764182100831,
+      "sizeInBytes": 2259,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.9066666666666666,
-        "wordCount": 272,
-        "characterCount": 1824,
-        "nonWhitespaceCharacterCount": 1531,
-        "newlineCount": 27
+        "pageCount": 1.0766666666666667,
+        "wordCount": 323,
+        "characterCount": 2118,
+        "nonWhitespaceCharacterCount": 1774,
+        "newlineCount": 29
       },
       "frontmatter": {
         "tags": [
@@ -4974,107 +5288,80 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 86,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 1,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0,
+      "pageCount": 0.2866666666666667,
+      "characterCount": 530,
+      "nonWhitespaceCharacterCount": 443,
+      "newlineCount": 4,
+      "readingTimeInMinutes": 0.32452830188679244,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [
-        "universal Origin"
+        "universal Origin",
+        "Axis Mundi"
       ],
       "createdDate": 1750298983687,
-      "modifiedDate": 1746326397483,
-      "sizeInBytes": 38,
+      "modifiedDate": 1764435141783,
+      "sizeInBytes": 856,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 1,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 2
+        "pageCount": 0.2866666666666667,
+        "wordCount": 86,
+        "characterCount": 530,
+        "nonWhitespaceCharacterCount": 443,
+        "newlineCount": 4
       },
       "frontmatter": {
         "aliases": [
-          "universal Origin"
-        ]
-      }
-    },
-    "Cosmology/3rd - Echni/Echni.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 623,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.0766666666666667,
-      "characterCount": 3764,
-      "nonWhitespaceCharacterCount": 3115,
-      "newlineCount": 29,
-      "readingTimeInMinutes": 2.3509433962264152,
-      "linkCount": 3,
-      "embedCount": 2,
-      "aliases": [
-        "Syrisi"
-      ],
-      "createdDate": 1738467527907,
-      "modifiedDate": 1752542491638,
-      "sizeInBytes": 3883,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.0766666666666667,
-        "wordCount": 623,
-        "characterCount": 3764,
-        "nonWhitespaceCharacterCount": 3115,
-        "newlineCount": 29
-      },
-      "frontmatter": {
-        "tags": [
-          "Echnica",
-          "gods",
-          "fey",
-          "arcane",
-          "sphere",
-          "faerie"
+          "universal Origin",
+          "Axis Mundi"
         ],
-        "aliases": [
-          "Syrisi"
-        ]
+        "aat-event-title": "Sounding of Harmony at the universal Origin",
+        "aat-event-body": "When Chaos Fractured and the [[Family of the Endless|Endless]] emerged",
+        "aat-event-start-date": "-3925-01-01",
+        "timelines": [
+          "kanyiirah-bd-creation-from-chaos"
+        ],
+        "aat-event-picture": null,
+        "aat-render-enabled": true
       }
     },
-    "Cosmology/4th - Kanyiirah/Moons.md": {
+    "Cosmology/4th - Kanyiirah/Powers/Vólat Church.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1096,
+      "wordCount": 1949,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.6533333333333333,
-      "characterCount": 7449,
-      "nonWhitespaceCharacterCount": 6231,
-      "newlineCount": 92,
-      "readingTimeInMinutes": 4.1358490566037736,
-      "linkCount": 7,
-      "embedCount": 1,
+      "pageCount": 6.496666666666667,
+      "characterCount": 12812,
+      "nonWhitespaceCharacterCount": 10786,
+      "newlineCount": 80,
+      "readingTimeInMinutes": 7.354716981132076,
+      "linkCount": 46,
+      "embedCount": 2,
       "aliases": null,
-      "createdDate": 1738249637299,
-      "modifiedDate": 1752542083403,
-      "sizeInBytes": 7535,
+      "createdDate": 1741980070273,
+      "modifiedDate": 1764868983742,
+      "sizeInBytes": 12966,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.6533333333333333,
-        "wordCount": 1096,
-        "characterCount": 7449,
-        "nonWhitespaceCharacterCount": 6231,
-        "newlineCount": 92
+        "pageCount": 6.493333333333333,
+        "wordCount": 1948,
+        "characterCount": 12802,
+        "nonWhitespaceCharacterCount": 10778,
+        "newlineCount": 79
       },
       "frontmatter": {
         "tags": [
-          "moon"
+          "church",
+          "gods",
+          "divine"
+        ],
+        "source": [
+          "Divine"
         ]
       }
     },
@@ -5107,77 +5394,6 @@
       "frontmatter": {
         "tags": [
           "Vólatian",
-          "cara-Duhnian",
-          "faction"
-        ]
-      }
-    },
-    "Cosmology/4th - Kanyiirah/Powers/Vólat Church.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1820,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.066666666666666,
-      "characterCount": 12039,
-      "nonWhitespaceCharacterCount": 10145,
-      "newlineCount": 78,
-      "readingTimeInMinutes": 6.867924528301887,
-      "linkCount": 45,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1741980070273,
-      "modifiedDate": 1760318932402,
-      "sizeInBytes": 12192,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 6.066666666666666,
-        "wordCount": 1820,
-        "characterCount": 12039,
-        "nonWhitespaceCharacterCount": 10145,
-        "newlineCount": 78
-      },
-      "frontmatter": {
-        "tags": [
-          "church",
-          "gods",
-          "divine"
-        ],
-        "source": [
-          "Divine"
-        ]
-      }
-    },
-    "Cosmology/4th - Kanyiirah/Powers/Ropeshian Dynasty.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 439,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4633333333333334,
-      "characterCount": 2875,
-      "nonWhitespaceCharacterCount": 2408,
-      "newlineCount": 37,
-      "readingTimeInMinutes": 1.6566037735849057,
-      "linkCount": 10,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1739221237824,
-      "modifiedDate": 1755358573363,
-      "sizeInBytes": 2937,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.4633333333333334,
-        "wordCount": 439,
-        "characterCount": 2875,
-        "nonWhitespaceCharacterCount": 2408,
-        "newlineCount": 37
-      },
-      "frontmatter": {
-        "tags": [
-          "Ropeshian",
           "cara-Duhnian",
           "faction"
         ]
@@ -5218,46 +5434,6 @@
         ],
         "aliases": [
           "Unified Coalition"
-        ]
-      }
-    },
-    "Cosmology/4th - Kanyiirah/Powers/Tashi.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 123,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.41,
-      "characterCount": 776,
-      "nonWhitespaceCharacterCount": 651,
-      "newlineCount": 4,
-      "readingTimeInMinutes": 0.4641509433962264,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": [
-        "riven clan",
-        "Tashi river clan"
-      ],
-      "createdDate": 1739221237113,
-      "modifiedDate": 1755359128857,
-      "sizeInBytes": 861,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.41,
-        "wordCount": 123,
-        "characterCount": 776,
-        "nonWhitespaceCharacterCount": 651,
-        "newlineCount": 4
-      },
-      "frontmatter": {
-        "tags": [
-          "cara-Duhnian",
-          "Tashi"
-        ],
-        "aliases": [
-          "riven clan",
-          "Tashi river clan"
         ]
       }
     },
@@ -5302,45 +5478,43 @@
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Powers/Erdú.md": {
+    "Cosmology/4th - Kanyiirah/Powers/Tashi.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 92,
+      "wordCount": 587,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 606,
-      "nonWhitespaceCharacterCount": 501,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.3471698113207547,
-      "linkCount": 0,
-      "embedCount": 1,
+      "pageCount": 1.9566666666666668,
+      "characterCount": 4080,
+      "nonWhitespaceCharacterCount": 3473,
+      "newlineCount": 31,
+      "readingTimeInMinutes": 2.2150943396226417,
+      "linkCount": 6,
+      "embedCount": 0,
       "aliases": [
-        "Erdún clan",
-        "clan Erdú"
+        "riven clan",
+        "Tashi river clan"
       ],
-      "createdDate": 1755376325772,
-      "modifiedDate": 1755358399071,
-      "sizeInBytes": 718,
+      "createdDate": 1739221237113,
+      "modifiedDate": 1764868573483,
+      "sizeInBytes": 4175,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.30666666666666664,
-        "wordCount": 92,
-        "characterCount": 606,
-        "nonWhitespaceCharacterCount": 501,
-        "newlineCount": 17
+        "pageCount": 0.85,
+        "wordCount": 255,
+        "characterCount": 1647,
+        "nonWhitespaceCharacterCount": 1384,
+        "newlineCount": 11
       },
       "frontmatter": {
-        "aliases": [
-          "Erdún clan",
-          "clan Erdú"
-        ],
         "tags": [
-          "cara-duhnian",
-          "Duhnian",
-          "REVIEW",
-          "faction"
+          "cara-Duhnian",
+          "Tashi"
+        ],
+        "aliases": [
+          "riven clan",
+          "Tashi river clan"
         ]
       }
     },
@@ -5352,9 +5526,9 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.9533333333333334,
-      "characterCount": 3810,
+      "characterCount": 3812,
       "nonWhitespaceCharacterCount": 3193,
-      "newlineCount": 38,
+      "newlineCount": 40,
       "readingTimeInMinutes": 2.211320754716981,
       "linkCount": 17,
       "embedCount": 1,
@@ -5362,15 +5536,15 @@
         "Empire"
       ],
       "createdDate": 1739221241989,
-      "modifiedDate": 1760310756130,
-      "sizeInBytes": 3891,
+      "modifiedDate": 1762317290435,
+      "sizeInBytes": 3893,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.9533333333333334,
         "wordCount": 586,
-        "characterCount": 3810,
+        "characterCount": 3812,
         "nonWhitespaceCharacterCount": 3193,
-        "newlineCount": 38
+        "newlineCount": 40
       },
       "frontmatter": {
         "tags": [
@@ -5383,62 +5557,150 @@
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Constellations.md": {
+    "Cosmology/4th - Kanyiirah/Powers/Ropeshian Dynasty.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 629,
+      "wordCount": 972,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.0966666666666667,
-      "characterCount": 3941,
-      "nonWhitespaceCharacterCount": 3269,
-      "newlineCount": 34,
-      "readingTimeInMinutes": 2.3735849056603775,
-      "linkCount": 6,
-      "embedCount": 0,
+      "pageCount": 3.24,
+      "characterCount": 6316,
+      "nonWhitespaceCharacterCount": 5312,
+      "newlineCount": 52,
+      "readingTimeInMinutes": 3.667924528301887,
+      "linkCount": 10,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1738465426020,
-      "modifiedDate": 1757736935496,
-      "sizeInBytes": 3949,
+      "createdDate": 1739221237824,
+      "modifiedDate": 1762328300601,
+      "sizeInBytes": 6388,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.0966666666666667,
-        "wordCount": 629,
-        "characterCount": 3941,
-        "nonWhitespaceCharacterCount": 3269,
-        "newlineCount": 34
-      }
-    },
-    "Cosmology/4th - Kanyiirah/Kanyiirah.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 165,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.55,
-      "characterCount": 1031,
-      "nonWhitespaceCharacterCount": 855,
-      "newlineCount": 18,
-      "readingTimeInMinutes": 0.6226415094339622,
-      "linkCount": 4,
-      "embedCount": 2,
-      "aliases": null,
-      "createdDate": 1738249280670,
-      "modifiedDate": 1755358470693,
-      "sizeInBytes": 1064,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.55,
-        "wordCount": 165,
-        "characterCount": 1031,
-        "nonWhitespaceCharacterCount": 855,
-        "newlineCount": 18
+        "pageCount": 3.24,
+        "wordCount": 972,
+        "characterCount": 6316,
+        "nonWhitespaceCharacterCount": 5312,
+        "newlineCount": 52
       },
       "frontmatter": {
         "tags": [
-          "sphere"
+          "Ropeshian",
+          "cara-Duhnian",
+          "faction"
+        ]
+      }
+    },
+    "Cosmology/4th - Kanyiirah/Powers/House Tarahn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 626,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0866666666666664,
+      "characterCount": 4045,
+      "nonWhitespaceCharacterCount": 3390,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 2.362264150943396,
+      "linkCount": 15,
+      "embedCount": 1,
+      "aliases": [
+        "Tarahni Houses"
+      ],
+      "createdDate": 1760644140364,
+      "modifiedDate": 1762623400253,
+      "sizeInBytes": 4141,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.0866666666666664,
+        "wordCount": 626,
+        "characterCount": 4045,
+        "nonWhitespaceCharacterCount": 3390,
+        "newlineCount": 33
+      },
+      "frontmatter": {
+        "tags": [
+          "Tarahni",
+          "cara-Duhnian",
+          "REVIEW"
+        ],
+        "aliases": [
+          "Tarahni Houses"
+        ]
+      }
+    },
+    "Cosmology/4th - Kanyiirah/Powers/Erdú.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 241,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8033333333333333,
+      "characterCount": 1554,
+      "nonWhitespaceCharacterCount": 1291,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 0.909433962264151,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": [
+        "Erdún clan",
+        "clan Erdú"
+      ],
+      "createdDate": 1755376325772,
+      "modifiedDate": 1762331339204,
+      "sizeInBytes": 1668,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8033333333333333,
+        "wordCount": 241,
+        "characterCount": 1554,
+        "nonWhitespaceCharacterCount": 1291,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "tags": [
+          "cara-duhnian",
+          "Duhnian",
+          "REVIEW",
+          "faction"
+        ],
+        "aliases": [
+          "Erdún clan",
+          "clan Erdú"
+        ]
+      }
+    },
+    "Cosmology/4th - Kanyiirah/Moons.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1096,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6533333333333333,
+      "characterCount": 7448,
+      "nonWhitespaceCharacterCount": 6231,
+      "newlineCount": 91,
+      "readingTimeInMinutes": 4.1358490566037736,
+      "linkCount": 7,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1738249637299,
+      "modifiedDate": 1761943805134,
+      "sizeInBytes": 7534,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.6533333333333333,
+        "wordCount": 1096,
+        "characterCount": 7448,
+        "nonWhitespaceCharacterCount": 6231,
+        "newlineCount": 91
+      },
+      "frontmatter": {
+        "tags": [
+          "moon"
         ]
       }
     },
@@ -5483,27 +5745,27 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 388,
+      "wordCount": 469,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.2933333333333332,
-      "characterCount": 2527,
-      "nonWhitespaceCharacterCount": 2129,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 1.4641509433962263,
-      "linkCount": 7,
+      "pageCount": 1.5633333333333332,
+      "characterCount": 3020,
+      "nonWhitespaceCharacterCount": 2538,
+      "newlineCount": 20,
+      "readingTimeInMinutes": 1.769811320754717,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738277515472,
-      "modifiedDate": 1755785504143,
-      "sizeInBytes": 2533,
+      "modifiedDate": 1762318259087,
+      "sizeInBytes": 3026,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.2933333333333332,
-        "wordCount": 388,
-        "characterCount": 2527,
-        "nonWhitespaceCharacterCount": 2129,
-        "newlineCount": 17
+        "pageCount": 1.5633333333333332,
+        "wordCount": 469,
+        "characterCount": 3020,
+        "nonWhitespaceCharacterCount": 2538,
+        "newlineCount": 20
       }
     },
     "Cosmology/4th - Kanyiirah/Geography/Lesser Isles.md": {
@@ -5533,30 +5795,107 @@
         "newlineCount": 15
       }
     },
+    "Cosmology/4th - Kanyiirah/Geography/Landmarks/Eternal Maelstrom.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 383,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2766666666666666,
+      "characterCount": 2340,
+      "nonWhitespaceCharacterCount": 1944,
+      "newlineCount": 23,
+      "readingTimeInMinutes": 1.4452830188679244,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": [
+        "the Dolos",
+        "the Mists",
+        "the Zhek'ovl",
+        "the Hanlssperre"
+      ],
+      "createdDate": 1739221242570,
+      "modifiedDate": 1764182087394,
+      "sizeInBytes": 2443,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.2766666666666666,
+        "wordCount": 383,
+        "characterCount": 2340,
+        "nonWhitespaceCharacterCount": 1944,
+        "newlineCount": 23
+      },
+      "frontmatter": {
+        "tags": [
+          "gods"
+        ],
+        "aliases": [
+          "the Dolos",
+          "the Mists",
+          "the Zhek'ovl",
+          "the Hanlssperre"
+        ]
+      }
+    },
+    "Cosmology/4th - Kanyiirah/Geography/Cara.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 400,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.3333333333333333,
+      "characterCount": 2769,
+      "nonWhitespaceCharacterCount": 2340,
+      "newlineCount": 26,
+      "readingTimeInMinutes": 1.509433962264151,
+      "linkCount": 24,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738251356390,
+      "modifiedDate": 1762460481739,
+      "sizeInBytes": 2834,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.3333333333333333,
+        "wordCount": 400,
+        "characterCount": 2769,
+        "nonWhitespaceCharacterCount": 2340,
+        "newlineCount": 26
+      },
+      "frontmatter": {
+        "tags": [
+          "major-isle",
+          "REVIEW",
+          "Carain"
+        ]
+      }
+    },
     "Cosmology/4th - Kanyiirah/Geography/Duhn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 342,
+      "wordCount": 341,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.14,
-      "characterCount": 2310,
-      "nonWhitespaceCharacterCount": 1946,
+      "pageCount": 1.1366666666666667,
+      "characterCount": 2308,
+      "nonWhitespaceCharacterCount": 1945,
       "newlineCount": 21,
-      "readingTimeInMinutes": 1.290566037735849,
+      "readingTimeInMinutes": 1.2867924528301886,
       "linkCount": 21,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1755376085460,
-      "modifiedDate": 1760406939714,
-      "sizeInBytes": 2382,
+      "modifiedDate": 1762623400199,
+      "sizeInBytes": 2380,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.14,
-        "wordCount": 342,
-        "characterCount": 2307,
-        "nonWhitespaceCharacterCount": 1943,
+        "pageCount": 1.1366666666666667,
+        "wordCount": 341,
+        "characterCount": 2308,
+        "nonWhitespaceCharacterCount": 1945,
         "newlineCount": 21
       },
       "frontmatter": {
@@ -5564,46 +5903,6 @@
           "major-isle",
           "REVIEW",
           "Duhnian"
-        ]
-      }
-    },
-    "Cosmology/4th - Kanyiirah/Geography/Cara-Duhn.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 472,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5733333333333333,
-      "characterCount": 3361,
-      "nonWhitespaceCharacterCount": 2840,
-      "newlineCount": 44,
-      "readingTimeInMinutes": 1.7811320754716982,
-      "linkCount": 21,
-      "embedCount": 4,
-      "aliases": [
-        "sacred isles",
-        "Sacred Isles"
-      ],
-      "createdDate": 1755374825274,
-      "modifiedDate": 1760318705013,
-      "sizeInBytes": 3460,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5733333333333333,
-        "wordCount": 472,
-        "characterCount": 3361,
-        "nonWhitespaceCharacterCount": 2840,
-        "newlineCount": 44
-      },
-      "frontmatter": {
-        "tags": [
-          "continent",
-          "cara-Duhnian"
-        ],
-        "aliases": [
-          "sacred isles",
-          "Sacred Isles"
         ]
       }
     },
@@ -5644,49 +5943,6 @@
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Geography/Landmarks/Eternal Maelstrom.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 351,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.17,
-      "characterCount": 2155,
-      "nonWhitespaceCharacterCount": 1791,
-      "newlineCount": 22,
-      "readingTimeInMinutes": 1.3245283018867924,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": [
-        "the Dolos",
-        "the Mists",
-        "the Zhek'ovl",
-        "the Hanlssperre"
-      ],
-      "createdDate": 1739221242570,
-      "modifiedDate": 1759284262798,
-      "sizeInBytes": 2256,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.17,
-        "wordCount": 351,
-        "characterCount": 2155,
-        "nonWhitespaceCharacterCount": 1791,
-        "newlineCount": 22
-      },
-      "frontmatter": {
-        "tags": [
-          "gods"
-        ],
-        "aliases": [
-          "the Dolos",
-          "the Mists",
-          "the Zhek'ovl",
-          "the Hanlssperre"
-        ]
-      }
-    },
     "Cosmology/4th - Kanyiirah/Geography/Evryn.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5719,37 +5975,75 @@
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Geography/Cara.md": {
+    "Cosmology/4th - Kanyiirah/Geography/Cara-Duhn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 400,
+      "wordCount": 485,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3333333333333333,
-      "characterCount": 2770,
-      "nonWhitespaceCharacterCount": 2341,
-      "newlineCount": 26,
-      "readingTimeInMinutes": 1.509433962264151,
-      "linkCount": 24,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738251356390,
-      "modifiedDate": 1755357876587,
-      "sizeInBytes": 2835,
+      "pageCount": 1.6166666666666667,
+      "characterCount": 3501,
+      "nonWhitespaceCharacterCount": 2963,
+      "newlineCount": 46,
+      "readingTimeInMinutes": 1.830188679245283,
+      "linkCount": 23,
+      "embedCount": 4,
+      "aliases": [
+        "sacred isles",
+        "Sacred Isles"
+      ],
+      "createdDate": 1755374825274,
+      "modifiedDate": 1762656482496,
+      "sizeInBytes": 3600,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.3333333333333333,
-        "wordCount": 400,
-        "characterCount": 2770,
-        "nonWhitespaceCharacterCount": 2341,
-        "newlineCount": 26
+        "pageCount": 1.6166666666666667,
+        "wordCount": 485,
+        "characterCount": 3501,
+        "nonWhitespaceCharacterCount": 2963,
+        "newlineCount": 46
       },
       "frontmatter": {
         "tags": [
-          "major-isle",
-          "REVIEW",
-          "Carain"
+          "continent",
+          "cara-Duhnian"
+        ],
+        "aliases": [
+          "sacred isles",
+          "Sacred Isles"
+        ]
+      }
+    },
+    "Cosmology/4th - Kanyiirah/Kanyiirah.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 655,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.183333333333333,
+      "characterCount": 4514,
+      "nonWhitespaceCharacterCount": 3796,
+      "newlineCount": 61,
+      "readingTimeInMinutes": 2.4716981132075473,
+      "linkCount": 8,
+      "embedCount": 2,
+      "aliases": null,
+      "createdDate": 1738249280670,
+      "modifiedDate": 1764864600464,
+      "sizeInBytes": 4556,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.183333333333333,
+        "wordCount": 655,
+        "characterCount": 4514,
+        "nonWhitespaceCharacterCount": 3796,
+        "newlineCount": 61
+      },
+      "frontmatter": {
+        "tags": [
+          "sphere"
         ]
       }
     },
@@ -5785,6 +6079,38 @@
         ]
       }
     },
+    "Cosmology/4th - Kanyiirah/Cities/Azentrim.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 171,
+      "newlineCount": 5,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738255404607,
+      "modifiedDate": 1739063356437,
+      "sizeInBytes": 223,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 196,
+        "nonWhitespaceCharacterCount": 171,
+        "newlineCount": 5
+      },
+      "frontmatter": {
+        "tags": [
+          "Aquan"
+        ]
+      }
+    },
     "Cosmology/4th - Kanyiirah/Cities/Pahlássia.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -5793,22 +6119,22 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.45666666666666667,
-      "characterCount": 935,
-      "nonWhitespaceCharacterCount": 787,
+      "characterCount": 938,
+      "nonWhitespaceCharacterCount": 790,
       "newlineCount": 14,
       "readingTimeInMinutes": 0.5169811320754717,
       "linkCount": 2,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1739221239122,
-      "modifiedDate": 1755358543980,
-      "sizeInBytes": 985,
+      "modifiedDate": 1760406963385,
+      "sizeInBytes": 988,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.45666666666666667,
         "wordCount": 137,
-        "characterCount": 935,
-        "nonWhitespaceCharacterCount": 787,
+        "characterCount": 938,
+        "nonWhitespaceCharacterCount": 790,
         "newlineCount": 14
       },
       "frontmatter": {
@@ -5856,78 +6182,31 @@
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Cities/Azentrim.md": {
+    "Cosmology/4th - Kanyiirah/Constellations.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 22,
+      "wordCount": 629,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 196,
-      "nonWhitespaceCharacterCount": 171,
-      "newlineCount": 5,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 1,
+      "pageCount": 2.0966666666666667,
+      "characterCount": 3941,
+      "nonWhitespaceCharacterCount": 3269,
+      "newlineCount": 34,
+      "readingTimeInMinutes": 2.3735849056603775,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1738255404607,
-      "modifiedDate": 1739063356437,
-      "sizeInBytes": 223,
+      "createdDate": 1738465426020,
+      "modifiedDate": 1757736935496,
+      "sizeInBytes": 3949,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.07333333333333333,
-        "wordCount": 22,
-        "characterCount": 196,
-        "nonWhitespaceCharacterCount": 171,
-        "newlineCount": 5
-      },
-      "frontmatter": {
-        "tags": [
-          "Aquan"
-        ]
-      }
-    },
-    "Cosmology/2nd - Abythras/Abythras.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 341,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.1366666666666667,
-      "characterCount": 2377,
-      "nonWhitespaceCharacterCount": 2012,
-      "newlineCount": 30,
-      "readingTimeInMinutes": 1.2867924528301886,
-      "linkCount": 12,
-      "embedCount": 1,
-      "aliases": [
-        "Saviurn",
-        "the Abyss"
-      ],
-      "createdDate": 1738444517317,
-      "modifiedDate": 1758165524009,
-      "sizeInBytes": 2488,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.1366666666666667,
-        "wordCount": 341,
-        "characterCount": 2377,
-        "nonWhitespaceCharacterCount": 2012,
-        "newlineCount": 30
-      },
-      "frontmatter": {
-        "tags": [
-          "daemons",
-          "wyrd",
-          "arcane",
-          "Abyssal"
-        ],
-        "aliases": [
-          "Saviurn",
-          "the Abyss"
-        ]
+        "pageCount": 2.0966666666666667,
+        "wordCount": 629,
+        "characterCount": 3941,
+        "nonWhitespaceCharacterCount": 3269,
+        "newlineCount": 34
       }
     },
     "Cosmology/1st - Lämmrus/Lämmrus.md": {
@@ -5977,144 +6256,260 @@
         ]
       }
     },
-    "Campaign Atlas/Campaign NPCs.md": {
+    "Cosmology/3rd - Echni/Echni.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 625,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16333333333333333,
-      "characterCount": 362,
-      "nonWhitespaceCharacterCount": 310,
-      "newlineCount": 8,
-      "readingTimeInMinutes": 0.18490566037735848,
+      "pageCount": 2.0833333333333335,
+      "characterCount": 3782,
+      "nonWhitespaceCharacterCount": 3130,
+      "newlineCount": 29,
+      "readingTimeInMinutes": 2.358490566037736,
       "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1758071345203,
-      "modifiedDate": 1757732297826,
-      "sizeInBytes": 362,
+      "embedCount": 2,
+      "aliases": [
+        "Syrisi"
+      ],
+      "createdDate": 1738467527907,
+      "modifiedDate": 1764441483840,
+      "sizeInBytes": 3901,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.16333333333333333,
-        "wordCount": 49,
-        "characterCount": 362,
-        "nonWhitespaceCharacterCount": 310,
-        "newlineCount": 8
+        "pageCount": 2.0833333333333335,
+        "wordCount": 625,
+        "characterCount": 3782,
+        "nonWhitespaceCharacterCount": 3130,
+        "newlineCount": 29
+      },
+      "frontmatter": {
+        "tags": [
+          "Echnica",
+          "gods",
+          "fey",
+          "arcane",
+          "sphere",
+          "faerie"
+        ],
+        "aliases": [
+          "Syrisi"
+        ]
       }
     },
-    "Campaign Atlas/Session 0.md": {
+    "Cosmology/2nd - Abythras/Abythras.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 403,
+      "wordCount": 341,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3433333333333333,
-      "characterCount": 3731,
-      "nonWhitespaceCharacterCount": 2622,
-      "newlineCount": 73,
-      "readingTimeInMinutes": 1.5207547169811322,
-      "linkCount": 0,
+      "pageCount": 1.1366666666666667,
+      "characterCount": 2377,
+      "nonWhitespaceCharacterCount": 2012,
+      "newlineCount": 30,
+      "readingTimeInMinutes": 1.2867924528301886,
+      "linkCount": 12,
       "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1752244441297,
-      "modifiedDate": 1760630233062,
-      "sizeInBytes": 3755,
+      "aliases": [
+        "Saviurn",
+        "the Abyss"
+      ],
+      "createdDate": 1738444517317,
+      "modifiedDate": 1758165524009,
+      "sizeInBytes": 2488,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.2666666666666666,
-        "wordCount": 380,
-        "characterCount": 3549,
-        "nonWhitespaceCharacterCount": 2469,
-        "newlineCount": 64
+        "pageCount": 1.1366666666666667,
+        "wordCount": 341,
+        "characterCount": 2377,
+        "nonWhitespaceCharacterCount": 2012,
+        "newlineCount": 30
+      },
+      "frontmatter": {
+        "tags": [
+          "daemons",
+          "wyrd",
+          "arcane",
+          "Abyssal"
+        ],
+        "aliases": [
+          "Saviurn",
+          "the Abyss"
+        ]
       }
     },
     "Campaign Atlas/Welcome... to the Sacred Isles.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1163,
+      "wordCount": 1404,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.8766666666666665,
-      "characterCount": 8324,
-      "nonWhitespaceCharacterCount": 7021,
-      "newlineCount": 73,
-      "readingTimeInMinutes": 4.388679245283019,
-      "linkCount": 65,
+      "pageCount": 4.68,
+      "characterCount": 9839,
+      "nonWhitespaceCharacterCount": 8289,
+      "newlineCount": 78,
+      "readingTimeInMinutes": 5.2981132075471695,
+      "linkCount": 67,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1739221239859,
-      "modifiedDate": 1760630413773,
-      "sizeInBytes": 8419,
+      "modifiedDate": 1765052914121,
+      "sizeInBytes": 9941,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.7933333333333334,
-        "wordCount": 1138,
-        "characterCount": 8155,
-        "nonWhitespaceCharacterCount": 6876,
-        "newlineCount": 73
+        "pageCount": 4.5633333333333335,
+        "wordCount": 1369,
+        "characterCount": 9585,
+        "nonWhitespaceCharacterCount": 8072,
+        "newlineCount": 77
       }
     },
-    "Campaign Atlas/Class Primer.md": {
+    "Campaign Atlas/Session 0.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 2750,
+      "wordCount": 317,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 9.166666666666666,
-      "characterCount": 18842,
-      "nonWhitespaceCharacterCount": 15970,
-      "newlineCount": 84,
-      "readingTimeInMinutes": 10.377358490566039,
-      "linkCount": 38,
-      "embedCount": 0,
+      "pageCount": 1.0566666666666666,
+      "characterCount": 3015,
+      "nonWhitespaceCharacterCount": 2062,
+      "newlineCount": 55,
+      "readingTimeInMinutes": 1.1962264150943396,
+      "linkCount": 0,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1739313321529,
-      "modifiedDate": 1755358303376,
-      "sizeInBytes": 18948,
+      "createdDate": 1752244441297,
+      "modifiedDate": 1760671391059,
+      "sizeInBytes": 3053,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 9.166666666666666,
-        "wordCount": 2750,
-        "characterCount": 18842,
-        "nonWhitespaceCharacterCount": 15970,
-        "newlineCount": 84
+        "pageCount": 1.0566666666666666,
+        "wordCount": 317,
+        "characterCount": 3015,
+        "nonWhitespaceCharacterCount": 2062,
+        "newlineCount": 55
       },
       "frontmatter": {
         "tags": [
-          "REVIEW"
+          "player"
         ]
       }
     },
-    "Cosmology/4th - Kanyiirah/Powers/House Tarahn.md": {
+    "Campaign Atlas/To Extract an Oracle.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 633,
+      "wordCount": 200,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.11,
-      "characterCount": 4120,
-      "nonWhitespaceCharacterCount": 3444,
-      "newlineCount": 40,
-      "readingTimeInMinutes": 2.388679245283019,
-      "linkCount": 0,
+      "pageCount": 0.6666666666666666,
+      "characterCount": 1205,
+      "nonWhitespaceCharacterCount": 999,
+      "newlineCount": 8,
+      "readingTimeInMinutes": 0.7547169811320755,
+      "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1760644140364,
-      "modifiedDate": 1760406955154,
-      "sizeInBytes": 4133,
+      "createdDate": 1760768522065,
+      "modifiedDate": 1764644515127,
+      "sizeInBytes": 1207,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 0.66,
+        "wordCount": 198,
+        "characterCount": 1178,
+        "nonWhitespaceCharacterCount": 973,
+        "newlineCount": 8
+      }
+    },
+    "Campaign Atlas/Campaign NPCs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 60,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.2,
+      "characterCount": 614,
+      "nonWhitespaceCharacterCount": 421,
+      "newlineCount": 21,
+      "readingTimeInMinutes": 0.22641509433962265,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1758071345203,
+      "modifiedDate": 1765052526902,
+      "sizeInBytes": 614,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.19,
+        "wordCount": 57,
+        "characterCount": 600,
+        "nonWhitespaceCharacterCount": 409,
+        "newlineCount": 20
+      }
+    },
+    "Campaign Atlas/ships.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 14,
+      "nonWhitespaceCharacterCount": 14,
+      "newlineCount": 1,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1762747845354,
+      "modifiedDate": 1762747522013,
+      "sizeInBytes": 14,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 14,
+        "nonWhitespaceCharacterCount": 14,
+        "newlineCount": 1
+      }
+    },
+    "Campaign Atlas/Plot.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 186,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.62,
+      "characterCount": 1199,
+      "nonWhitespaceCharacterCount": 1010,
+      "newlineCount": 7,
+      "readingTimeInMinutes": 0.7018867924528301,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1761956227269,
+      "modifiedDate": 1762656640865,
+      "sizeInBytes": 1223,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.62,
+        "wordCount": 186,
+        "characterCount": 1199,
+        "nonWhitespaceCharacterCount": 1010,
+        "newlineCount": 7
+      },
+      "frontmatter": {
+        "tags": [
+          "GM"
+        ]
       }
     },
     "Campaign Atlas/Player Characters.base": {
@@ -6144,51 +6539,56 @@
         "newlineCount": 0
       }
     },
-    "GM/Hexploration.md": {
+    "Campaign Atlas/Class Primer.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3604,
+      "wordCount": 2845,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 12.013333333333334,
-      "characterCount": 22391,
-      "nonWhitespaceCharacterCount": 18508,
-      "newlineCount": 401,
-      "readingTimeInMinutes": 13.6,
-      "linkCount": 0,
+      "pageCount": 9.483333333333333,
+      "characterCount": 19447,
+      "nonWhitespaceCharacterCount": 16478,
+      "newlineCount": 88,
+      "readingTimeInMinutes": 10.735849056603774,
+      "linkCount": 42,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1760647184324,
-      "modifiedDate": 1760647369113,
-      "sizeInBytes": 22519,
+      "createdDate": 1739313321529,
+      "modifiedDate": 1765052974158,
+      "sizeInBytes": 19551,
       "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
+        "noteCount": 1,
+        "pageCount": 9.48,
+        "wordCount": 2844,
+        "characterCount": 19438,
+        "nonWhitespaceCharacterCount": 16471,
+        "newlineCount": 86
+      },
+      "frontmatter": {
+        "tags": [
+          "REVIEW"
+        ]
       }
     },
-    "Encyclopedia/Vampyrs.md": {
+    "Encyclopedia/Guns.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 3297,
+      "wordCount": 3637,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 10.99,
-      "characterCount": 23909,
-      "nonWhitespaceCharacterCount": 20430,
-      "newlineCount": 281,
-      "readingTimeInMinutes": 12.441509433962263,
+      "pageCount": 12.123333333333333,
+      "characterCount": 25026,
+      "nonWhitespaceCharacterCount": 19385,
+      "newlineCount": 353,
+      "readingTimeInMinutes": 13.724528301886792,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1760313119385,
-      "modifiedDate": 1760367496331,
-      "sizeInBytes": 24018,
+      "createdDate": 1765051942176,
+      "modifiedDate": 1765052795178,
+      "sizeInBytes": 25289,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -6196,6 +6596,11 @@
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "REVIEW"
+        ]
       }
     }
   }

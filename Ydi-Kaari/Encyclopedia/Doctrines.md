@@ -2,7 +2,6 @@
 tags:
   - magic
 ---
-
 In the absence of the [[Kanirûl Pantheon]], there rose several religious followings, dedicated to many different makeups of the available pantheons, but eventually, most Cara-Duhnians fell into one of three major camps: the [[Vólat Church]], the [[#Thraev'gal Pact]], or the [[#Kindleheart Concordia]]. They each quickly compiled the key teachings the deities had left behind and set about spreading these tenets back to the nations to teach their offspring, should the gods ever return and find favor with the way their devout had lived in their absence. 
 
 Certain heritages may have a particular affinity towards one doctrine over others.
@@ -20,33 +19,34 @@ Consequently, there are many ways divine faith is practiced in Kanyiirah. For in
 This is the role the quiet but devoted members of the concord fill within society, carrying in their hearts a deep sense of purpose that they seek to share with others. They venerate the Heartkindler [[Valencia]] most sanctimoniously, but reserve their proselytization for the life-lessons and hard truths from her time of walking, rather than the religious dogmas of the Vólat Church: those that preach Valencia as the "perfect goddess" who gave everything selflessly, martyred for love. Many of the concordant are older women, midwives, and those who work in caring professions that pass down different stories – ones that speak the truth of her exhaustion in self-sacrifice, always taking care of others but never cared for herself. "The goddess who kindled every heart but her own", "She who was loved and lusted by all, but known by none," "Love demanded but never returned."
 And so the concord seeks to stir in each person genuine love and equip them with an autonomous pursuit of purpose that leads to a fulfilled life.
 
-Concordant members view the chosen 22 [[Valencia#The Plaehedies|Plaehedies]] of [[Valencia]]'s retinue at [[Ech'Yinara]] as the founders of their society and associate them with the divining of certain omens, often using patterns of cards or the constellations to draw impressions of fates. The oldest and most devoted of the concord are known to offer readings for individuals that request or pay for them, seeking in their own unique ways guidance from the favored daughter of the Suhns and Moons:
+Concordant members view the chosen 15 [[Valencia#The Plaehedies|Plaehedies]] of [[Valencia]]'s retinue at [[Ech'Yinara]] as the founders of their society and associate them with the divining of certain omens, often using patterns of cards or the constellations to draw impressions of fates. The oldest and most devoted of the concord are known to offer readings for individuals that request or pay for them, seeking in their own unique ways guidance from the favored daughter of the Suhns and Moons:
 
-| 2d12 | The...        |
-| ---- | ------------- |
-| 2    | Fool          |
-| 3    | Magician      |
-| 4    | High Priestes |
-| 5    | Empress       |
-| 6    | Emporer       |
-| 7    | Heriophant    |
-| 8    | Lover         |
-| 9    | Knight        |
-| 10   | Strongman     |
-| 11   | Hermit        |
-| 12   | Lucky         |
-| 13   | Just          |
-| 14   | Hanged Man    |
-| 15   | Dead          |
-| 16   | Temperate     |
-| 17   | Devilish      |
-| 18   | Towering      |
-| 19   | Starlit       |
-| 20   | Moonlit       |
-| 21   | Sunlit        |
-| 22   | Judge         |
-| 23   | Worldly       |
-| 24   | Roll Again    |
+| 2d12 | Tarot              | Ephemere         |
+| ---- | ------------------ | ---------------- |
+| 1    | The Fool           | Origin           |
+| 2    | The Magician       | Dream            |
+| 3    | The High Priestess | Summon           |
+| 4    | The Empress        | Fighter          |
+| 5    | The Emperor        | Alchemist        |
+| 6    | The Hierophant     | Keeper           |
+| 7    | The Lovers         | Voyager          |
+| 8    | The Chariot        | Dulcess          |
+| 9    | Strength           | Nemesis          |
+| 10   | The Hermit         | Obscurio         |
+| 11   | Wheel of Fortune   | Burn             |
+| 12   | Justice            | Healer           |
+| 13   | The Hanged Man     | Counterpoint M/F |
+| 14   | Death              | Counterpoint M/M |
+| 15   | Temperance         | Counterpoint F/F |
+| 16   | The Devil          | Seeker           |
+| 17   | The Tower          | Defiance         |
+| 18   | The Star           | Crescendo        |
+| 19   | The Moon           | Victor           |
+| 20   | The Sun            | Sacrifice        |
+| 21   | Judgment           | Ovation          |
+| 22   | The World          | Death            |
+| 23   | (Roll Again)       | Legacy           |
+| 24   | (Roll Again)       | Continuum        |
 
 # Thraev'gal Pact
 It is the Thraev'gal Pact that poses the greatest threat to those who profess faith in the [[Kanirûl Pantheon]], as proselytizers of this doctrine openly encourage violence against all Echnican devotees. They hold true to venerations of the [[Anarûl Pantheon|Anarûl]] as the original gods of Kanyiirah that had their beautiful lands stained by the blight of the Kanirûl and by extension, all those that followed them in the Nashtara emergence. They believe the [[Titans]] to be the holy offspring of the original Fathers and Mothers of the sphere, often sacrificing their bodies in twisted ways to express their perceived worthlessness and profess their faith in hopes of directly drawing favor from the spirits of the Titans or even the Anarûl themselves.

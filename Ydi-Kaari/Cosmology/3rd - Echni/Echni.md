@@ -11,7 +11,7 @@ aliases:
 ---
 (seer-EES-see)
 (ECK-nee)
-
+%% like Alfheim %%
 # World Trees
 The world of Echni — also called the Syrisi sphere to Kanyiiran astrologers — is unique in its composition, in that the entire surface is made up of impossibly massive forests and sweeping glens that speak to one another in their own way. Each tree connected to their neighbor by a series of interwoven root structures that tied together and leading back to one of two special origins: the World Trees of Greater and Lesser Echnica, **Dèndronaos** and **Nenèdrhiel**
 

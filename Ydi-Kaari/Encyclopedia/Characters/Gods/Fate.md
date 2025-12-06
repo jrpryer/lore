@@ -23,6 +23,6 @@ This would augment Life's own pure note and bring forth a new generation of Endl
 
 Not to be dissuaded, Avæylith bade Xëk'Liën come witness the possibilities that could be achieved when the manifested Infinity of the Endless was fully engaged in the future of a single world. However the years had slipped by, gone in a mere eyeblink to the great spanning consciousnesses of the Endless...
 
-![[Yggrāhkærn#Shattering]]
+![[The Shattering]]
 
 Now — with the chief attention of Asteria sealed through [[Family of the Endless#Inversion|Inversion]]'s power and shrouded away by the machinations of the [[Kanirûl Pantheon|Kanirûl]] — the wreckage of [[Yggrāhkærn|Olession's Lash]] drifts across the Kanyiiran night sky; the shredded corpse of a sphere ransacked by rampaging Primordial and Wyrd powers, forgotten in the cold vacuum of the Astral Expanse.

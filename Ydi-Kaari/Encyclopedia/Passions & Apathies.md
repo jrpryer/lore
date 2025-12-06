@@ -18,13 +18,29 @@ aliases:
 
 ![[passionsapathies.png|600]]
 
+#spirits 
+%% Need to ensure there is a clean delineation between categorizations of Liminal beings and Spiritual ones... Though both can and do inhabit the Ethereal plane, they are unique.
+Also, look into the role Daemons might play into this too, like, do I want to make room for the Eastern depictions of Yōkai demons and of parasitic animar like JJK curses? %%
 # The Passions
  The offspring of the Father [[Life|Rhajos]], The Herald of Delights. They are augmenters, embodiments of what it means to be alive on the sphere of Kanyiirah. They are ephemeral, powerful things that feed on the emotions of the heart and have the boon of coming upon mortals like a possessing spirit, heightening and sharpening the senses. They are: **Ecstasy**, **Fervor**, **Pride**, **Inspiration**, and **Ambition**.
+
+*Alternatives/Invokings:*
+**Joy**. Serenity, contentment, amusement, satisfaction, delight, glee, cheerfulness, exuberance, ecstasy.
+**Anticipation**. Interest, alertness, readiness, focus, suspense, curiosity, vigilance.
+**Trust**. Acceptance, safety, camaraderie, connection, loyalty, devotion, admiration.
+**Surprise**. Distraction, disorientation, bewilderment, wonder, astonishment, amazement.
+
 
 # The Apathies
 To understand the Apathies though, we must first speak of [[Aethmi-Istar|Holy Aesuhir]], Lord-Eternal: the mortal-made-god who sought to emulate the Kanirûl. Writings of the [[Aethmi-Istar|Holy Aesuhir]] — as they are captured in the early editions of the Book of Thorns — speak of this Vólat cardinal's pilgrimage through the upright and moral living of an unscrupulous life, telling of how he found favor with the Mother [[Fate|Asteria]] and was granted entrance into Lusturil’s golden halls as a newly Ascended deity.
 
 The scriptures tell of how [[Aethmi-Istar|Holy Aesuhir]]'s journey caught the attention of the goddess of love, of how the years before his ascension to Lusturil, Holy Aesuhir lustfully lay with The Heartkindler [[Valencia]], causing an unforeseen tragedy to befall them: due to her divine nature and the [[Laws of True Magic|Second Law of True Magic]], the children born of their relationship were cursed without forms, existing as baleful spirits. These young souls were intangible amalgamations, named in order of birth, the Apathy **Iniquity**, then **Indifference**, **Greed**, **Strife**, and finally **Hate**.
+
+*Alternatives/invokings:*
+**Fear**. Apprehension, worry, doubt, fright, dread, nervousness, terror, panic.
+**Sadness**. Pensiveness, weariness, melancholy, ennui, despair, sorrow.
+**Disgust**. Revulsion, aversion, offense, distaste, displeasure, dislike, hatred, loathing.
+**Anger**. Irritation, frustration, annoyance, aggression, wrath, rage, fury. 
   
 After their father's ascension to [[Aethmi-Istar]] and his departure to the heavenly realm of [[Lämmrus|Lusturil]], The Apathies became too wild and unruly for the good-hearted Valencia to manage. She sought help from the rest of the Kanirûl and Luntas brought the offspring before the Father Rhajos to be tamed, so that their natures would not destructively influence the mortal races that newly walked upon Kanyiirah. And so The Herald of Delights became the adoptive father of the Apathies as well, balancing the existence of the Passions with the contrast of yearning Apathies. 
 
@@ -37,6 +53,9 @@ Once her torturous labor had abated, she became anxious that others would seek t
   
 This exchange worked well for a time. Destruction grew into a powerful yet gentle giant, a lover of architecture and student of the great artistic marvels the mortal races shared under the peaceful reign of their gods. Through Vespera's guidance, Destruction linked its spirit to places all across Cara-Duhn, watching with eager eyes as the young world unfolded. Often the youngest of the Apathies would speak of its interests to its mother, for it was only when The Heartkindler would come visit it, that the Apathy could manifest its great form; one whose footsteps would shake the great boulders of the Deli when it heard its mother's voice. Valencia found such peace in those days, stealing away from the rigors of rule to be with a soul that truly, unconditionally loved her so dearly. It was her wish that her child could build her a new home, away from the pains and powers of this world, where one day she could finally rest in safety. She watched with gentle pride as it tried to do just that, quarrying the raw black slate from the cliffs of Delipol to construct her a place of shelter.  
   
-But that day the goddess dreamed of was never to come to pass. Instead came the day of Valencia's untimely death. The day the Mother [[Darkness|Vespera]] chose not to honor her pact with the Kanirûl goddess of beauty. Destruction watched in helpless horror as the depraved Thief Rathus and his ilk fell upon its mother's crumpled form. The spirit of all the Passions and Apathies raged that night upon the Deli, whipped into a frenzy as their raw natures drove their mother's assassins forward, spilling her divine blood on the steps of the very shrine she had erected to the Mother of Trickery. Destruction could do nothing, submerged in a sea of turmoil, not knowing how to hold the weight of true mutilation and depravity unfolding before its eyes. It wasn't until the newly cursed creatures had finally fled the scene of their crime that the Apathy stirred. No peace would comfort the traumatized colossi. Numb, broken, and manic, the greatest of the Apathies fell about doing the only thing that seemed to matter anymore: it built inside its prison. Stone by agonizing stone, Destruction carved a feat of mastery, manifesting its hulking form through sheer force of will to finish collecting the materials from the land, channeling the pain, the loss, the horror; Destruction fed upon these to build a massive city. A final resting place for his murdered mother, so that it might finally fulfill her wish and lay her to rest.  
+But that day the goddess dreamed of was never to come to pass. Instead came the day of Valencia's untimely death. The day the Mother [[Darkness|Vespera]] chose not to honor her pact with the Kanirûl goddess of beauty. Destruction watched in helpless horror as the depraved Thief [[Vampyrs|Rathus]] and his ilk fell upon its mother's crumpled form. The spirit of all the Passions and Apathies raged that night upon the Deli, whipped into a frenzy as their raw natures drove their mother's assassins forward, spilling her divine blood on the steps of the very shrine she had erected to the Mother of Trickery. Destruction could do nothing, submerged in a sea of turmoil, not knowing how to hold the weight of true mutilation and depravity unfolding before its eyes. It wasn't until the newly cursed creatures had finally fled the scene of their crime that the Apathy stirred. No peace would comfort the traumatized colossi. Numb, broken, and manic, the greatest of the Apathies fell about doing the only thing that seemed to matter anymore: it built inside its prison. Stone by agonizing stone, Destruction carved a feat of mastery, manifesting its hulking form through sheer force of will to finish collecting the materials from the land, channeling the pain, the loss, the horror; Destruction fed upon these to build a massive city. A final resting place for his murdered mother, so that it might finally fulfill her wish and lay her to rest.  
   
-The city of Delz Ilgar is itself the incarnation of the lost Apathy Destruction. When great slaughters take place, and the deaths of thousands are counted, many claim to see the city take form above them, distant chimes of sepulchral bells ringing clear the tides of destruction mortal hands have dealt and ushering the souls of the dammed to the Gates of Silence in the Underworld.
+The city of **Delz Ilgar** is itself the incarnation of the lost Apathy Destruction. When great slaughters take place, and the deaths of thousands are counted, many claim to see the city take form above them, distant chimes of sepulchral bells ringing clear the tides of destruction mortal hands have dealt and ushering the souls of the dammed to the Gates of Silence in the Underworld.
+
+>[!grid] 
+![[Delz Ilgar.jpg]] ![[Delz Ilgar2.jpg]]

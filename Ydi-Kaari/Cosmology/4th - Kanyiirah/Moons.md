@@ -91,5 +91,4 @@ For example:
 - When Valya passes closest to Roida, it is seen as the younger sister seeking comfort from her elder.
 - During eclipses, myths say Roida shields Valya from unseen cosmic threats.
 
-
 ![[MOONS.html]]

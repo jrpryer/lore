@@ -8,59 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c468f2db15249d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/GM DUMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GM DUMP"
-            }
-          },
-          {
-            "id": "0d78e182d5ed9ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/Vault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vault"
-            }
-          },
-          {
-            "id": "40663352a43ef654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GM/Hexploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hexploration"
-            }
-          },
-          {
             "id": "b104db2a16e57c9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Atlas/Session 0.md",
+                "file": "Timeline/Kanyiiran Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Kanyiiran Timeline"
+            }
+          },
+          {
+            "id": "bd0e7a39db09e988",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GM/TIMELINE.canvas",
+                "viewState": {
+                  "x": 15007.89968591974,
+                  "y": 80.49900628111602,
+                  "zoom": -0.27524726329069626
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "TIMELINE"
+            }
+          },
+          {
+            "id": "b0cf0c24ca4f8a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encyclopedia/Drakhaën.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drakhaën"
+            }
+          },
+          {
+            "id": "3a5f0d5e8d4afda1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/The Departure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Departure"
+            }
+          },
+          {
+            "id": "f0136eb98f10f502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encyclopedia/Organizations/Gilded Order.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gilded Order"
             }
           },
           {
@@ -78,7 +95,7 @@
             }
           },
           {
-            "id": "346259dd50d3ccc1",
+            "id": "5f984921be7543d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,17 +109,17 @@
             }
           },
           {
-            "id": "6a3f6b8ee77244f8",
+            "id": "40663352a43ef654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/Shattered - Yggrāhkærn/Yggrāhkærn.md",
+                "file": "GM/Hexploration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yggrāhkærn"
+              "title": "Hexploration"
             }
           },
           {
@@ -111,26 +128,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encyclopedia/Daemons.md",
+                "file": "Cosmology/4th - Kanyiirah/Powers/Carain Empire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daemons"
+              "title": "Carain Empire"
             }
           },
           {
-            "id": "5f984921be7543d0",
+            "id": "346259dd50d3ccc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kitsune.md",
+                "file": "Cosmology/4th - Kanyiirah/Powers/Vólat Church.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kitsune"
+              "title": "Vólat Church"
+            }
+          },
+          {
+            "id": "5cadf9f645faecec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cosmology/Ydi-Kaari System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ydi-Kaari System"
             }
           },
           {
@@ -167,29 +198,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmology/5th - Hræth/Muérai.md",
+                "file": "Encyclopedia/Lineages/_Lineages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Muérai"
-            }
-          },
-          {
-            "id": "bd0e7a39db09e988",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GM/TIMELINE.canvas",
-                "viewState": {
-                  "x": 14786.869676396174,
-                  "y": -252.9422030536673,
-                  "zoom": 0.33333333333333365
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "TIMELINE"
+              "title": "_Lineages"
             }
           },
           {
@@ -198,12 +212,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encyclopedia/Daemons.md",
+                "file": "Campaign Atlas/Welcome... to the Sacred Isles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daemons"
+              "title": "Welcome... to the Sacred Isles"
             }
           },
           {
@@ -233,8 +247,51 @@
               "icon": "lucide-file",
               "title": "Session 0"
             }
+          },
+          {
+            "id": "5c468f2db15249d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Atlas/To Extract an Oracle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Extract an Oracle"
+            }
+          },
+          {
+            "id": "0d78e182d5ed9ee4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GM/Vault.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
+            }
+          },
+          {
+            "id": "57b7c839a28b1213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/the Thinning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the Thinning"
+            }
           }
-        ]
+        ],
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -269,7 +326,7 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -355,13 +412,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GM/GM DUMP.md",
+                "file": "Campaign Atlas/Class Primer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GM DUMP"
+              "title": "Outline of Class Primer"
             }
           },
           {
@@ -406,40 +463,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "smart-second-brain:Open S2B Chat": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "e8ac37a43995720b",
+  "active": "1188907cc60d99c0",
   "lastOpenFiles": [
-    "GM/Vault.md",
-    "GM/GM DUMP.md",
-    "GM/Hexploration.md",
-    "Encyclopedia/Magic/Primordial Mastery - True Naming.md",
-    "GM/Excursion Resting.md",
-    "Campaign Atlas/Session 0.md",
-    "Encyclopedia/Souls, Spirits, Forms.md",
+    "Campaign Atlas/Welcome... to the Sacred Isles.md",
+    "Encyclopedia/Guns.md",
+    "Campaign Atlas/Campaign NPCs.md",
     "Campaign Atlas/Class Primer.md",
-    "Campaign Atlas/Player Characters.base",
-    "Encyclopedia/Vampyrs.md",
-    "Cosmology/4th - Kanyiirah/Powers/House Tarahn.md",
-    "Encyclopedia/Characters/Gods/Taerannon.md",
-    "Encyclopedia/Lineages/_Lineages.md",
-    "Cosmology/4th - Kanyiirah/Locales/University Towards Enlightened Truth.md",
-    "Encyclopedia/Passions & Apathies.md",
-    "Cosmology/Ydi-Kaari System.md",
-    "Cosmology/4th - Kanyiirah/Powers/Vólatian Theocracy.md",
-    "Encyclopedia/Organizations/Titans.md",
-    "Cosmology/4th - Kanyiirah/Moons.md",
-    "Encyclopedia/Doctrines.md",
-    "Cosmology/4th - Kanyiirah/Powers/Carain Empire.md",
-    "Cosmology/4th - Kanyiirah/Geography/Cara-Duhn.md",
-    "Cosmology/4th - Kanyiirah/Geography/Cara.md",
-    "Cosmology/4th - Kanyiirah/Powers/Is'Deli Brotherhood.md",
-    "Cosmology/4th - Kanyiirah/Powers/House Taran.md",
-    "Cosmology/4th - Kanyiirah/Geography/Landmarks/Eternal Maelstrom.md",
-    "Cosmology/4th - Kanyiirah/Powers/Erdú.md",
+    "Timeline/the Thinning.md",
+    "Timeline/Kanyiiran Timeline.md",
+    "Timeline/The Departure.md",
+    "GM/Vault.md",
     "GM/TIMELINE.canvas",
+    "Timeline/Fate of the Heartkindler.md",
+    "Encyclopedia/Drakhaën.md",
+    "Campaign Atlas/To Extract an Oracle.md",
+    "Cosmology/Planes of Existence.md",
+    "Cosmology/Ydi-Kaari System.md",
+    "Cosmology/4th - Kanyiirah/Powers/Vólat Church.md",
+    "Cosmology/4th - Kanyiirah/Powers/Tashi.md",
+    "Campaign Atlas/ships.md",
+    "Cosmology/3rd - Echni/Echni.md",
+    "Cosmology/5th - Hræth/Muéræ.md",
+    "Cosmology/4th - Kanyiirah/Kanyiirah.md",
+    "Encyclopedia/Characters/Gods/Aethmi-Istar.md",
+    "Encyclopedia/Characters/Gods/Valencia.md",
+    "Encyclopedia/Organizations/Kanirûl Pantheon.md",
+    "Encyclopedia/Characters/Gods/Borealis.md",
+    "Encyclopedia/Characters/Gods/Pyronia.md",
+    "Cosmology/4th - Kanyiirah/Powers/House Tarahn.md",
+    "Encyclopedia/Characters/Gods/Tympestyr.md",
+    "Delz Ilgar2.jpg",
+    "Delz Ilgar.jpg",
+    "z_Assets/ships.png",
+    "Timeline/Kanyiiran Timeline.canvas",
+    "Campaign Atlas/Player Characters.base",
     "z_Assets/diagram.png",
     "output.png",
     "Ydi-Kaari_systemTEST.html",
@@ -451,14 +511,10 @@
     "Ydi-Kaari_system.html",
     "z_Assets/echni.png",
     "echni.png",
-    "z_Assets/yggrāhkærn.png",
     "Cosmology/Shattered - Yggrāhkærn",
-    "z_Assets/circleOfPower.png",
-    "z_Assets/VolatRector.png",
     "Cosmology/5th - Hræth",
     "Chats",
     "Encyclopedia/Magic",
-    "Encyclopedia/Fauna, Flora, Natural Resources",
-    "Timeline/Kanyiiran Timeline.canvas"
+    "Encyclopedia/Fauna, Flora, Natural Resources"
   ]
 }

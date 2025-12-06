@@ -1,6 +1,12 @@
 ---
 tags:
   - lore-doc
+aat-event-start-date: -422-11-22
+aat-event-body: The legend of Rukhzar Mao and the final confrontation with the Divine Titan, Caelaistra
+timelines:
+  - kanyiirah-bd-of-walking-gods
+aat-event-picture:
+aat-render-enabled: true
 ---
 The legend of Rukhzar Mao and the final confrontation with the Divine Titan, Caelaistra:
 

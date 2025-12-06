@@ -6,19 +6,25 @@
 > [!recite|bg-c-gray] _This sole focus on observational science will, I believe, be the true catalyst that catapults us all into a new era of enlightenment. And is that not the purpose upon which this very institution was founded?_
 >~ Gyian Lutep | 10th year [[University Towards Enlightened Truth|UTET]] Heurism dedication
 
-- Hræth | 6th from the Suhns, a purple/pink gas giant furthest from the Suhns. Notable is its terrestrial moon, [[Muérai]] - a bleak, craggy sphere, crisscrossed with massive ravines that cut into the surface like open wounds
+The Ydi-Kaari system is a small corner of a large globular star cluster, giving the skies of each world a bright, halo-like swathe of lights at night. The presence of [[Darkness]], however, holds back a good majority of the piercing light from these neighboring stars, keeping the worlds bathed in a familiar shadow when the rotation of the spheres turn from the light of the two Suhns (Sol and An). The **Astral Expanse** separates the spheres, dividing the worlds from one another through vast the distances of a cold vacuum.
+
+- Hræth | 6th and furthest from the Suhns, a purple/pink gas giant that glimmers in the night sky. Notable is its largest terrestrial moon, [[Muéræ]] - a bleak, craggy sphere, crisscrossed with massive ravines that cut into the surface like open wounds
+	- Moons: [[Muéræ]], Uvuloth, Jögryn, Yggrāh
+	- Nordic, Germanic, Slavic
 - Comet belt | A gravitational anomaly that has captured a fair number of comets orbiting between Hræth and the Ydi-Kaari Suhns
 - [[Yggrāhkærn|Olession's Lash]] | 5th from the Suhns, an astral debris field surrounding a cracked and broken sphere
 - [[Kanyiirah]] | 4th from the Suhns 
 	- Bursting with life and magic
-	- Hosts two [[Moons]], Roida and Valya
+	- [[Moons]]: Roida and Valya
 	- 1.30 AU distance
+	- Aztec, Mayan, Native American, Mongolian, Chinese, Japanese, Arabian
 - [[Echni|Syrisi]] | 3rd from the Suhns - a land of bright greenery and majestic floating islands
+	- Celtic, Gaelic, Greek
 - [[Abythras|Saviurn]] | 2nd from the Suhns - a hardened land of volcanic stone, molten glass, and cavernous mountains
+	- Russian, Baltic, Indian
 - [[Lämmrus|Lusturil]] | 1st from the Suhn - a horrendously windy, orange-yellow realm of discus spires and metallic rain
+	- Latin, Roman, 
 
-
-The Ydi-Kaari system is a small corner of a large globular star cluster, giving the skies of each world a bright, halo-like swathe of lights at night. The presence of Darkness, however, holds back a good majority of the piercing light from these neighboring stars, keeping the worlds bathed in a familiar shadow when the rotation of the spheres turn from the light of the two Suhns. The **Astral Expanse** separates the spheres, dividing the worlds from one another through vast distances of a cold vacuum.
 
 ![[Ydi-Kaari.png]]
 

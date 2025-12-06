@@ -7,7 +7,7 @@
 **Resting**: [[Hexploration#Excursion Resting|Excursion Resting]] 
 **Player Bases**: D&D 5e 2024 Bastions + Strongholds & Followers  
 **Navel combat**: Book of Blades (+Captains & Cannons where needed) 
-**Other**: ToV player Dread 
+**Other**: ToV player Dread, BECMI immortality Power Points & wealth XP gains (x1/4), "alignment" is associated with behavior rather than cosmic cause 
 
 resource economy: the day matters (long rest)
 - Depleting resources is effectively increasing the difficulty of the game without increasing the difficulty of each individual encounter
@@ -21,7 +21,7 @@ resource economy: the day matters (long rest)
 
 
 
-Hexcrawling _might_ be the way to go... "A good hex map contains narratives. As opposed to deciding plot points ahead of time and distilling them into scenes, the story in a hexcrawl writes itself as it occurs." ... "A robust hexcrawl then, serves to create a campaign that 'runs itself'. It is a perpetual motion machine of adventure. The GM does not need to act as illusionist or puppeteer, but rather presents the world and how it reacts to the players’ actions. In this way, the GM meets the players at the table and works with them as they take ownership over the imagined world they share."
+Hexcrawling is the way to go... "A good hex map contains narratives. As opposed to deciding plot points ahead of time and distilling them into scenes, the story in a hexcrawl writes itself as it occurs." ... "A robust hexcrawl then, serves to create a campaign that 'runs itself'. It is a perpetual motion machine of adventure. The GM does not need to act as illusionist or puppeteer, but rather presents the world and how it reacts to the players’ actions. In this way, the GM meets the players at the table and works with them as they take ownership over the imagined world they share."
 
 # Details
 - The world is still young; the first generations of dragons have yet to age into their greatest size or acquire continent-defining hoards.
@@ -48,7 +48,7 @@ Arcane source: Equation Balancing — spells rely on perfectly balanced formulas
 
 # Plots
 ## Witnesses of the Departure
-[[Entropy|Mykaedra]], the Unmaker and Empress of the [[Muérai|Underworld]], seeks to collect the Infinite fragments of Myst from the [[Kanirûl Pantheon|Kanirûl]]. Her [[Yggrāhkærn#^9c44a6|Titan-spawn]] general of war Catastrophe is sent, to stir them and destroy what they have built, electing to weaken them before crushing them fully.
+[[Entropy|Mykædra]], the Unmaker and Empress of the [[Muéræ|Underworld]], seeks to collect the Infinite fragments of Myst from the [[Kanirûl Pantheon|Kanirûl]]. Her [[The Shattering#^9c44a6|Titan-spawn]] general of war Catastrophe is sent, to stir them and destroy what they have built, electing to weaken them before crushing them fully.
 
 The [[Vólat Church]] scrambles to identify this powerful force that is capable of so mortally threatening their [[Kanirûl Pantheon|Kanirûl]] deities. They adopts the theodicy of **the Complex**, an evil born of some true, otherworldly constant that seeks only to destroy the order of civilization. All things that rip and tear so thoroughly as these foes must be commanded by the Complex, for only the most potent force of evil could be capable of posing such a consistent and dangerous threat to the immortal Walking Gods. 
 
@@ -58,6 +58,10 @@ Though it is not the official stance of the Church for fear of sowing discord am
 The binding of [[Borealis]] in the Eternal Maelstrom as an act of betrayal by [[Tympestyr]]? The [[Eternal Maelstrom#Mists|creation of the Mists]] being a cover up instead of a voluntary sacrifice?
 Having the truth slowly discovered many many years later once the Mists lift and other nations are encountered, their histories and religions bringing to light the fact that the gods of Cara-Duhn were/had-been there as well?
 %%
+
+## To Extract An Oracle
+Joe One-Shot intro: the sequestering of a [[GM DUMP#Oracle|Kanirûlian oracle]] back to thier temple at Delipol
+![[To Extract an Oracle]]
 
 ## Legacy of Cutthroats
 ### Intro
@@ -75,11 +79,14 @@ scene will be a reading of a captain’s log for a high brow merchant vessel, sp
 - A shooter of alcohol mixed with a powerful, industrial grade stimulant from a Tarahni chemist.
 "You only drink this when things get *very* dire, you hear me? Only when shit hits the rudder."
 
-- Perhaps the [[Carain Empire|Imperial]] tie-in is a stolen, cursed [[Aethmi-Istar#Artifacts|Istarian relic]]? Or... the sequestering of an old [[GM DUMP#Oracle|Kanirûlian oracle]] back to Delipol? 
+- The [[Carain Empire|Imperial]] tie-in is a stolen, cursed [[Aethmi-Istar#Artifacts|Istarian relic]]: a coin that appears to hum with a subtle Reverberation.
 
 - The cursed beings of [[Evryn]] have begun to haunt the coasts of the [[Vólatian Theocracy]] and the western coasts of Duhn in the domains of the [[Erdú]] Gleamwood.
-
-- Player Bastions... that have a living soul bound to them, Not exactly a haunting spirit, but rather the place, or building itself is sentient and has its own history and goals.
+- Pirate [[Campaign NPCs#Captain Q|Captain Q]] leads his crew on an expedition to recover the rest of the Duer Laca treasure; their trail leads them to a ship wreck along a cove in the Evryn wilds... 
+- This expedition runs them afoul of Imperial troops, a tribe of Nagaji infected with a blood curse, Shurgen-tur locals. The expedition costs them their beloved Captain Q! 
+- Their ship is stolen, along with their food and gold, by the Imperial that fed them the wrong information and led them into the trap: their Nemesis for Arc I 
+- The only way off the island is to strip the Imperial war galleon and repair a strangely-dry-docked Brig that bears the colors of the last Thinning war 
+- The ??? of this ship was constructed with Deepwood, a very rare material from the Gleamwood. It has the special property of having a living soul bound to it; not exactly a haunting spirit, but rather the ship itself is sentient and has its own history and goals.
 
 - "For the sanctity of these blessed isles, the [[Vólatian Theocracy#Benedictiary|Benedictiary]] hereby authorizes you to PURGE"
 - "For the glory of our mighty Empire, your Tsarina hereby authorizes you to VANQUISH"
@@ -87,8 +94,17 @@ scene will be a reading of a captain’s log for a high brow merchant vessel, sp
 
 
 # GM Tips
-A settings strengths is not just in its logic and logistics, but also really in the VIBES, the juice, the synergy of commitment. That had more pragmatic weight in bringing joy to the player. 
+A settings strengths is not just in its logic and logistics, but also really in the VIBES, the juice, the synergy of commitment. That has more pragmatic weight in bringing joy to the player.
+It is the **test** that gives us *satisfaction*; the **overcoming adversity** that gives us *fulfillment*.
 
-“The story has to be predicated on the dreams, hopes, desires, and ACTIONS of the PCs; if their choices are not what’s driving the story forward, that’s a problem. Obviously those chosen occur in a world that the DM provides—villains and plot hooks and lore — for them to react to. But the STORY that is being told needs to fit the characters that are in the telling of it.”
+"The story has to be predicated on the dreams, hopes, desires, and ACTIONS of the PCs; if their choices are not what’s driving the story forward, there's a problem." Sure, those chosen occur in a world that the DM provides for them to react to (villains and plot hooks and lore, all keeping PCs busy with *surviving* and *learning*). But the STORY that is being told needs to fit the characters that are in the telling of it.
 
-Building on this… good art asks a question, but doesn’t lead the audience to a prepared answer. Spending all the time and energetic to get to your own predicted end is… predictable. Un-engaging. Boring. Write a book or a dissertation, if that’s what you want to do. The FUN and impactful moments come from expertly preparing and asking the questions for the audience to answer. And don’t simply ask redundant questions either, make it a question they have to wrestle with. Take yourself out of the audience’s seat and remember to play the role of storyteller/question-asker first. The answer doesn’t need to be known beforehand. I’m not a teacher; I don’t have all the answers. Leave some room to be surprised yourself, by the answers.
+Building on this… good art asks a question, but doesn’t lead the audience to a prepared answer. Spending all the time and energetic to get to your own predicted end is… **predictable**. Un-engaging. Boring. ***Write a book or a dissertation***, if that’s what you want to do. 
+The FUN and impactful moments come from expertly preparing and asking the questions for the audience (players) to answer. And don’t simply ask redundant questions either, make it a question they have to wrestle with. Take yourself out of the audience’s seat and remember to play the role of storyteller/question-asker **first**. The answer doesn’t need to be known beforehand. I’m not a teacher; I don’t have all the answers.
+*Leave some room for yourself to be surprised by the answers.*
+
+
+The players get to affect the world in dramatic and profound ways; present your players with a world of problems they can solve (and ones that the world itself cannot easily solve without the players being the tipping point for the story being told).
+"Your world will look better on fire." Without conflict, your campaign is **just an elaborate walking tour**. Build a world that needs your players; not just one your party rescues, but one that they can meaningfully change.
+
+With the use of bastions, Hexploration, more imposing natural weather challenges, and the political turbulance that creates the vacuum where Pirates can thrive, the emphasis of this game shifts *from* just defeating monsters and leveling up, *to* building wealth and developing your character's place in the world.

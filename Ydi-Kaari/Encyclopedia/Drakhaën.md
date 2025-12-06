@@ -10,6 +10,7 @@ aliases:
 source:
   - Divine
   - Wyrd
+aat-event-start-date: -422-11-22
 ---
 > ~ "The Eternally Enflamed" ~
 
@@ -18,6 +19,7 @@ source:
 - -ën ~ A suffix often denoting continuity or eternity, marking something timeless in [[Lustrálian]].
 
 All Drakhaën were once [[Lämmrus#Ilystrin Society|Ilystrin]] that became feverishly driven to grasp power for themselves. They were a faction of Ilystrin mystics that called themselves the **Narithalë**, "Keepers of the Enlightened Flame". But their hubris led them to be bound to physical forms and forced to flee to [[Kanyiirah]]. They fell through its skies like burning comets, coming to be submerged in its cool southern oceans, never again to return to their home as [[Souls, Spirits, Forms#Greater Spirits|Greater Spirits]].
+%% Is Drakhaën Latin enough? Hmmm may need to #REVIEW  %%
 
 ![[drakhaenArival.png|500]]
 

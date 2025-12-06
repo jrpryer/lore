@@ -10,7 +10,7 @@ source:
 The [[Primordial]] [[Titans|Titan]] was a two-headed being covered in thick vines, heavy moss, and vibrant flowers. Her nature was calm as she cultivated the fertile lands of the sacred Isles. The legends record that she walked for only a short time, due to the nature of [[Life|Rhajos]]' work on her form. Limited by the [[Laws of True Magic|Third Law of True Magic]], her form was weakened and her life force waned as she finished her task.
 
 ## Sylvania's Breath
-Though her Form [[Titans#Fate of the Titans|was the weakest]] of the Titans, her Spirit was by far the strongest, enduring%% in her capacity as a powerful Greater Spirit%% long after her first death and capable of communing with those that sought her wisdom and strength.
+Though her Form [[Titans#Fate of the Titans|was the weakest]] of the Titans, her Spirit was by far the strongest, enduring%% in her capacity as a powerful Greater Spirit plucked from the forests of [[Echni]]%% long after her first death and capable of communing with those that sought her wisdom and strength.
 She is known to favor the meek, humble, lost, afraid, patient, and kind, as well empowering any that seek to protect such others or defend the sanctity of the land from exploitation and theft of its natural resources.
 
 %%

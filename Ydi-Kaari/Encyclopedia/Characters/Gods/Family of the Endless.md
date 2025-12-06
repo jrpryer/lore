@@ -15,8 +15,8 @@ Of the Endless,
 **Fate**: [[Fate|Asteria]] on Kanyiirah | Avæylith on [[Yggrāhkærn|Olession's Lash]]
 The definition of destiny, reverberation, causality, and foresight. It is the pinnacle of cosmic knowledge and interconnectivity. Without it, the truth of what is certain would be hidden, without any hope of peaking into what can or cannot come to pass. Fate governs the endless potential paths of reality. It's domain expands into the multiverse’s infinite permutations, representing every possible future or choice. Avatars often appear as guides, oracles, tethers, or eyes, presenting mortals with crossroads that define their destinies.
   
-**Entropy**: [[Entropy|Tevros]] on Kanyiirah | Mykaedra on [[Muérai]]
-The presence tied to destruction, withering, descent, submersion, falling, and endless depths. It is the slow spiral down, the force that pulls always deeper. Mykaedra's touch creates unexplainable abysses—bottomless pits, unfathomable ocean trenches, or the deep gnawing sense of loss. Those who encounter it are drawn toward literal or metaphorical descent and loss, eventually succumbing to the nothingness at the bottom, at the end of all things.
+**Entropy**: [[Entropy|Tevros]] on Kanyiirah | Mykædra on [[Muéræ]]
+The presence tied to destruction, withering, descent, submersion, falling, and endless depths. It is the slow spiral down, the force that pulls always deeper. Mykædra's touch creates unexplainable abysses—bottomless pits, unfathomable ocean trenches, or the deep gnawing sense of loss. Those who encounter it are drawn toward literal or metaphorical descent and loss, eventually succumbing to the nothingness at the bottom, at the end of all things.
 
 **Life**: [[Life|Rhajos]] on Kanyirrah | Liën (Xëkliën), (aka. The Echoing Radiance) within [[Lämmrus]]
 The definition of radiance, interconnection, energy, light, life, and virility. It is the essence of will and volition. Without it, there would be no comprehension of brightness or the contrast that defines shadow. It remains the purest fragment of the harmony at the universal Origin, maintaining the luster of the first tone.

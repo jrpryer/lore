@@ -13,10 +13,10 @@ By way of Aether, stitched and layered within the Mundane realm lies the **Ether
 
 - **Harmonic Ethereal** (Upper layer): This is the warmer, luminous, and dreamlike aspect of the Ethereal, where spirits of guidance, inspiration, and benevolence dwell. It is also the layer traversed by the [[Passions & Apathies|Passions]].
 
-- **Umbral Ethereal** (Lower layer): This is the colder, murkier layer, where spirits of malcontent, shadow, and illusion linger. It is associated with legends of necromancy, lost knowledge, and secret paths, like those that lead to the [[Muérai|Gates of Silence]]. It is also the layer traversed by the [[Passions & Apathies|Apathies]].
+- **Umbral Ethereal** (Lower layer): This is the colder, murkier layer, where spirits of malcontent, shadow, and illusion linger. It is associated with legends of necromancy, lost knowledge, and secret paths, like those that lead to the [[Muéræ|Gates of Silence]]. It is also the layer traversed by the [[Passions & Apathies|Apathies]].
 
 When mortals are exposed to the Ethereal plane, they often struggle to perceive which layer they are reaching — for just because something _feels_ warm or inviting doesn’t mean it isn’t dangerous, and just because something *looks* strange or unsettling doesn’t make it malicious. 
 
 At the fringe of the Ethereal plane, existing at an unknown distance within an imperceivable 4th dimension lies the **Beyond**, the plane of souls walked only by the %% Endless %% Fathers and Mothers of Kanyiirah, and perhaps other unknown gods of chaos.
 
-> Little is known about the Beyond, though it is believed to be the destination of all Kanyiiran souls, passing into the plane when they step through the [[Muérai|Gates of Silence]]. This locale also loosely resembles the Shrouded Land, or Void, as it appears in the rare few recovered [[Idanthi]] manuscripts.
+> Little is known about the Beyond, though it is believed to be the destination of all Kanyiiran souls, passing into the plane when they step through the [[Muéræ|Gates of Silence]]. This locale also loosely resembles the Shrouded Land, or Void, as it appears in the rare few recovered [[Idanthi]] manuscripts.

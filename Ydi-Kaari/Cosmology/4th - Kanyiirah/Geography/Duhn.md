@@ -17,10 +17,10 @@ Eastern Duhnians are ingenuitive, militaristic, and feudal, populating the might
 Central Duhnians are exploratory — and sometimes hermitic — survivalists. They wonder the arid desert at the center of Duhn and live the mesa highlands along the central northern coast. 
 Western Duhnians are attuned, peaceful protectors of the Gleamwood, represented almost exclusively by members of the [[Erdú]] clan.
 
-The dominating eastern presence of [[House Tarahn]] contains the largest population of lineages within the sacred isles, bosting the highest count of [[Tieflings]] in their central cities, along with high numbers of Gnome [[Smallfolk]] and [[Elvi]], followed by smaller minorities of [[Oread]], and [[Hobgoblin]] populations.
+The dominating eastern presence of [[House Tarahn]] contains the largest population of lineages within the sacred isles, bosting the highest count of [[Syderean]] in their central cities, along with high numbers of Gnome [[Smallfolk]] and [[Elvi]], followed by smaller minorities of [[Oread]], and [[Hobgoblin]] populations.
 
 - - -
-On the western coast lie the vast forests of Duhnian lumberyards. These are carefully cared for by the [[Erdú|Erdú clan]] that consists of several groups of rotating leadership. Chief among them are the great [[Alseid]] families, as well as [[Elvi]] of the Wood, and protective [[Nagaji]]%% , and reclusive [[Ghoran]] %%. Additionally, a group of [[Aqualii#Shae’thalis|Shae’thalis Aqualii]] and a small handful of [[Hobgoblin#Wildings|Hobgoblin Wildings]] are also known to have settled the northern edges of the forests.
+On the western coast lie the vast forests of Duhnian lumberyards. These are carefully cared for by the [[Erdú|Erdú clan]] that consists of several groups of rotating leadership. Chief among them are the great [[Alseid]] families, as well as [[Elvi]] of the Wood, and protective [[Nagaji]]%% , and reclusive [[Ghoran]] %%. Additionally, a group of [[Aqualii#Shae’thalis|Shae’thalis Aqualii]] and small handfuls of [[Hobgoblin#Wildings|Hobgoblin Wildings]] are also known to have settled the northern edges of the forests.
 
 - - -
 In the northern center of the isle lies the coastal bastion of [[Pahlássia]], the mighty city state of industry and exports. Though they are quite selective on who they allow to settle within their walls, the city sports a motley assortment of lineages, including a high percentage of [[Smallfolk]], [[Oread]], and [[Urik]]. [[Hobgoblins]] are also known to find easy employment here as well.
